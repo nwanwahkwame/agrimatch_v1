@@ -1,2 +1,4 @@
-python
-hdx-python-api==6.6.8
+pandas
+numpy
+glob
+hdx-python-api

@@ -1,16 +1,16 @@
-date,year,month,day,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
-2020-02-15,2020,2,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,293.46
-2020-04-15,2020,4,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,590.78
-2020-05-15,2020,5,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,345.93
-2020-06-15,2020,6,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,730.66
-2020-07-15,2020,7,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,293.46
-2020-08-15,2020,8,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,260.86
-2020-09-15,2020,9,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,251.54
-2021-02-15,2021,2,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,128.7
-2021-03-15,2021,3,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,478.92
-2021-04-15,2021,4,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,512.51
-2021-05-15,2021,5,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,512.51
-2022-05-15,2022,5,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,666.64
-2023-02-15,2023,2,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,1223.53
-2023-03-15,2023,3,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,917.65
-2023-04-15,2023,4,15,Koforidua,NEW JUABEN MUNICIPAL,212,6.08,-0.25,109 ,aggregate,Wholesale,242.42
+date,year,month,day,city,latitude,longitude,cedi_price,cedi_price/(KG)
+2020-02-15,2020,2,15,Koforidua,6.08,-0.25,293.46,2.69
+2020-04-15,2020,4,15,Koforidua,6.08,-0.25,590.78,5.42
+2020-05-15,2020,5,15,Koforidua,6.08,-0.25,345.93,3.17
+2020-06-15,2020,6,15,Koforidua,6.08,-0.25,730.66,6.7
+2020-07-15,2020,7,15,Koforidua,6.08,-0.25,293.46,2.69
+2020-08-15,2020,8,15,Koforidua,6.08,-0.25,260.86,2.39
+2020-09-15,2020,9,15,Koforidua,6.08,-0.25,251.54,2.31
+2021-02-15,2021,2,15,Koforidua,6.08,-0.25,128.7,1.18
+2021-03-15,2021,3,15,Koforidua,6.08,-0.25,478.92,4.39
+2021-04-15,2021,4,15,Koforidua,6.08,-0.25,512.51,4.7
+2021-05-15,2021,5,15,Koforidua,6.08,-0.25,512.51,4.7
+2022-05-15,2022,5,15,Koforidua,6.08,-0.25,666.64,6.12
+2023-02-15,2023,2,15,Koforidua,6.08,-0.25,1223.53,11.23
+2023-03-15,2023,3,15,Koforidua,6.08,-0.25,917.65,8.42
+2023-04-15,2023,4,15,Koforidua,6.08,-0.25,242.42,2.22

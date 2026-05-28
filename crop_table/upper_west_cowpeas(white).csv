@@ -1,4 +1,4 @@
-date,year,month,day,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
-2020-08-15,2020,8,15,Wa,WA MUNICIPAL,222,10.05,-2.48,109 ,aggregate,Wholesale,261.6
-2020-09-15,2020,9,15,Wa,WA MUNICIPAL,222,10.05,-2.48,109 ,aggregate,Wholesale,305.2
-2022-09-15,2022,9,15,Wa,WA MUNICIPAL,222,10.05,-2.48,109 ,aggregate,Wholesale,265.91
+date,year,month,day,city,latitude,longitude,cedi_price,cedi_price/(KG)
+2020-08-15,2020,8,15,Wa,10.05,-2.48,261.6,2.4
+2020-09-15,2020,9,15,Wa,10.05,-2.48,305.2,2.8
+2022-09-15,2022,9,15,Wa,10.05,-2.48,265.91,2.44

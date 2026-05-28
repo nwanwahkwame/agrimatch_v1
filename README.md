@@ -21,3 +21,22 @@ In addition to the project, we are connects farmers to waste-processing industri
 ## Dataset
 
 Data was sourced from HDX and split into locations and sub-split into crops. This allowed as us to do a `Time Series` analysis on specific crops from specific locations. It spans 2006 to 2023, a significant enough period for analysis. Some crops had to be dropped entirely from the analysis. There were issues of unquantifiable conversions per price and weight, so they were ultimately dropped. Farmer data was also sourced from individuals and used as an SQL database to match with buyers.
+
+## Folder Structure
+
+group6capstone/
+├── action_plans/                   # Meeting plans and decisions (ipynb)
+├── crop_table/                     # Processed crop data based on regions. Fed to SQL (CSV)
+├── images/                         # Test output folder for initial app (CSV, png)
+├── initial_app/                    # Initial Streamlit-based interface, inspired by Claude (CSV)
+├── original_dataset/               # Raw, unprocessed data files (CSV)
+├── region_table/                   # Pre-processed crop data in regions (CSV)
+├── 00.hdx_configuration.ipynb      # HDX configuration
+├── 01.region_splitter.ipynb        # Step 1: Split regions
+├── 02.crop_splitter_v1.ipynb       # Step 2: V1 (Formerly)
+├── 02.crop_splitter_v2.ipynb       # Step 2: Split crops
+├── 03.batch_processor.ipynb        # Step 3: Batch process and cleaning
+├── 04.price_pipeline_claude.ipynb  # Step 4: V1 (Formerly)
+├── 04.price_pipeline_group.ipynb   # Step 4: Predict price
+├── README.md                       # Project documentation
+└── requirements.txt                # Python dependencies

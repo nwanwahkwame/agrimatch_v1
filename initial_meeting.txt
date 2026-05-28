@@ -1,0 +1,26 @@
+Group 6 Capstone Project Musings
+
+Suggested Name: Agri Mall
+Suggested Format: Mobile or Web App
+
+Goal (Subject to change): Like farmers to agricultural services like;
+- vet services,
+- mechanization services,
+- consultation services and
+- input suppliers (seeds, tools and equipment)
+
+Agri Mall Future Roadmap:
+- Seasonally available crops
+- Events that are ongoing 
+- Weather forecast
+- Vaccinations reminder
+- Best ag practices
+- Forums and seminars
+
+
+Python - Code integration
+SQL - For database management
+Power BI - For dashboards
+Flask or Streamlit - Mobile of web app user interface
+
+The issue now is how to obtain data to back whatever we will do. If we're going to need a database, we will need data.

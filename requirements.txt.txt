@@ -1,0 +1,2 @@
+python
+hdx-python-api==6.6.8

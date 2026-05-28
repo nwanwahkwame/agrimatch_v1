@@ -1,0 +1,199 @@
+date,year,month,day,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+2008-01-15,2008,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,133.75
+2008-02-15,2008,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,133.75
+2008-03-15,2008,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,136.67
+2008-04-15,2008,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,137.5
+2008-05-15,2008,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,140.0
+2008-06-15,2008,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,155.0
+2008-07-15,2008,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,170.0
+2008-08-15,2008,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,153.25
+2008-09-15,2008,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,120.0
+2008-10-15,2008,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,115.0
+2008-11-15,2008,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,114.0
+2008-12-15,2008,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,155.0
+2009-01-15,2009,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,168.0
+2009-02-15,2009,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,147.5
+2009-03-15,2009,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,152.5
+2009-04-15,2009,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,167.5
+2009-05-15,2009,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,160.0
+2009-06-15,2009,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,168.0
+2009-07-15,2009,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,160.0
+2009-08-15,2009,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,142.0
+2009-09-15,2009,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,150.0
+2009-10-15,2009,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,181.25
+2009-11-15,2009,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,157.5
+2009-12-15,2009,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,157.5
+2010-01-15,2010,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,165.0
+2010-02-15,2010,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,192.5
+2010-03-15,2010,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,205.0
+2010-04-15,2010,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,187.5
+2010-05-15,2010,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,158.0
+2010-06-15,2010,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,165.0
+2010-07-15,2010,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,178.0
+2010-08-15,2010,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,160.0
+2010-09-15,2010,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,157.5
+2010-10-15,2010,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,188.0
+2010-11-15,2010,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,202.5
+2011-01-15,2011,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,191.67
+2011-02-15,2011,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,214.0
+2011-03-15,2011,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,245.0
+2011-04-15,2011,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,247.5
+2011-05-15,2011,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,250.0
+2011-06-15,2011,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,262.5
+2011-07-15,2011,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,282.5
+2011-08-15,2011,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,210.0
+2011-09-15,2011,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,165.0
+2011-10-15,2011,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,177.5
+2011-11-15,2011,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,195.0
+2011-12-15,2011,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,204.0
+2012-01-15,2012,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,252.5
+2012-02-15,2012,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,277.5
+2012-03-15,2012,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,292.0
+2012-04-15,2012,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,305.0
+2012-05-15,2012,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,300.0
+2012-06-15,2012,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,314.0
+2012-07-15,2012,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,350.0
+2012-08-15,2012,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,295.0
+2012-09-15,2012,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,315.0
+2012-10-15,2012,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,260.0
+2012-11-15,2012,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,272.5
+2012-12-15,2012,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,346.0
+2013-01-15,2013,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,337.5
+2013-02-15,2013,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,360.0
+2013-03-15,2013,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,397.5
+2013-04-15,2013,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,430.0
+2013-05-15,2013,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,360.0
+2013-06-15,2013,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,298.0
+2013-07-15,2013,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,262.5
+2013-08-15,2013,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,276.0
+2013-09-15,2013,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,302.5
+2013-10-15,2013,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,350.0
+2013-11-15,2013,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,350.0
+2013-12-15,2013,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,350.0
+2014-01-15,2014,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,350.0
+2014-02-15,2014,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,372.5
+2014-03-15,2014,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,380.0
+2014-04-15,2014,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,350.0
+2014-05-15,2014,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2014-06-15,2014,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2014-07-15,2014,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2014-08-15,2014,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2014-09-15,2014,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2014-10-15,2014,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2014-11-15,2014,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2014-12-15,2014,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2015-01-15,2015,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,15.0
+2015-02-15,2015,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,380.0
+2015-03-15,2015,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,390.0
+2015-04-15,2015,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,382.5
+2015-05-15,2015,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,384.0
+2015-06-15,2015,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2015-07-15,2015,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,295.0
+2015-10-15,2015,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,380.0
+2015-11-15,2015,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,385.0
+2015-12-15,2015,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2016-01-15,2016,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2016-02-15,2016,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2016-03-15,2016,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2016-04-15,2016,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,400.0
+2016-05-15,2016,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,425.0
+2016-06-15,2016,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,450.0
+2016-07-15,2016,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,414.0
+2016-08-15,2016,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,365.0
+2016-09-15,2016,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,500.0
+2016-10-15,2016,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,460.0
+2016-11-15,2016,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,480.0
+2016-12-15,2016,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,490.0
+2017-01-15,2017,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,550.0
+2017-06-15,2017,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,540.0
+2017-07-15,2017,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,900.0
+2017-09-15,2017,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,264.0
+2017-10-15,2017,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,696.76
+2017-11-15,2017,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,733.0
+2018-10-15,2018,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,639.5
+2019-04-15,2019,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,1014.45
+2019-05-15,2019,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,807.34
+2019-06-15,2019,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,1205.84
+2019-07-15,2019,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,1206.21
+2019-10-15,2019,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,642.89
+2019-11-15,2019,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,825.05
+2019-12-15,2019,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,883.84
+2020-01-15,2020,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,675.0
+2020-02-15,2020,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,733.05
+2020-03-15,2020,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,100 ,actual,Wholesale,537.5
+2019-08-15,2019,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,330.0
+2019-08-15,2019,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.93
+2019-09-15,2019,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,330.0
+2019-09-15,2019,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.96
+2019-10-15,2019,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,330.0
+2019-10-15,2019,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.93
+2019-11-15,2019,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,330.0
+2019-11-15,2019,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.93
+2019-12-15,2019,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,328.6
+2019-12-15,2019,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.93
+2020-01-15,2020,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,372.0
+2020-01-15,2020,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,9.6
+2020-02-15,2020,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,668.13
+2020-02-15,2020,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,3.73
+2020-03-15,2020,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,315.0
+2020-03-15,2020,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,6.89
+2020-04-15,2020,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1234.88
+2020-04-15,2020,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,6.38
+2020-05-15,2020,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1194.15
+2020-05-15,2020,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,6.39
+2020-06-15,2020,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1007.19
+2020-07-15,2020,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,668.13
+2020-07-15,2020,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,4.98
+2020-08-15,2020,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1168.03
+2020-08-15,2020,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,6.43
+2020-10-15,2020,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,324.8
+2020-10-15,2020,10,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.28
+2020-11-15,2020,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,324.8
+2020-11-15,2020,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.28
+2020-12-15,2020,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,361.6
+2020-12-15,2020,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.8
+2021-01-15,2021,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,361.6
+2021-01-15,2021,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,5.14
+2021-02-15,2021,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,5.21
+2021-03-15,2021,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,863.1
+2021-03-15,2021,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,4.91
+2021-04-15,2021,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,838.79
+2021-04-15,2021,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,5.39
+2021-05-15,2021,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,840.26
+2021-05-15,2021,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,4.48
+2021-06-15,2021,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,706.35
+2021-06-15,2021,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,8.56
+2021-07-15,2021,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1106.87
+2021-07-15,2021,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,6.86
+2021-08-15,2021,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1162.11
+2021-08-15,2021,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,6.73
+2022-03-15,2022,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,4.55
+2022-04-15,2022,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,5.9
+2022-05-15,2022,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1700.0
+2022-05-15,2022,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.18
+2022-06-15,2022,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1700.0
+2022-06-15,2022,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.79
+2022-07-15,2022,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,2337.4
+2022-07-15,2022,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,7.06
+2022-08-15,2022,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,2647.72
+2022-08-15,2022,8,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,8.77
+2022-09-15,2022,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,2370.3
+2022-09-15,2022,9,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,8.86
+2022-11-15,2022,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,2092.56
+2022-11-15,2022,11,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,8.47
+2022-12-15,2022,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1954.17
+2022-12-15,2022,12,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,8.53
+2023-01-15,2023,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1612.37
+2023-01-15,2023,1,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,6.79
+2023-02-15,2023,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,978.67
+2023-02-15,2023,2,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,13.24
+2023-03-15,2023,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1125.95
+2023-03-15,2023,3,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,5.96
+2023-04-15,2023,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,864.0
+2023-04-15,2023,4,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,17.97
+2023-05-15,2023,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,844.0
+2023-05-15,2023,5,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,21.25
+2023-06-15,2023,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,870.0
+2023-06-15,2023,6,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,21.45
+2023-07-15,2023,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,250 ,aggregate,Wholesale,1219.0
+2023-07-15,2023,7,15,Sekondi/Takoradi,SEKONDI TAKORADI,211,4.93,-1.7,,aggregate,Retail,20.45

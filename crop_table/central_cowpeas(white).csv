@@ -1,0 +1,9 @@
+date,year,month,day,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+2020-01-15,2020,1,15,Cape Coast,CAPE COAST METRO,213,5.11,-1.24,109 ,aggregate,Wholesale,386.14
+2020-02-15,2020,2,15,Cape Coast,CAPE COAST METRO,213,5.11,-1.24,109 ,aggregate,Wholesale,414.67
+2020-04-15,2020,4,15,Cape Coast,CAPE COAST METRO,213,5.11,-1.24,109 ,aggregate,Wholesale,688.43
+2020-05-15,2020,5,15,Cape Coast,CAPE COAST METRO,213,5.11,-1.24,109 ,aggregate,Wholesale,465.2
+2020-06-15,2020,6,15,Cape Coast,CAPE COAST METRO,213,5.11,-1.24,109 ,aggregate,Wholesale,414.67
+2020-07-15,2020,7,15,Cape Coast,CAPE COAST METRO,213,5.11,-1.24,109 ,aggregate,Wholesale,414.67
+2020-08-15,2020,8,15,Cape Coast,CAPE COAST METRO,213,5.11,-1.24,109 ,aggregate,Wholesale,414.67
+2020-09-15,2020,9,15,Cape Coast,CAPE COAST METRO,213,5.11,-1.24,109 ,aggregate,Wholesale,408.75

@@ -1,0 +1,45 @@
+date,year,month,day,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+2019-08-15,2019,8,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,84.86
+2019-09-15,2019,9,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,84.86
+2019-10-15,2019,10,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,84.86
+2019-11-15,2019,11,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,84.86
+2019-12-15,2019,12,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,84.86
+2020-01-15,2020,1,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,84.86
+2020-02-15,2020,2,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,404.07
+2020-03-15,2020,3,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,319.22
+2020-04-15,2020,4,15,Ejura,EJURA SEKYE DUMASE,223,7.38,-1.37,109 ,aggregate,Wholesale,244.91
+2020-04-15,2020,4,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,505.77
+2020-05-15,2020,5,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,438.87
+2020-06-15,2020,6,15,Ejura,EJURA SEKYE DUMASE,223,7.38,-1.37,109 ,aggregate,Wholesale,414.67
+2020-06-15,2020,6,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,657.97
+2020-07-15,2020,7,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,404.07
+2020-08-15,2020,8,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,404.07
+2020-09-15,2020,9,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,363.67
+2020-10-15,2020,10,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,156.73
+2020-11-15,2020,11,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,156.73
+2020-12-15,2020,12,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,156.73
+2021-01-15,2021,1,15,Ejura,EJURA SEKYE DUMASE,223,7.38,-1.37,109 ,aggregate,Wholesale,211.85
+2021-01-15,2021,1,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,215.8
+2021-03-15,2021,3,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,365.13
+2021-04-15,2021,4,15,Ejura,EJURA SEKYE DUMASE,223,7.38,-1.37,109 ,aggregate,Wholesale,290.64
+2021-04-15,2021,4,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,349.16
+2021-05-15,2021,5,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,523.93
+2021-06-15,2021,6,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,523.93
+2021-07-15,2021,7,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,523.93
+2021-11-15,2021,11,15,Ejura,EJURA SEKYE DUMASE,223,7.38,-1.37,109 ,aggregate,Wholesale,146.48
+2021-12-15,2021,12,15,Ejura,EJURA SEKYE DUMASE,223,7.38,-1.37,109 ,aggregate,Wholesale,146.48
+2022-01-15,2022,1,15,Ejura,EJURA SEKYE DUMASE,223,7.38,-1.37,109 ,aggregate,Wholesale,457.49
+2022-01-15,2022,1,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,455.06
+2022-02-15,2022,2,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,367.07
+2022-03-15,2022,3,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,275.66
+2022-04-15,2022,4,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,497.49
+2022-05-15,2022,5,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,555.5
+2022-06-15,2022,6,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,555.5
+2022-07-15,2022,7,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,555.5
+2023-01-15,2023,1,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,403.91
+2023-02-15,2023,2,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,375.39
+2023-03-15,2023,3,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,466.38
+2023-04-15,2023,4,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,468.76
+2023-05-15,2023,5,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,336.81
+2023-06-15,2023,6,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,336.81
+2023-07-15,2023,7,15,Kumasi,KMA,215,6.68,-1.62,109 ,aggregate,Wholesale,915.27

@@ -31,12 +31,12 @@ Data was sourced from HDX and split into locations and sub-split into crops. Thi
 |initial_app/|Folder: Initial Streamlit-based interface, inspired by Claude|CSV|
 |original_dataset/|Folder: Raw, unprocessed data files|CSV|
 |region_table/|Folder: Pre-processed crop data in regions|CSV|
-|00.hdx_configuration.ipynb|HDX configuration|ipynb file|
-|01.region_splitter.ipynb|Step 1: Split regions|ipynb file|
-|02.crop_splitter_v1.ipynb|Step 2: V1 (Formerly)|ipynb file|
-|02.crop_splitter_v2.ipynb|Step 2: Split crops|ipynb file|
-|03.batch_processor.ipynb|Step 3: Batch process and cleaning|ipynb file|
-|04.price_pipeline_claude.ipynb|Step 4: V1 (Formerly)|ipynb file|
-|04.price_pipeline_group.ipynb|Step 4: Predict price|ipynb file|
+|.hdx_configuration.ipynb|HDX configuration|ipynb file|
+|region_splitter.ipynb|Step 1: Split regions|ipynb file|
+|crop_splitter_v1.ipynb|Step 2: V1 (Formerly)|ipynb file|
+|crop_splitter_v2.ipynb|Step 2: Split crops|ipynb file|
+|batch_processor.ipynb|Step 3: Batch process and cleaning|ipynb file|
+|price_pipeline_claude.ipynb|Step 4: V1 (Formerly)|ipynb file|
+|price_pipeline_group.ipynb|Step 4: Predict price|ipynb file|
 |README.md|Project documentation|md file|
 |requirements.txt|Python dependencies|txt file|

@@ -23,20 +23,43 @@ In addition to the project, we are connects farmers to waste-processing industri
 Data was sourced from HDX and split into locations and sub-split into crops. This allowed as us to do a `Time Series` analysis on specific crops from specific locations. It spans 2006 to 2023, a significant enough period for analysis. Some crops had to be dropped entirely from the analysis. There were issues of unquantifiable conversions per price and weight, so they were ultimately dropped. Farmer data was also sourced from individuals and used as an SQL database to match with buyers.
 
 ## Folder Structure
-|Name|Path/Info|Contents/Extension|
-|--|--|--|
-|action_plans/|Folder: Meeting plans and decisions|ipynb|
-|crop_table/|Folder: Processed crop data based on regions, fed to SQL| (CSV)|
-|images/|Folder: Test output folder for initial app|CSV, png|
-|initial_app/|Folder: Initial Streamlit-based interface, inspired by Claude|CSV|
-|original_dataset/|Folder: Raw, unprocessed data files|CSV|
-|region_table/|Folder: Pre-processed crop data in regions|CSV|
-|.hdx_configuration.ipynb|HDX configuration|ipynb file|
-|region_splitter.ipynb|Step 1: Split regions|ipynb file|
-|crop_splitter_v1.ipynb|Step 2: V1 (Formerly)|ipynb file|
-|crop_splitter_v2.ipynb|Step 2: Split crops|ipynb file|
-|batch_processor.ipynb|Step 3: Batch process and cleaning|ipynb file|
-|price_pipeline_claude.ipynb|Step 4: V1 (Formerly)|ipynb file|
-|price_pipeline_group.ipynb|Step 4: Predict price|ipynb file|
-|README.md|Project documentation|md file|
-|requirements.txt|Python dependencies|txt file|
+
+Below is a clear project folder layout with brief descriptions and common file extensions:
+
+```
+data/
+  crop_splits/         CSVs split by region & crop (.csv)
+  original_dataset/    Raw source datasets (.csv)
+  region_splits/       Region-based dataset splits (.csv)
+
+models/                Trained/serialized models (.pkl)
+
+notebooks/             Jupyter notebooks used for exploration (.ipynb)
+
+outputs/               Generated images and artifacts (.jpg, .png)
+
+scripts/               Reusable Python scripts invoked by main pipeline (.py)
+
+main.py                Pipeline entry point (runs preprocessing, training, inference) (.py)
+requirements.txt       Python dependency list (.txt)
+README.md              Project documentation (.md)
+```
+
+# Final Insights
+
+## Key Findings
+- The dataset is suitable for time series forecasting.
+- Seasonal trends exist.
+- SARIMA captures both trend and seasonality.
+- The model can assist:
+  - Farmers
+  - Agribusinesses
+  - Commodity traders
+  - Agricultural policy planners in Ghana
+
+## Possible Improvements
+- Add weather variables
+- Include inflation data
+- Add fuel and transportation costs
+- Compare with Prophet and LSTM models
+- Build market-specific forecasting models

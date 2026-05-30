@@ -1,4 +1,0 @@
-pandas
-numpy
-glob
-hdx-python-api

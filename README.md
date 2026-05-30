@@ -41,6 +41,7 @@ outputs/               Generated images and artifacts (.jpg, .png)
 scripts/               Reusable Python scripts invoked by main pipeline (.py)
 
 main.py                Pipeline entry point (runs preprocessing, training, inference) (.py)
+presentation.py        Gradio frontend UI for presentation, but experimenting with different model (.py)
 requirements.txt       Python dependency list (.txt)
 README.md              Project documentation (.md)
 ```

@@ -89,9 +89,9 @@ def crop_splitter_from_region():
                       'month'], value=df['date'].dt.month, allow_duplicates=True)
 
         # Extract the day
-        if 'day' not in df.columns:
-            df.insert(loc=3, column=[
-                      'day'], value=df['date'].dt.day, allow_duplicates=True)
+        # if 'day' not in df.columns:
+        #     df.insert(loc=3, column=[
+        #               'day'], value=df['date'].dt.day, allow_duplicates=True)
 
         # Set data frame to redenomination baseline year
         df = df[df['year'] >= 2007]
@@ -136,9 +136,15 @@ def crop_splitter_from_region():
                 delimiter = '_'
                 unique_region_name = region+delimiter+unique
 
+                # Define the directory path
+                directory = 'data/crop_splits'
+                
+                # Check if the directory does not exist
+                if not os.path.exists(directory):
+                    os.makedirs(directory)
+                
                 # Save split data frame to folder
-                unique_df.to_csv(
-                    f'data/crop_splits/{unique_region_name}.csv', index=False)
+                unique_df.to_csv(f'{directory}/{unique_region_name}.csv', index=False)
 
         n += 1
 

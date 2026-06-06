@@ -1,0 +1,501 @@
+name,surname_name,crop_to_purchase,phone,region
+Justin,Jefferson,Rice (local),233595214766,Upper East
+Reagan,Savage,Tomatoes (navrongo),233576708717,Western
+Amela,Wade,Rice (paddy),233573683034,Northern
+Tashya,Rosales,Maize,+233230969864,Upper East
+Roanna,Trevino,Yam,+233256665463,Upper East
+Simon,Roberson,Tomatoes (local),+233281824178,Greater Acccra
+Signe,Scott,Soybeans,233505106868,Central
+Hermione,Shaw,Yam,233579489362,Ashanti
+Daquan,Horn,Soybeans,+233252179425,Upper East
+Cain,Stark,Cassava,+233277389486,Brong Ahafo
+Buckminster,Pitts,Eggplants,233566562717,Volta
+Mona,Castaneda,Soybeans,233572868073,Northern
+Ariel,Mcconnell,Peppers (fresh),233540454454,Upper West
+Keiko,Lyons,Tomatoes (local),+233278255536,Greater Acccra
+Charity,Parker,Tomatoes (navrongo),+233256820852,Upper East
+Lev,Pierce,Tomatoes (local),233542846326,Central
+Zeph,Greene,Cowpeas,+233234826036,Greater Acccra
+Ori,Vaughan,Rice (local),+233281436788,Northern
+Melyssa,Mckee,Millet,+233201537341,Northern
+Daryl,Duran,Maize(yellow),233561168728,Eastern
+Charity,Gomez,Onions,+233274056363,Ashanti
+Deacon,Mcmillan,Tomatoes (local),233519118495,Western
+Sonya,Haley,Maize(yellow),233575824915,Northern
+Patricia,Nielsen,Yam,+233273716280,Brong Ahafo
+Amy,Stuart,Cassava,233567174352,Ashanti
+Morgan,Hyde,Peppers (dried),+233258186832,Northern
+Ivan,Dean,Rice (paddy),233578567428,Western
+Kibo,Love,Cowpeas (white),+233255035988,Northern
+Micah,Lewis,Yam (puna),233561439356,Eastern
+Theodore,Salinas,Tomatoes (navrongo),+233271602478,Ashanti
+Jesse,Ramsey,Cowpeas,233554450266,Greater Acccra
+Bradley,Diaz,Tomatoes (local),+233273374215,Ashanti
+Demetrius,Padilla,Eggplants,233589741686,Central
+Kenyon,O'connor,Tomatoes (local),+233206056294,Greater Acccra
+Mallory,Booker,Millet,+233274242378,Eastern
+Brynne,Rice,Rice (paddy),233577735822,Northern
+Gail,Carlson,Cassava,+233233753313,Greater Acccra
+Ivor,Dominguez,Yam,+233247847631,Upper West
+Quinlan,Nunez,Rice (local),233587484832,Upper West
+Noble,Kaufman,Sorghum,233582851816,Greater Acccra
+Lunea,Rollins,Maize(yellow),+233289434861,Ashanti
+Charde,Hurley,Eggplants,+233266424994,Greater Acccra
+Dora,Barrera,Eggplants,233576717988,Eastern
+William,Simmons,Cassava,233534417570,Eastern
+Ulric,Oliver,Peppers (fresh),+233284106217,Upper East
+Kyle,Bernard,Soybeans,+233246531451,Central
+Britanney,Hess,Yam (puna),233574623621,Greater Acccra
+Rylee,Riley,Cassava,+233261945732,Northern
+Kirk,Sheppard,Maize(yellow),233578851799,Western
+Uriel,York,Onions,+233223855758,Central
+Venus,Perry,Soybeans,233582553442,Volta
+Melissa,Parks,Rice (local),+233225046919,Upper East
+Evan,Livingston,Cowpeas,+233244117571,Volta
+Brynne,Hicks,Onions,233590547725,Brong Ahafo
+Mallory,Shepherd,Peppers (dried),+233208556335,Northern
+Micah,Kelley,Rice (paddy),233597472122,Eastern
+Gavin,Ewing,Peppers (fresh),233551147128,Brong Ahafo
+Kirby,Raymond,Tomatoes (local),+233294847026,Western
+Alec,Rasmussen,Millet,+233255351236,Ashanti
+Ryan,Gray,Cowpeas,233586743982,Central
+Xandra,Lott,Peppers (dried),+233233173428,Upper West
+Jerome,Elliott,Soybeans,+233242364734,Northern
+Laith,Sosa,Soybeans,+233267077238,Upper East
+Mari,Merrill,Tomatoes (navrongo),233528701265,Volta
+Nigel,Kirby,Soybeans,233569537183,Volta
+Hiroko,Wilder,Rice (local),+233247736936,Greater Acccra
+James,Rivers,Cowpeas,+233237934575,Ashanti
+Quentin,Patrick,Yam (puna),233544018310,Northern
+Barbara,Rosales,Onions,233517822929,Upper West
+Burke,Odom,Tomatoes (local),+233251111791,Eastern
+Stephen,Gutierrez,Onions,+233240956598,Northern
+Giacomo,Alford,Cowpeas (white),233555436175,Volta
+Tashya,Patel,Cowpeas,233518136415,Volta
+Eric,Key,Peppers (fresh),233574536811,Brong Ahafo
+Brennan,Bradley,Peppers (dried),233558875182,Eastern
+MacKensie,Crane,Onions,233556957268,Greater Acccra
+Illiana,Phelps,Peppers (fresh),233547937652,Western
+Barclay,Hinton,Yam,233533223235,Greater Acccra
+Laurel,Fitzpatrick,Rice (paddy),233508315816,Northern
+Raja,Beach,Yam,233501122852,Volta
+Gareth,Booth,Onions,+233257397373,Upper East
+Maxine,Bauer,Eggplants,233591545352,Northern
+Beverly,Nelson,Sorghum,+233245326106,Upper West
+Chancellor,Watson,Cowpeas (white),233502606238,Northern
+Heather,Mays,Rice (local),+233257235151,Brong Ahafo
+Harlan,Hart,Peppers (dried),233565216187,Western
+Odette,Hinton,Onions,+233228455044,Western
+Grace,Freeman,Tomatoes (local),233510256523,Eastern
+Aileen,Waller,Onions,233514481263,Eastern
+Jenette,Schwartz,Maize,233552876579,Ashanti
+Thaddeus,Caldwell,Soybeans,+233221692793,Volta
+Duncan,Edwards,Yam,233561728515,Central
+Kitra,Wright,Tomatoes (local),+233241428555,Upper East
+Dean,Finley,Cowpeas,+233248143773,Greater Acccra
+Belle,Alford,Rice (local),233552586317,Northern
+Tashya,Castro,Maize,233513683429,Upper East
+Amethyst,Sosa,Soybeans,+233281479476,Ashanti
+Noble,Fuller,Rice (paddy),233570781960,Upper West
+Cain,Knox,Rice (paddy),233548118013,Eastern
+Miriam,Sargent,Maize,+233275404198,Greater Acccra
+Zeph,Mclean,Tomatoes (local),+233202771599,Brong Ahafo
+Wylie,Shaffer,Peppers (fresh),+233251862587,Eastern
+Kristen,Contreras,Soybeans,+233293018239,Northern
+Althea,Love,Cowpeas,233567832621,Ashanti
+Audrey,Boyle,Tomatoes (local),+233243116315,Upper West
+Kimberly,Fischer,Soybeans,+233232547541,Volta
+Craig,Espinoza,Cowpeas (white),233569164848,Volta
+Lacey,Ware,Onions,233582368837,Volta
+Jacob,Bell,Yam,233597855150,Upper East
+Kenyon,Avery,Yam,+233230236145,Upper West
+Fiona,Castillo,Millet,233550071748,Central
+Jessica,Meyer,Rice (paddy),233562826183,Upper West
+Sybill,Walls,Maize(yellow),233589464938,Brong Ahafo
+Glenna,Pickett,Rice (local),233594323193,Brong Ahafo
+Kylie,Garcia,Cowpeas,+233215385580,Volta
+Blake,Espinoza,Cowpeas,233592882220,Ashanti
+Dahlia,Ramos,Yam (puna),233589756218,Eastern
+Bert,Spears,Rice (paddy),+233215789156,Western
+Armando,Harris,Sorghum,+233283541215,Western
+Ina,Wong,Eggplants,233546845360,Upper East
+Jamalia,Wells,Yam (puna),233561275274,Brong Ahafo
+Cara,Rogers,Peppers (dried),+233223933784,Western
+Skyler,Olson,Eggplants,233561585343,Brong Ahafo
+Shafira,Carver,Yam,+233281812673,Greater Acccra
+Katell,Kent,Onions,233561214261,Eastern
+Leah,Beck,Soybeans,233566527424,Central
+Kelly,Pittman,Yam (puna),+233223034118,Ashanti
+Brynne,Randolph,Yam,+233251195112,Greater Acccra
+Anastasia,Kane,Rice (local),233593212690,Eastern
+Gillian,Patrick,Eggplants,233596506057,Greater Acccra
+Perry,Ward,Cowpeas,233555464343,Upper West
+Brandon,Wood,Tomatoes (navrongo),+233202487878,Volta
+Brielle,Montoya,Rice (local),+233258375014,Volta
+Rogan,Mcclain,Peppers (dried),233576807569,Brong Ahafo
+Rhona,Willis,Rice (local),233526131512,Ashanti
+Megan,Johnston,Maize,+233284865302,Northern
+Felix,Wright,Rice (paddy),+233278265387,Upper West
+Hayfa,Santiago,Soybeans,+233221553128,Northern
+Idona,Knowles,Yam (puna),233571314551,Volta
+Craig,Kelly,Yam,+233281152241,Upper East
+Lucy,Webster,Sorghum,233570256828,Western
+Wynne,Cross,Cowpeas (white),233517663773,Eastern
+Minerva,Logan,Sorghum,233509845237,Eastern
+Kirsten,Montgomery,Maize,+233253181514,Ashanti
+Brady,Mcfarland,Cowpeas (white),+233260680345,Volta
+Warren,Ashley,Peppers (dried),+233211982990,Upper East
+Craig,Lloyd,Peppers (dried),+233288687453,Central
+Robert,Simmons,Tomatoes (local),233544853934,Upper East
+Gray,Chase,Peppers (dried),+233286226732,Upper West
+Benedict,Goodwin,Yam,+233242376023,Northern
+Colby,Winters,Sorghum,233542392618,Central
+Xavier,Ochoa,Sorghum,233525081241,Brong Ahafo
+Linda,Mccoy,Onions,233519513729,Greater Acccra
+Katelyn,Estrada,Sorghum,233565364281,Brong Ahafo
+Harrison,Roach,Eggplants,+233250507446,Upper West
+Mona,O'donnell,Cowpeas (white),233557208302,Eastern
+Lucas,Pruitt,Cowpeas,+233227674468,Eastern
+Christine,Fulton,Maize(yellow),+233268855453,Central
+Christian,Waller,Tomatoes (navrongo),233568447713,Ashanti
+Chancellor,Foreman,Sorghum,233574188858,Volta
+Destiny,Parrish,Maize,233562775889,Upper West
+Miranda,Lambert,Eggplants,233545275553,Central
+Merrill,Fuentes,Onions,+233202106490,Ashanti
+Gail,Giles,Rice (local),+233223266351,Upper East
+Amber,Clark,Yam,+233216573774,Central
+Wade,Joyner,Yam,233564352419,Northern
+Reagan,Campos,Sorghum,233578718740,Eastern
+Cruz,Valdez,Tomatoes (local),+233224766185,Northern
+Abraham,Garza,Peppers (fresh),+233251422531,Brong Ahafo
+Orli,Durham,Eggplants,233575767347,Upper West
+Laith,Campbell,Maize,+233210924849,Upper East
+Len,Bird,Peppers (fresh),+233299126640,Ashanti
+Stephen,Chen,Eggplants,+233273838189,Upper East
+Len,Frank,Sorghum,+233255365128,Northern
+Dominic,Edwards,Cowpeas,233529459607,Brong Ahafo
+Roary,Terry,Peppers (fresh),+233237148786,Central
+Marny,Ortiz,Sorghum,+233224066131,Upper East
+Wang,Randall,Tomatoes (navrongo),+233235128697,Upper West
+Rebecca,Knox,Cowpeas,233555783125,Volta
+Palmer,Chambers,Soybeans,233571653836,Upper East
+Branden,Best,Sorghum,+233220586608,Greater Acccra
+Rinah,Lester,Cassava,+233271813205,Western
+Jolie,Lowery,Sorghum,233578967563,Upper East
+Harrison,Flowers,Maize(yellow),233550362340,Western
+Basia,Skinner,Onions,233537255414,Greater Acccra
+Tanisha,Rogers,Millet,+233272842241,Volta
+Rana,Zimmerman,Cassava,233597053782,Upper East
+Brynne,Swanson,Tomatoes (navrongo),233541144801,Ashanti
+Dustin,Hill,Cowpeas (white),+233280252662,Eastern
+Felicia,Burt,Maize(yellow),+233232463312,Ashanti
+Montana,Soto,Cassava,233547465961,Greater Acccra
+Plato,Johnston,Yam,+233270424878,Northern
+Carson,Harris,Millet,233555054277,Greater Acccra
+Mia,Beard,Onions,+233221253655,Upper East
+Amity,Hull,Yam,+233223277677,Greater Acccra
+Deanna,Gilmore,Cassava,+233285050811,Greater Acccra
+Montana,Farley,Soybeans,233536664976,Ashanti
+Harrison,Tillman,Cassava,+233271310316,Eastern
+Amity,Holland,Yam,233527973174,Upper West
+Jillian,Weeks,Yam,+233266526728,Greater Acccra
+Hadassah,Dominguez,Cassava,+233276172774,Volta
+Ella,Woodard,Sorghum,233576984750,Northern
+Unity,Park,Peppers (fresh),+233214143525,Ashanti
+Hoyt,Dominguez,Rice (local),233561543784,Volta
+Sade,Carpenter,Yam,+233275656768,Central
+Damon,Mcbride,Maize,+233256415768,Ashanti
+Marny,Chandler,Yam,233513172303,Central
+Gretchen,Murray,Rice (local),233571326716,Eastern
+Acton,Mcguire,Millet,+233201347375,Upper East
+Charlotte,Acevedo,Rice (paddy),+233218578684,Upper West
+Galvin,May,Eggplants,+233285850354,Greater Acccra
+Chadwick,Cabrera,Onions,+233236505320,Western
+Willa,Gillespie,Rice (local),+233273696456,Upper West
+Erin,Buckley,Cowpeas (white),233547821255,Western
+Roary,Davidson,Cassava,233582537263,Greater Acccra
+Lysandra,Robles,Peppers (fresh),+233229718103,Upper West
+Imogene,Brock,Eggplants,233568351839,Western
+Dorothy,Barnes,Onions,233556857624,Volta
+Justina,Melendez,Yam,233523457324,Upper West
+Jared,Nichols,Cowpeas (white),+233271151561,Eastern
+Malik,Meyers,Maize(yellow),233554402374,Northern
+Quintessa,Witt,Cowpeas,+233247133964,Ashanti
+Hayes,Sykes,Maize,233567910826,Northern
+Salvador,Hines,Soybeans,233530784700,Central
+Joshua,Henderson,Rice (local),233552226733,Volta
+Diana,Stewart,Cassava,+233288236662,Brong Ahafo
+Jonas,Salinas,Rice (paddy),+233208984327,Western
+Yasir,Case,Tomatoes (navrongo),+233216575819,Greater Acccra
+Jessamine,Raymond,Cowpeas,233541148058,Northern
+Noble,Hyde,Rice (local),+233230464766,Greater Acccra
+Madeson,Barton,Maize,+233238882511,Greater Acccra
+Joy,Page,Onions,+233215155046,Northern
+Brynne,Park,Tomatoes (local),233566484335,Upper East
+Kane,Sullivan,Sorghum,+233285211540,Central
+Jaime,Ingram,Tomatoes (navrongo),+233211724213,Upper East
+Amir,Camacho,Maize,233548775233,Central
+Tanya,Bradshaw,Peppers (dried),233558371734,Western
+Imelda,Morris,Maize(yellow),+233218122656,Upper West
+Cameron,Whitney,Maize(yellow),+233226293151,Upper West
+Seth,Keith,Maize,+233211137654,Central
+Cole,Conner,Yam (puna),+233285504632,Greater Acccra
+Alfreda,Henry,Peppers (fresh),+233242948257,Northern
+Gemma,Cotton,Millet,233570658008,Ashanti
+Cameron,Galloway,Rice (paddy),+233275882481,Central
+Kirsten,Conway,Tomatoes (navrongo),233513090378,Northern
+Raja,Miles,Onions,+233237588727,Ashanti
+MacKenzie,Hooper,Eggplants,+233278501289,Volta
+Damon,Farley,Eggplants,+233219463220,Upper East
+Elvis,Dawson,Sorghum,233528417240,Brong Ahafo
+Jelani,Beck,Rice (paddy),+233207182681,Western
+Luke,Burns,Maize,233588136444,Upper East
+Emerald,Chaney,Yam (puna),233527622215,Ashanti
+Alisa,Bray,Sorghum,+233235205705,Volta
+Inga,Perkins,Yam (puna),233548878711,Volta
+Myra,Sampson,Peppers (fresh),233555116236,Western
+Lester,Shaw,Maize(yellow),+233249820421,Eastern
+Amy,Reese,Millet,+233282626274,Western
+Tanisha,Richmond,Peppers (fresh),233566388894,Brong Ahafo
+Ayanna,Snider,Cowpeas (white),233568335873,Brong Ahafo
+Ivan,Humphrey,Soybeans,233518532855,Eastern
+Nero,Holden,Yam (puna),233587555844,Brong Ahafo
+August,Vance,Yam,233560819150,Upper West
+Hector,Holman,Rice (local),+233203632735,Greater Acccra
+Garrison,Jacobson,Eggplants,233591289505,Eastern
+John,Ruiz,Maize,+233293593653,Greater Acccra
+Jack,Butler,Cassava,233525438288,Greater Acccra
+Shea,Tran,Cowpeas,233531953416,Ashanti
+Axel,Cook,Tomatoes (local),+233205768338,Volta
+Merritt,Ward,Peppers (fresh),233522309888,Northern
+Hiram,Paul,Maize,233537235246,Greater Acccra
+Jael,Christian,Peppers (fresh),233561516575,Eastern
+Heidi,Acevedo,Peppers (fresh),+233222372693,Northern
+Cade,Booker,Cowpeas (white),+233282938174,Central
+Raja,Guthrie,Peppers (dried),+233227662270,Volta
+Ashely,Burns,Rice (paddy),+233253983387,Eastern
+Allen,Rowland,Sorghum,233565944788,Eastern
+Steel,Swanson,Eggplants,233526689325,Ashanti
+Ariana,Morales,Eggplants,233513527972,Upper West
+Lilah,Stewart,Eggplants,233512379154,Western
+Jolie,Craft,Sorghum,233592658256,Upper West
+Adrian,Campos,Peppers (fresh),233510553063,Greater Acccra
+Lionel,Todd,Rice (paddy),+233285861411,Ashanti
+Dustin,Marks,Onions,233584684812,Upper West
+Liberty,Bean,Cowpeas,233553188504,Brong Ahafo
+Adara,Hammond,Eggplants,233513212176,Northern
+Hedy,Brennan,Soybeans,+233278376349,Volta
+Ima,Bonner,Cowpeas,233528977147,Upper East
+Keith,Fletcher,Sorghum,233535393626,Central
+Kaye,Conrad,Peppers (dried),233584715223,Volta
+Zeph,Mclaughlin,Maize(yellow),233586737174,Northern
+Adam,Ray,Peppers (dried),233532328177,Volta
+Kevyn,Clemons,Cowpeas,233528221291,Volta
+Sade,Jenkins,Eggplants,+233292495585,Western
+Uriah,Baxter,Soybeans,233587755522,Eastern
+Olga,Wagner,Soybeans,233541463487,Eastern
+Theodore,Valencia,Onions,233530082053,Upper East
+Armando,Blake,Maize(yellow),233547377236,Brong Ahafo
+Lenore,Navarro,Yam,+233224536805,Central
+Jolene,Jefferson,Rice (local),+233221114381,Northern
+Nero,Meyer,Cowpeas,+233245375371,Upper East
+Hilel,Strong,Millet,+233215572515,Northern
+Alma,Weaver,Tomatoes (navrongo),+233290616265,Eastern
+Cynthia,Byrd,Yam (puna),+233213366811,Brong Ahafo
+Alden,Rowland,Yam (puna),233526822180,Eastern
+Flynn,Lawrence,Tomatoes (navrongo),233556791349,Greater Acccra
+Tatum,Powell,Rice (paddy),+233255748447,Ashanti
+Hiram,Benjamin,Cowpeas (white),+233224802613,Central
+Andrew,Becker,Peppers (dried),233576017654,Greater Acccra
+Karyn,Holloway,Tomatoes (local),+233241108454,Central
+Maxwell,Rich,Rice (local),233537562232,Upper East
+Eagan,Stephens,Onions,233522896659,Greater Acccra
+Sopoline,Chaney,Maize(yellow),+233243359015,Upper West
+Wilma,Walters,Maize,233502642075,Northern
+Jordan,Swanson,Tomatoes (local),+233258276924,Greater Acccra
+Phyllis,Allison,Rice (local),+233228748442,Central
+Dillon,Bishop,Onions,+233241388315,Eastern
+Lunea,Reyes,Peppers (fresh),233541053145,Northern
+Emmanuel,Roy,Soybeans,233592137729,Upper West
+Curran,Eaton,Rice (paddy),+233269354551,Eastern
+Theodore,Santos,Onions,233593133301,Brong Ahafo
+Oprah,Valentine,Cowpeas (white),+233261804105,Central
+Brenda,Beasley,Cassava,233531267166,Western
+Christine,Cross,Rice (local),+233271633758,Greater Acccra
+Kimberley,Whitehead,Maize,+233239763175,Northern
+Tara,Newton,Maize,233565458855,Upper West
+Eric,Skinner,Rice (local),+233232143914,Western
+Cedric,Gibson,Tomatoes (navrongo),+233264625541,Brong Ahafo
+Jael,Cameron,Sorghum,233553767606,Ashanti
+Nyssa,Cantu,Eggplants,233557337155,Western
+Paki,Barker,Cowpeas,+233289325137,Northern
+Murphy,Parks,Soybeans,+233278870183,Volta
+Zorita,Rodriquez,Onions,+233214242517,Eastern
+Aurora,Davidson,Cowpeas,233531848263,Northern
+Valentine,Reynolds,Rice (paddy),+233272451723,Central
+Buckminster,Whitfield,Rice (local),+233287687136,Brong Ahafo
+Roanna,Skinner,Maize,+233237019692,Ashanti
+Chase,Nixon,Rice (paddy),+233262922722,Brong Ahafo
+Buffy,Hatfield,Yam,233538877112,Central
+Lamar,Tyson,Peppers (fresh),233521021644,Greater Acccra
+Candice,O'Neill,Onions,+233245186094,Brong Ahafo
+Leigh,Dalton,Eggplants,233544343715,Eastern
+Stacy,Fowler,Tomatoes (local),+233274174980,Upper West
+Thor,Gillespie,Onions,+233279891354,Upper West
+Reuben,Lloyd,Rice (local),+233286339420,Western
+Rajah,Michael,Rice (local),+233254214666,Western
+Benjamin,Todd,Soybeans,233550848815,Upper East
+Deacon,Robles,Yam,233526614266,Greater Acccra
+Tana,Kemp,Rice (local),+233275229167,Upper West
+Nigel,Greer,Yam (puna),233564464469,Northern
+Brendan,Simon,Millet,233512481634,Eastern
+Malik,Mcneil,Maize,233581219275,Upper West
+Luke,Riley,Tomatoes (local),+233276034079,Ashanti
+Hilda,House,Peppers (fresh),233537528651,Brong Ahafo
+Elvis,Frye,Cassava,233562942116,Volta
+Maggie,Herman,Eggplants,+233212774854,Greater Acccra
+Jason,Morse,Soybeans,233527621411,Greater Acccra
+Dieter,Navarro,Sorghum,233571217445,Volta
+Wallace,Hood,Millet,+233247497435,Northern
+Brett,Wood,Yam (puna),233511478633,Western
+Meghan,Clements,Maize(yellow),+233202241728,Eastern
+Bradley,Whitehead,Rice (paddy),233554463477,Central
+Bo,Rice,Rice (local),+233264767346,Brong Ahafo
+Alana,Klein,Rice (local),+233242263472,Ashanti
+Jonah,Crosby,Maize(yellow),233560884723,Western
+Knox,Neal,Sorghum,233522223487,Western
+Petra,Hall,Yam,233582527137,Brong Ahafo
+Jessica,Mclean,Millet,+233254278413,Brong Ahafo
+Ahmed,Cohen,Onions,233596758267,Ashanti
+Baker,Curtis,Millet,233591452894,Greater Acccra
+Ralph,Gordon,Sorghum,+233281826324,Greater Acccra
+Carson,Goodwin,Sorghum,233514457768,Volta
+Ursula,Alexander,Onions,+233260048146,Eastern
+Hadley,Simmons,Millet,233525772517,Volta
+Cameran,Raymond,Sorghum,233597255163,Eastern
+Savannah,Estrada,Tomatoes (local),+233216380174,Greater Acccra
+Morgan,Zimmerman,Yam,233518337325,Eastern
+Abbot,Baker,Yam (puna),+233231330282,Ashanti
+Sylvester,Rivas,Rice (paddy),233575826284,Upper West
+Jerome,Hansen,Yam,+233277129657,Upper West
+Lane,Humphrey,Rice (paddy),+233288217138,Upper West
+Renee,Hubbard,Soybeans,+233243226415,Northern
+Lucian,Dixon,Yam (puna),233532282310,Western
+Kelsie,Francis,Yam (puna),+233273580783,Greater Acccra
+Kirestin,Weeks,Eggplants,+233244479327,Northern
+Emery,Fox,Peppers (fresh),233548177588,Northern
+Ciaran,Klein,Tomatoes (local),233586438732,Upper West
+Nayda,Lancaster,Cowpeas,+233236695285,Volta
+Felix,Mooney,Peppers (dried),+233224531475,Western
+Lewis,Campos,Soybeans,233558475147,Central
+Ulric,Figueroa,Eggplants,+233282141844,Central
+Fleur,Harmon,Peppers (fresh),233528529505,Eastern
+Rebekah,Daugherty,Cassava,233505887654,Central
+Lane,Day,Sorghum,233571475589,Upper West
+Deirdre,West,Cowpeas (white),233537924768,Upper West
+Upton,Guthrie,Rice (paddy),+233238638822,Central
+Baxter,Evans,Onions,+233228023467,Central
+Thor,Roth,Millet,233532499751,Brong Ahafo
+Dorian,Jones,Peppers (dried),+233207340334,Brong Ahafo
+Glenna,Salazar,Yam,233511331368,Northern
+Burton,Norris,Onions,233558884546,Greater Acccra
+David,Cantrell,Tomatoes (navrongo),+233203174177,Northern
+Kenyon,Gutierrez,Maize,+233224066396,Central
+Lester,Madden,Cowpeas,233534456524,Brong Ahafo
+Oleg,Mcconnell,Onions,233555511506,Brong Ahafo
+Chaim,Dotson,Rice (local),+233231675766,Greater Acccra
+Caesar,Nieves,Yam,233545235166,Greater Acccra
+Daphne,Perry,Cassava,233507660273,Volta
+Eugenia,Holland,Eggplants,233523814826,Brong Ahafo
+Hannah,David,Millet,233581288136,Upper East
+Martina,Mcfadden,Yam,+233297784164,Eastern
+Abel,Knight,Yam,233544125645,Brong Ahafo
+Chanda,Johns,Rice (local),233543607321,Volta
+Tara,Russo,Eggplants,+233246269472,Ashanti
+Mufutau,Wynn,Maize,233556487562,Eastern
+Garrett,Blanchard,Eggplants,233583787753,Volta
+Aimee,Beck,Rice (paddy),+233235709218,Ashanti
+Carl,Lang,Sorghum,233501755272,Ashanti
+Keely,Woodward,Maize,233577316413,Eastern
+Keiko,Stevens,Tomatoes (local),+233294316221,Northern
+Cora,Wagner,Cowpeas,+233210613411,Northern
+Adara,Welch,Maize,+233263862156,Northern
+Teagan,Savage,Yam (puna),+233203047695,Greater Acccra
+Hamish,Rivas,Cassava,233549486783,Upper West
+Debra,Rice,Cassava,+233263258636,Northern
+Rina,Byers,Rice (paddy),+233247581739,Northern
+Oprah,Huff,Yam,233562559718,Volta
+Adara,Walters,Onions,233579224768,Upper East
+Rafael,Mitchell,Maize,233522944339,Western
+Scarlett,Barton,Cowpeas,+233218805258,Eastern
+Emery,Joyner,Sorghum,+233246541813,Greater Acccra
+Mallory,Potts,Tomatoes (local),233500847333,Ashanti
+Jana,Norton,Eggplants,+233290240232,Greater Acccra
+Audrey,Woods,Yam (puna),233558335743,Brong Ahafo
+Zelda,Mckay,Rice (local),+233212244080,Greater Acccra
+Knox,Robles,Rice (local),233584354553,Brong Ahafo
+Breanna,Collier,Yam,+233251909645,Upper West
+Marshall,Koch,Soybeans,+233235378808,Eastern
+Doris,Hurst,Cassava,233588469127,Volta
+Michael,Richmond,Cowpeas (white),+233287765477,Central
+Quinn,Ferrell,Sorghum,+233225064382,Upper West
+Zenaida,Buckner,Maize,233561512877,Central
+Angelica,Merrill,Cowpeas,233536736041,Western
+Madonna,Blankenship,Peppers (dried),233572214454,Central
+Wynter,Roy,Soybeans,+233264366223,Ashanti
+Leigh,Luna,Yam (puna),233544216573,Ashanti
+Kessie,Henderson,Rice (local),+233242629527,Northern
+Barclay,Sharpe,Cowpeas (white),+233268363950,Upper West
+Leandra,Mills,Yam (puna),+233252951822,Eastern
+Brendan,Murray,Onions,+233256470166,Eastern
+Dahlia,Huffman,Peppers (dried),233572208250,Brong Ahafo
+Oprah,Curtis,Sorghum,+233262726652,Western
+Destiny,Decker,Maize(yellow),233578174812,Greater Acccra
+Igor,Bell,Rice (local),+233267126247,Volta
+Zephr,Houston,Peppers (dried),233591142156,Brong Ahafo
+Miranda,Shepherd,Rice (local),+233261916183,Northern
+Demetrius,Yates,Maize,233544280498,Eastern
+Adrienne,Snow,Rice (local),+233213731343,Western
+Harlan,Dunlap,Maize(yellow),233515111223,Brong Ahafo
+Chaney,Landry,Eggplants,233549434738,Brong Ahafo
+Harriet,Mathis,Maize,233588431942,Brong Ahafo
+Daryl,Barr,Onions,+233296842096,Western
+Ignatius,Glass,Tomatoes (local),233513735209,Eastern
+Neil,Summers,Rice (paddy),+233275968318,Ashanti
+Gemma,Mathis,Cowpeas,+233238842453,Ashanti
+Leilani,Emerson,Cassava,233585776381,Northern
+Kaye,George,Tomatoes (local),233556784706,Volta
+Kenneth,Dyer,Cowpeas,+233298365461,Brong Ahafo
+Shad,Quinn,Maize(yellow),233596579746,Central
+Nathaniel,Bauer,Yam (puna),233531878288,Upper West
+Omar,Sloan,Millet,+233252858432,Eastern
+Clayton,Johnston,Sorghum,233567183386,Greater Acccra
+Minerva,Vaughn,Sorghum,233564477379,Upper West
+Knox,Gilmore,Onions,233504753774,Greater Acccra
+Glenna,Atkins,Tomatoes (local),233555675869,Ashanti
+Benedict,Clay,Eggplants,233546236216,Volta
+Hakeem,Montgomery,Maize,+233277078893,Volta
+Cecilia,Orr,Maize(yellow),233546424405,Eastern
+Alan,Mckinney,Eggplants,233567330107,Ashanti
+Dorian,Bell,Maize(yellow),+233276368305,Brong Ahafo
+Orlando,Sparks,Maize,233558346965,Greater Acccra
+Aaron,Allison,Maize,233557505680,Ashanti
+Diana,Carrillo,Peppers (fresh),233541579224,Ashanti
+Carson,Lane,Cowpeas (white),+233271792636,Upper West
+Jared,Schultz,Maize,233504231336,Volta
+Kirk,Hopper,Onions,+233223184824,Ashanti
+Macy,Stephens,Soybeans,+233281838631,Brong Ahafo
+Kevin,Horton,Eggplants,+233272664816,Western
+Amery,Chaney,Tomatoes (local),233579891181,Upper East
+Nayda,Weber,Eggplants,233595045648,Upper West
+Violet,Vargas,Maize,233517667421,Central
+Cain,Lowe,Yam,+233207088645,Upper West
+Lars,Hamilton,Maize(yellow),233564610128,Upper West
+Imani,Weaver,Cowpeas,233527087865,Upper East
+Yoshio,Mclean,Tomatoes (navrongo),+233216791778,Volta
+Tucker,Hays,Tomatoes (local),233592712334,Volta
+Nichole,Spears,Yam,+233202414473,Ashanti
+Ishmael,Mcdaniel,Cowpeas,233574465332,Greater Acccra
+Bevis,Fox,Sorghum,233559848223,Volta
+Cally,Massey,Cassava,+233259945159,Northern
+Ethan,Dodson,Millet,+233258030288,Western

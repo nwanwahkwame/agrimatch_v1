@@ -1,6 +1,7 @@
 # Import relevant dependencies
 import pandas as pd
 import numpy as np
+import os
 
 # Step 1------------------------------------------------------------
 
@@ -74,8 +75,15 @@ def split_dataframe(df: pd.DataFrame = load_CSV('data/original_dataset/wfp_food_
 
         unique = unique.replace(' ', '_')
 
-        # Save split data frame to folder
-        unique_df.to_csv(f'data/region_splits/{unique}.csv', index=False)
+        # Define the directory path
+        directory = 'data/region_splits'
+        
+        # Check if the directory does not exist
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+            
+        # Save split data frame to folder        
+        unique_df.to_csv(f'{directory}/{unique}.csv', index=False)
 
         n += 1
 

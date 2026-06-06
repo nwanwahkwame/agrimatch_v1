@@ -43,7 +43,14 @@ def batch_processing(crop_files=crop_files):
         # File name
         base = os.path.splitext(os.path.basename(file))[0]
 
+        # Define the directory path
+        directory = 'data/crop_splits'
+        
+        # Check if the directory does not exist
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        
         # Save to same path
-        df.to_csv(f'data/crop_splits/{base}.csv', index=False)
+        df.to_csv(f'{directory}/{base}.csv', index=False)
 
     print('Report: Data cleaning successful.')

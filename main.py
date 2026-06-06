@@ -18,4 +18,4 @@ bp.batch_processing()
 sp.sql_processor()
 
 # Step 5 -> cf: Currently runs prediction for ashanti_cassava table only.
-cf.crop_forecaster()
+cf.city_specific_forecast()

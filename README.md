@@ -3,64 +3,84 @@
 1. Ena Ayimey [GitHub](https://github.com/Ena753 "Ena's profile")
 2. Kwame Boadi Nwanwah [GitHub](https://github.com/nwanwahkwame "Kwame's profile")
 3. Olivia Matey [GitHub](https://github.com/mateyolivia-maker "Livy's repo")
-4. Robert Ewonam Agbo [GitHub](https://github.com/Ing-RAKE "Ing_Rake's  repo")
+4. Robert Ewonam Agbo [GitHub](https://github.com/Ing-RAKE "Ing_Rake's repo")
 5. Rebecca Eshun [GitHub](https://github.com/Eshun-Rebecca "Becks' repo")
 
 ## A capstone project
 
-**AgriMart** is a capstone project by fellows of **Blossom Academy**, Data Scientists with certificates in **Data Science**, **Machine Learning**, and **Artificial Intelligence**. 
+**AgriMart** is a capstone project built by fellows of **Blossom Academy** to bridge farmers, buyers, and market intelligence using data science and time series forecasting.
 
 ## Problem Statement
 
-Farmers struggle to find buyers. If a farmer has no guaranteed market outlet, crops sit in suboptimal conditions and rot. In short, a lack of immediate marketability creates the post-harvest crisis and reduces the income for the farmer.  Further more, farmers burn agriculture waste such as maize cob, rice husk, etc., and this a major contribution to the climate change affecting us currently.
+Farmers struggle to find buyers. When crops do not reach a market outlet quickly, they sit in suboptimal conditions and often rot. This post-harvest crisis reduces farmer income and contributes to waste.
 
-As a group, we decided to tackle this issue by building a digital marketplace that predicts produce price and connects farmers directly with buyers and industry processors. This helps buyers safely estimate how much money they will need to make purchases, while also cutting down on food waste within the supply chain. This ensures that more produced food actually reaches the market, supporting food security and promoting sustainable food systems. 
+This project tackles that challenge by building a digital marketplace that:
+- connects farmers directly with buyers,
+- forecasts crop price trends,
+- helps buyers estimate purchase costs,
+- and supports sustainable supply chains.
 
-In addition to the project, we are connects farmers to waste-processing industries or buyers who, in one way or the other, will transform this waste into useful materials, like biochar fertilizers, or who would purchase them to feed animals.
+It also targets waste-processing industries that can convert agricultural byproducts into useful materials such as biochar fertilizers.
 
 ## Dataset
 
-Data was sourced from HDX and split into locations and sub-split into crops. This allowed as us to do a `Time Series` analysis on specific crops from specific locations. It spans 2006 to 2023, a significant enough period for analysis. Some crops had to be dropped entirely from the analysis. There were issues of unquantifiable conversions per price and weight, so they were ultimately dropped. Farmer data was also sourced from individuals and used as an SQL database to match with buyers.
+Data was sourced from the Humanitarian Data Exchange (HDX) and split into regional and crop-specific datasets. The records span 2006 to 2023 and support time series modeling on location-specific agricultural prices.
 
-## Folder Structure
-
-Below is a clear project folder layout with brief descriptions and common file extensions:
+## Project structure
 
 ```
+.env                   Environment variables for secure database credentials
+app/                   Placeholder for future frontend or Streamlit UI code
 data/
-  crop_splits/         CSVs split by region & crop (.csv)
-  original_dataset/    Raw source datasets (.csv)
-  region_splits/       Region-based dataset splits (.csv)
-
-models/                Trained/serialized models (.pkl)
-
-notebooks/             Jupyter notebooks used for exploration (.ipynb)
-
-outputs/               Generated images and artifacts (.jpg, .png)
-
-scripts/               Reusable Python scripts invoked by main pipeline (.py)
-
-main.py                Pipeline entry point (runs preprocessing, training, inference) (.py)
-presentation.py        Gradio frontend UI for presentation, but experimenting with different model (.py)
-requirements.txt       Python dependency list (.txt)
-README.md              Project documentation (.md)
+  crop_splits/         CSV files split by region and crop
+  original_dataset/    Raw dataset sources
+  region_splits/       CSV dataset splits by region
+models/                Serialized or trained model artifacts
+notebooks/             Jupyter notebooks for data exploration and analysis
+outputs/               Generated visualization assets and export files
+scripts/               Reusable pipeline modules for data processing and forecasting
+__init__.py            Python package initializer
+main.py                Pipeline entry point that runs the processing and forecasting flow
+requirements.txt       Python dependency list
+runtime.txt            Python runtime version for deployment
+README.md              Project documentation
 ```
 
-# Final Insights
+## How to set up
 
-## Key Findings
-- The dataset is suitable for time series forecasting.
-- Seasonal trends exist.
-- SARIMA captures both trend and seasonality.
-- The model can assist:
-  - Farmers
-  - Agribusinesses
-  - Commodity traders
-  - Agricultural policy planners in Ghana
+1. Create and activate a Python environment.
+2. Install dependencies:
 
-## Possible Improvements
-- Add weather variables
-- Include inflation data
-- Add fuel and transportation costs
-- Compare with Prophet and LSTM models
-- Build market-specific forecasting models
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the main pipeline:
+
+```bash
+python main.py
+```
+
+## Notes
+
+- `main.py` runs the core pipeline using modules in `scripts/`.
+- `scripts/` contains the data processing steps for region splitting, crop splitting, batch processing, SQL ingestion, and forecasting.
+- `runtime.txt` specifies Python `3.13.12`.
+- `app/` is currently a reserved location for future user interface code.
+- `requirements.txt` includes packages required for the core pipeline and optional interactive tooling.
+
+## Current workspace contents
+
+The repository contains the following active folders and files:
+- `data/` with split datasets and original sources
+- `models/best_model.pkl`
+- `notebooks/` for analysis
+- `outputs/` with generated charts
+- `scripts/` with pipeline modules
+- `main.py` as the orchestrator
+
+## Final insights
+
+- The repository is structured as a data science pipeline with clear preprocessing and forecasting modules.
+- It supports MySQL ingestion via SQLAlchemy and environment variables through `.env`.
+- The codebase is ready for future frontend integration in `app/`.

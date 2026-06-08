@@ -3,7 +3,11 @@ from scripts import region_splitter as rs, \
     crop_splitter as cs, \
     batch_processor as bp, \
     sql_processor as sp, \
-    crop_forecaster as cf
+    train_models as tf
+from statsmodels.tools.sm_exceptions import ConvergenceWarning
+import warnings
+warnings.filterwarnings("ignore", category=ConvergenceWarning)
+warnings.filterwarnings('ignore')
 
 # Step 1 -> rs
 rs.main()
@@ -17,5 +21,5 @@ bp.batch_processing()
 # Step 4 -> sp
 sp.sql_processor()
 
-# Step 5 -> cf: Currently runs prediction for ashanti_cassava table only.
-cf.city_specific_forecast()
+# Step 5 -> cf
+tf.train_region_crop_models()

@@ -34,13 +34,6 @@ def sql_processor():
     PORT = "3306"
     DATABASE = "crop_database"
 
-    # MySQL database configuration: online
-    # USERNAME = "avnadmin"
-    # PASSWORD = "AVNS_eaB_NSD1Xikw_xQD6Xg"
-    # HOST = "mysql-1bf30f14-group6capstone.l.aivencloud.com"
-    # PORT = "15253"
-    # DATABASE = "defaultdb"
-
     # SQLAlchemy connection
     connection_string = (
         f"mysql+pymysql://{USERNAME}:{PASSWORD}@{HOST}:{PORT}/{DATABASE}")

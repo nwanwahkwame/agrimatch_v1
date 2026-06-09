@@ -28,14 +28,14 @@ st.markdown("<hr class='section-divider'>", unsafe_allow_html=True)
 st.markdown('<div class="section-title" style="text-align:center;">🌽 Shop By Crop</div>',
             unsafe_allow_html=True)
 crop_emojis = {
-    "Maize": "🌽", "Tomato": "🍅", "Cassava": "🪵", "Yam": "🟤",
+    "Maize": "", "Tomato": "🍅", "Cassava": "", "Yam": "",
     "Plantain": "🍌", "Rice": "🍚", "Onion": "🧅", "Pepper": "🌶️",
     "Cocoa": "🍫", "Groundnut": "🥜", "Soybean": "🫘", "Cowpea": "🫛",
 }
-cols = st.columns(6)
+cols = st.columns(5)
 for i, crop in enumerate(CROPS):
-    with cols[i % 6]:
-        if st.button(f"{crop_emojis.get(crop, '🌾')} {crop}",
+    with cols[i % 5]:
+        if st.button(f"{crop_emojis.get(crop, '')} {crop}",
                      key=f"crop_{crop}", use_container_width=True):
             st.switch_page("pages/2_All_Listings.py")
 

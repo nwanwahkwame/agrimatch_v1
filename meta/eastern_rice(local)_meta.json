@@ -1,0 +1,13 @@
+{
+    "table": "eastern_rice(local)",
+    "rows": 69,
+    "mae": 0.12242459806334387,
+    "rmse": 0.1617995437978556,
+    "mape": 8.938870524104537,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

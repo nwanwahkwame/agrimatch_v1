@@ -1,0 +1,13 @@
+{
+    "table": "greater_accra_soybeans",
+    "rows": 47,
+    "mae": 0.32583251725082996,
+    "rmse": 0.4105212220208678,
+    "mape": 38.736260915569616,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

@@ -1,0 +1,13 @@
+{
+    "table": "greater_accra_cowpeas",
+    "rows": 46,
+    "mae": 1.3592751763592876,
+    "rmse": 1.8358334313128868,
+    "mape": 27.228694294733153,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

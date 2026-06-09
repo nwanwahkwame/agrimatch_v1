@@ -1,0 +1,13 @@
+{
+    "table": "eastern_tomatoes(navrongo)",
+    "rows": 34,
+    "mae": 0.5588420485669187,
+    "rmse": 0.6576351501511808,
+    "mape": 49.76587315948947,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

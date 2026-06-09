@@ -1,0 +1,13 @@
+{
+    "table": "northern_maize",
+    "rows": 175,
+    "mae": 0.22351013167547676,
+    "rmse": 0.3140632982038841,
+    "mape": 23.406529550065464,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

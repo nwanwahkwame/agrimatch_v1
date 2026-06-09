@@ -1,0 +1,13 @@
+{
+    "table": "upper_east_onions",
+    "rows": 43,
+    "mae": 3.870883993391616,
+    "rmse": 5.118006988254574,
+    "mape": 61.103724373654074,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

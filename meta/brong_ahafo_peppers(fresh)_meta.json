@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_peppers(fresh)",
+    "rows": 48,
+    "mae": 4.827977672653401,
+    "rmse": 5.643491841179006,
+    "mape": 142.99187788862608,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

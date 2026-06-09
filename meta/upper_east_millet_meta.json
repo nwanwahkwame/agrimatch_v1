@@ -1,0 +1,13 @@
+{
+    "table": "upper_east_millet",
+    "rows": 184,
+    "mae": 0.2451585457867444,
+    "rmse": 0.4178905534018602,
+    "mape": 13.850615362335953,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

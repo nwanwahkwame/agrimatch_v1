@@ -1,0 +1,13 @@
+{
+    "table": "eastern_eggplants",
+    "rows": 36,
+    "mae": 2.0617101277944894,
+    "rmse": 2.769177365992578,
+    "mape": 37.22280900997983,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

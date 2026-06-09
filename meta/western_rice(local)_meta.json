@@ -1,0 +1,13 @@
+{
+    "table": "western_rice(local)",
+    "rows": 153,
+    "mae": 0.5638183320262242,
+    "rmse": 0.8499777688903697,
+    "mape": 18.596755929792668,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

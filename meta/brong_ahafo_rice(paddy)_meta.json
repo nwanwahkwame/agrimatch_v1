@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_rice(paddy)",
+    "rows": 69,
+    "mae": 0.041017844285408805,
+    "rmse": 0.05167577147955248,
+    "mape": 5.151196904830627,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

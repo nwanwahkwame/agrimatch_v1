@@ -1,0 +1,13 @@
+{
+    "table": "ashanti_rice(paddy)",
+    "rows": 75,
+    "mae": 0.03347520776974404,
+    "rmse": 0.04393854889362697,
+    "mape": 3.442711566894264,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

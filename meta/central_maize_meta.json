@@ -1,0 +1,13 @@
+{
+    "table": "central_maize",
+    "rows": 170,
+    "mae": 0.1387405174873178,
+    "rmse": 0.20086375022067318,
+    "mape": 8.84764082866123,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

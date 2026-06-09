@@ -1,0 +1,13 @@
+{
+    "table": "greater_accra_tomatoes(local)",
+    "rows": 47,
+    "mae": 1.8073152810180775,
+    "rmse": 2.5060499720035603,
+    "mape": 411.60256977088767,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

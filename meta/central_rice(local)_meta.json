@@ -1,0 +1,13 @@
+{
+    "table": "central_rice(local)",
+    "rows": 166,
+    "mae": 0.710699322877541,
+    "rmse": 1.2390995311990325,
+    "mape": 19.09271203012284,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

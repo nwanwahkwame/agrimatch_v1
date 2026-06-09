@@ -1,0 +1,13 @@
+{
+    "table": "northern_sorghum",
+    "rows": 166,
+    "mae": 0.22450520347474814,
+    "rmse": 0.36789370785400943,
+    "mape": 17.127113022413685,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

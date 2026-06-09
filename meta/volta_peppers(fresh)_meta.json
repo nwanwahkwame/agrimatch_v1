@@ -1,0 +1,13 @@
+{
+    "table": "volta_peppers(fresh)",
+    "rows": 45,
+    "mae": 1.7297638054607887,
+    "rmse": 2.404906115039275,
+    "mape": 65.99347981024903,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

@@ -1,0 +1,13 @@
+{
+    "table": "upper_west_tomatoes(local)",
+    "rows": 21,
+    "mae": 4.672823934529933,
+    "rmse": 7.110513405716874,
+    "mape": 95.98733907124932,
+    "yearly_seasonality": false,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

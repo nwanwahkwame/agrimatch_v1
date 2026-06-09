@@ -1,0 +1,13 @@
+{
+    "table": "eastern_soybeans",
+    "rows": 30,
+    "mae": 0.2076995808710172,
+    "rmse": 0.32464943809485314,
+    "mape": 26.981864818085704,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

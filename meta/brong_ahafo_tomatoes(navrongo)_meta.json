@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_tomatoes(navrongo)",
+    "rows": 47,
+    "mae": 0.8487727880213575,
+    "rmse": 1.1229913281746022,
+    "mape": 127.8047117429626,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

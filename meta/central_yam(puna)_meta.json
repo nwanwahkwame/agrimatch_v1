@@ -1,0 +1,13 @@
+{
+    "table": "central_yam(puna)",
+    "rows": 46,
+    "mae": 1.6796395125127161,
+    "rmse": 2.510159365728425,
+    "mape": 43.23497101142099,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

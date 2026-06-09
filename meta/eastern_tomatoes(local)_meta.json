@@ -1,0 +1,13 @@
+{
+    "table": "eastern_tomatoes(local)",
+    "rows": 27,
+    "mae": 0.09802992112895055,
+    "rmse": 0.19816042777836326,
+    "mape": 7.946926721191083,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

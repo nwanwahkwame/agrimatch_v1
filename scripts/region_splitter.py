@@ -43,7 +43,7 @@ def load_CSV(dataframe: pd.DataFrame) -> pd.DataFrame:
 # Unique regions
 
 
-def unique_region(df: pd.DataFrame = load_CSV('data/original_dataset/wfp_food_prices_gha.csv')) -> np.array:
+def unique_region(df: pd.DataFrame = load_CSV('data/original_dataset/wfp_food_prices_gha_clean.csv')) -> np.array:
     """
     Create an array of unique regions from the dataframe.
     """
@@ -58,7 +58,7 @@ def unique_region(df: pd.DataFrame = load_CSV('data/original_dataset/wfp_food_pr
 # Split data frame
 
 
-def split_dataframe(df: pd.DataFrame = load_CSV('data/original_dataset/wfp_food_prices_gha.csv')) -> pd.DataFrame:
+def split_dataframe(df: pd.DataFrame = load_CSV('data/original_dataset/wfp_food_prices_gha_clean.csv')) -> pd.DataFrame:
     """
     Split data frame into unique regions.
     """
@@ -77,12 +77,12 @@ def split_dataframe(df: pd.DataFrame = load_CSV('data/original_dataset/wfp_food_
 
         # Define the directory path
         directory = 'data/region_splits'
-        
+
         # Check if the directory does not exist
         if not os.path.exists(directory):
             os.makedirs(directory)
-            
-        # Save split data frame to folder        
+
+        # Save split data frame to folder
         unique_df.to_csv(f'{directory}/{unique}.csv', index=False)
 
         n += 1

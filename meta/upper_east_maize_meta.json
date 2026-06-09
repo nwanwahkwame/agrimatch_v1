@@ -1,0 +1,13 @@
+{
+    "table": "upper_east_maize",
+    "rows": 189,
+    "mae": 0.09180435673376335,
+    "rmse": 0.13293346244671567,
+    "mape": 8.643205555691605,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

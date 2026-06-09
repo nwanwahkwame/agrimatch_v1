@@ -1,0 +1,13 @@
+{
+    "table": "upper_west_peppers(fresh)",
+    "rows": 18,
+    "mae": 3.503602356329063,
+    "rmse": 4.188181514293743,
+    "mape": 52.25094243558005,
+    "yearly_seasonality": false,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

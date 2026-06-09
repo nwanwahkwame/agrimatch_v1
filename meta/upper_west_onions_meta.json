@@ -1,0 +1,13 @@
+{
+    "table": "upper_west_onions",
+    "rows": 26,
+    "mae": 0.6060599464673313,
+    "rmse": 1.077489126486055,
+    "mape": 16.79400258244175,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

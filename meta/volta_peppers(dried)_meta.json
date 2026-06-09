@@ -1,0 +1,13 @@
+{
+    "table": "volta_peppers(dried)",
+    "rows": 42,
+    "mae": 2.0294101185562363,
+    "rmse": 2.564466510599765,
+    "mape": 41.76567308082636,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

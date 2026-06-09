@@ -1,0 +1,13 @@
+{
+    "table": "greater_accra_tomatoes(navrongo)",
+    "rows": 46,
+    "mae": 0.9422770620718556,
+    "rmse": 1.2159554537845538,
+    "mape": 97.23066908891205,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

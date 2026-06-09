@@ -1,0 +1,13 @@
+{
+    "table": "upper_west_tomatoes(navrongo)",
+    "rows": 38,
+    "mae": 0.22327462704863862,
+    "rmse": 0.3604519116279169,
+    "mape": 10.081003993252088,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

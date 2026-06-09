@@ -1,0 +1,13 @@
+{
+    "table": "volta_rice(local)",
+    "rows": 130,
+    "mae": 0.5988714110159556,
+    "rmse": 0.9083849119595279,
+    "mape": 22.27747719189552,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

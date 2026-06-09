@@ -1,0 +1,13 @@
+{
+    "table": "upper_east_rice(local)",
+    "rows": 183,
+    "mae": 0.28652214159119954,
+    "rmse": 0.43324539821018326,
+    "mape": 12.183882562457912,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

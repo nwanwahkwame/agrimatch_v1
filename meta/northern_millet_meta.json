@@ -1,0 +1,13 @@
+{
+    "table": "northern_millet",
+    "rows": 166,
+    "mae": 0.2920475450397689,
+    "rmse": 0.42883047539934577,
+    "mape": 19.50727395044057,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

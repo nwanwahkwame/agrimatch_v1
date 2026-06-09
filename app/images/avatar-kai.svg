@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="bg4" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#1a3050"/>
+      <stop offset="100%" stop-color="#0a1828"/>
+    </radialGradient>
+    <radialGradient id="face4" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#fde8d0"/>
+      <stop offset="100%" stop-color="#e8c0a0"/>
+    </radialGradient>
+    <clipPath id="circle4">
+      <circle cx="200" cy="200" r="195"/>
+    </clipPath>
+  </defs>
+
+  <circle cx="200" cy="200" r="200" fill="url(#bg4)"/>
+
+  <g clip-path="url(#circle4)">
+    <!-- Energy lines decoration -->
+    <line x1="0" y1="380" x2="100" y2="340" stroke="#0aa8c8" stroke-width="1" opacity="0.3"/>
+    <line x1="0" y1="395" x2="80" y2="350" stroke="#0aa8c8" stroke-width="0.5" opacity="0.2"/>
+    <line x1="400" y1="380" x2="300" y2="340" stroke="#0aa8c8" stroke-width="1" opacity="0.3"/>
+    <line x1="400" y1="395" x2="320" y2="350" stroke="#0aa8c8" stroke-width="0.5" opacity="0.2"/>
+    <circle cx="50" cy="80" r="25" fill="none" stroke="#0aa8c8" stroke-width="0.5" opacity="0.2"/>
+    <circle cx="350" cy="100" r="18" fill="none" stroke="#0aa8c8" stroke-width="0.5" opacity="0.2"/>
+
+    <!-- Hair back - spiky -->
+    <ellipse cx="200" cy="175" rx="108" ry="120" fill="#1a2850"/>
+
+    <!-- Spiky hair points -->
+    <path d="M155 140 L140 90 L168 130" fill="#1a2850"/>
+    <path d="M178 128 L172 72 L195 122" fill="#1a2850"/>
+    <path d="M200 124 L200 65 L218 122" fill="#253560"/>
+    <path d="M222 128 L228 72 L205 122" fill="#253560"/>
+    <path d="M245 140 L260 90 L232 130" fill="#253560"/>
+    <path d="M132 165 L105 128 L140 158" fill="#1a2850"/>
+    <path d="M268 165 L295 128 L260 158" fill="#253560"/>
+
+    <!-- Neck -->
+    <rect x="176" y="307" width="48" height="50" rx="8" fill="#e8c0a0"/>
+
+    <!-- Body - jacket -->
+    <path d="M68 400 Q90 345 145 325 Q170 315 200 315 Q230 315 255 325 Q310 345 332 400Z" fill="#152240"/>
+    <!-- Jacket details -->
+    <path d="M200 315 L200 380" stroke="#0aa8c8" stroke-width="2" opacity="0.8"/>
+    <path d="M172 320 Q186 335 200 340" stroke="#0aa8c8" stroke-width="2" fill="none" opacity="0.8"/>
+    <path d="M228 320 Q214 335 200 340" stroke="#0aa8c8" stroke-width="2" fill="none" opacity="0.8"/>
+    <!-- Collar -->
+    <path d="M168 318 L180 308 L200 330 L220 308 L232 318 L200 345Z" fill="#1e3258"/>
+
+    <!-- Face -->
+    <ellipse cx="200" cy="232" rx="90" ry="95" fill="url(#face4)"/>
+
+    <!-- Ears -->
+    <ellipse cx="112" cy="232" rx="13" ry="17" fill="#e8c0a0"/>
+    <ellipse cx="288" cy="232" rx="13" ry="17" fill="#e8c0a0"/>
+    <ellipse cx="112" cy="232" rx="8" ry="11" fill="#d4a080"/>
+    <ellipse cx="288" cy="232" rx="8" ry="11" fill="#d4a080"/>
+
+    <!-- Ear piercings -->
+    <circle cx="113" cy="245" r="3.5" fill="#0aa8c8"/>
+    <circle cx="113" cy="255" r="2.5" fill="#0aa8c8"/>
+
+    <!-- Hair front - messy spikes -->
+    <path d="M115 215 Q112 170 138 148 Q160 128 200 124 Q240 128 262 148 Q288 170 285 215" fill="#1a2850"/>
+    <!-- Front spikes -->
+    <path d="M122 208 Q130 168 150 155 Q133 182 136 220" fill="#253560"/>
+    <path d="M152 156 Q168 138 192 135 Q170 158 168 222" fill="#253560"/>
+    <path d="M208 135 Q232 138 248 156 Q230 158 232 222" fill="#1a2850"/>
+    <path d="M248 155 Q268 168 278 208 Q270 182 264 220" fill="#1a2850"/>
+
+    <!-- Hair highlight - teal streak -->
+    <path d="M200 135 Q204 148 202 165 Q198 148 200 135" fill="#0aa8c8" opacity="0.7"/>
+    <ellipse cx="182" cy="155" rx="12" ry="5" fill="#4a5888" opacity="0.6" transform="rotate(-15 182 155)"/>
+
+    <!-- Eyes - sharp, teal -->
+    <!-- Left eye - slightly narrower/sharper for male -->
+    <ellipse cx="166" cy="237" rx="20" ry="18" fill="#fff"/>
+    <ellipse cx="166" cy="238" rx="14" ry="13" fill="#0a8898"/>
+    <ellipse cx="166" cy="238" rx="9" ry="9" fill="#053848"/>
+    <circle cx="160" cy="233" r="4" fill="#fff"/>
+    <circle cx="172" cy="243" r="2" fill="#fff" opacity="0.5"/>
+    <!-- Sharp upper lid -->
+    <path d="M147 230 Q157 222 166 224 Q175 222 185 230" stroke="#053848" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M147 230 Q156 235 147 242" stroke="#053848" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Right eye -->
+    <ellipse cx="234" cy="237" rx="20" ry="18" fill="#fff"/>
+    <ellipse cx="234" cy="238" rx="14" ry="13" fill="#0a8898"/>
+    <ellipse cx="234" cy="238" rx="9" ry="9" fill="#053848"/>
+    <circle cx="228" cy="233" r="4" fill="#fff"/>
+    <circle cx="240" cy="243" r="2" fill="#fff" opacity="0.5"/>
+    <path d="M215 230 Q225 222 234 224 Q243 222 253 230" stroke="#053848" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M253 230 Q244 235 253 242" stroke="#053848" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Eyebrows - thick, angled -->
+    <path d="M145 218 Q162 208 186 214" stroke="#1a2850" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M214 214 Q238 208 255 218" stroke="#1a2850" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+    <!-- Scar on cheek - anime hero detail -->
+    <line x1="253" y1="252" x2="265" y2="270" stroke="#c09080" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+
+    <!-- Nose - slightly larger for male -->
+    <path d="M194 272 Q200 278 206 272" stroke="#c89870" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M196 268 Q194 272 194 275" stroke="#c89870" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M204 268 Q206 272 206 275" stroke="#c89870" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Mouth - determined expression -->
+    <path d="M185 290 Q200 298 215 290" stroke="#c07858" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <line x1="185" y1="290" x2="188" y2="288" stroke="#c07858" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- Slight blush from action -->
+    <ellipse cx="148" cy="258" rx="20" ry="10" fill="#e09080" opacity="0.18"/>
+    <ellipse cx="252" cy="258" rx="20" ry="10" fill="#e09080" opacity="0.18"/>
+  </g>
+
+  <circle cx="200" cy="200" r="195" fill="none" stroke="#0a88b8" stroke-width="4"/>
+  <circle cx="200" cy="200" r="188" fill="none" stroke="#1a3868" stroke-width="1.5"/>
+</svg>

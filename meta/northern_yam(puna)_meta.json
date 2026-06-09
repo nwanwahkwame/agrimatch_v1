@@ -1,0 +1,13 @@
+{
+    "table": "northern_yam(puna)",
+    "rows": 47,
+    "mae": 0.35329212638854496,
+    "rmse": 0.47567044203041525,
+    "mape": 17.37127628166623,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

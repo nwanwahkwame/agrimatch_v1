@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="bg5" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#e8f0d8"/>
+      <stop offset="100%" stop-color="#b8d0a0"/>
+    </radialGradient>
+    <radialGradient id="face5" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#fef2e0"/>
+      <stop offset="100%" stop-color="#f0d4b0"/>
+    </radialGradient>
+    <clipPath id="circle5">
+      <circle cx="200" cy="200" r="195"/>
+    </clipPath>
+  </defs>
+
+  <circle cx="200" cy="200" r="200" fill="url(#bg5)"/>
+
+  <g clip-path="url(#circle5)">
+    <!-- Leaf decorations -->
+    <path d="M55 85 Q65 65 82 72 Q75 85 55 85Z" fill="#88b868" opacity="0.4"/>
+    <path d="M65 72 Q78 55 90 65 Q80 78 65 72Z" fill="#70a850" opacity="0.35"/>
+    <path d="M335 95 Q355 78 368 88 Q358 102 335 95Z" fill="#88b868" opacity="0.4"/>
+    <path d="M348 82 Q360 65 372 75 Q362 88 348 82Z" fill="#70a850" opacity="0.35"/>
+    <circle cx="52" cy="140" r="5" fill="#a8c880" opacity="0.3"/>
+    <circle cx="358" cy="155" r="4" fill="#a8c880" opacity="0.3"/>
+
+    <!-- Hair back - soft wavy -->
+    <ellipse cx="200" cy="178" rx="107" ry="125" fill="#7a5030"/>
+
+    <!-- Slightly wavy long-ish hair sides -->
+    <path d="M108 220 Q90 265 95 335 Q100 370 118 380 Q112 350 110 310 Q112 272 122 248" fill="#7a5030"/>
+    <path d="M292 220 Q310 265 305 335 Q300 370 282 380 Q288 350 290 310 Q288 272 278 248" fill="#7a5030"/>
+
+    <!-- Neck -->
+    <rect x="178" y="308" width="44" height="50" rx="8" fill="#f0d4b0"/>
+
+    <!-- Body - casual warm sweater -->
+    <path d="M70 400 Q92 346 146 326 Q172 316 200 316 Q228 316 254 326 Q308 346 330 400Z" fill="#a85828"/>
+    <!-- Sweater collar -->
+    <path d="M175 322 Q200 342 225 322 Q218 338 200 348 Q182 338 175 322Z" fill="#c07038"/>
+    <!-- Sweater texture lines -->
+    <line x1="120" y1="360" x2="160" y2="380" stroke="#c07038" stroke-width="1.5" opacity="0.4"/>
+    <line x1="125" y1="368" x2="162" y2="390" stroke="#c07038" stroke-width="1.5" opacity="0.4"/>
+    <line x1="240" y1="360" x2="280" y2="380" stroke="#c07038" stroke-width="1.5" opacity="0.4"/>
+    <line x1="238" y1="368" x2="278" y2="390" stroke="#c07038" stroke-width="1.5" opacity="0.4"/>
+
+    <!-- Face -->
+    <ellipse cx="200" cy="233" rx="89" ry="95" fill="url(#face5)"/>
+
+    <!-- Ears -->
+    <ellipse cx="113" cy="233" rx="13" ry="17" fill="#f0d4b0"/>
+    <ellipse cx="287" cy="233" rx="13" ry="17" fill="#f0d4b0"/>
+    <ellipse cx="113" cy="233" rx="8" ry="11" fill="#d8b088"/>
+    <ellipse cx="287" cy="233" rx="8" ry="11" fill="#d8b088"/>
+
+    <!-- Hair front -->
+    <path d="M118 218 Q114 170 136 150 Q160 126 200 122 Q240 126 264 150 Q286 170 282 218" fill="#7a5030"/>
+    <!-- Soft natural parted bangs -->
+    <path d="M120 215 Q128 172 148 157 Q132 182 135 222" fill="#8a6040"/>
+    <path d="M148 158 Q166 140 190 136 Q168 160 166 222" fill="#8a6040"/>
+    <!-- Soft part, hair sweeps right -->
+    <path d="M200 122 Q215 130 225 148" stroke="#8a6040" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M210 137 Q228 142 242 158 Q230 162 232 222" fill="#7a5030"/>
+    <path d="M242 158 Q264 172 280 215 Q272 182 265 222" fill="#7a5030"/>
+
+    <!-- Hair highlight warm -->
+    <ellipse cx="178" cy="155" rx="20" ry="7" fill="#c8956a" opacity="0.5" transform="rotate(-10 178 155)"/>
+    <ellipse cx="215" cy="150" rx="14" ry="5" fill="#c8956a" opacity="0.4" transform="rotate(5 215 150)"/>
+
+    <!-- Eyes - warm green, softer shape -->
+    <ellipse cx="167" cy="238" rx="20" ry="19" fill="#fff"/>
+    <ellipse cx="167" cy="239" rx="14" ry="14" fill="#3a7848"/>
+    <ellipse cx="167" cy="239" rx="9" ry="9" fill="#1a3828"/>
+    <circle cx="161" cy="233" r="4" fill="#fff"/>
+    <circle cx="173" cy="245" r="2" fill="#fff" opacity="0.6"/>
+    <!-- Soft upper lid -->
+    <path d="M148 232 Q158 224 167 226 Q176 224 186 232" stroke="#1a3828" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+    <ellipse cx="233" cy="238" rx="20" ry="19" fill="#fff"/>
+    <ellipse cx="233" cy="239" rx="14" ry="14" fill="#3a7848"/>
+    <ellipse cx="233" cy="239" rx="9" ry="9" fill="#1a3828"/>
+    <circle cx="227" cy="233" r="4" fill="#fff"/>
+    <circle cx="239" cy="245" r="2" fill="#fff" opacity="0.6"/>
+    <path d="M214 232 Q224 224 233 226 Q242 224 252 232" stroke="#1a3828" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+    <!-- Warm lower eye line -->
+    <path d="M148 244 Q158 250 186 244" stroke="#5a9060" stroke-width="1" fill="none" stroke-linecap="round" opacity="0.5"/>
+    <path d="M214 244 Q224 250 252 244" stroke="#5a9060" stroke-width="1" fill="none" stroke-linecap="round" opacity="0.5"/>
+
+    <!-- Eyebrows - soft, natural -->
+    <path d="M148 220 Q167 213 186 216" stroke="#5a3820" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M214 216 Q233 213 252 220" stroke="#5a3820" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+    <!-- Warm blush -->
+    <ellipse cx="148" cy="263" rx="23" ry="12" fill="#e09878" opacity="0.25"/>
+    <ellipse cx="252" cy="263" rx="23" ry="12" fill="#e09878" opacity="0.25"/>
+
+    <!-- Nose -->
+    <path d="M196 272 Q200 278 204 272" stroke="#c89860" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M198 268 Q196 272 196 275" stroke="#c89860" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M202 268 Q204 272 204 275" stroke="#c89860" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Mouth - gentle, warm smile -->
+    <path d="M185 290 Q200 302 215 290" stroke="#c07858" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M188 290 Q200 296 212 290" fill="#e09878" opacity="0.35"/>
+
+    <!-- Small mole under left eye -->
+    <circle cx="155" cy="265" r="2.5" fill="#8a6840"/>
+
+    <!-- Plant/nature prop in corner -->
+    <path d="M330 380 Q330 350 340 330 Q350 310 360 330 Q370 310 380 340 Q360 345 330 380Z" fill="#5a9040" opacity="0.5"/>
+    <line x1="355" y1="400" x2="348" y2="330" stroke="#5a9040" stroke-width="2" opacity="0.5"/>
+  </g>
+
+  <circle cx="200" cy="200" r="195" fill="none" stroke="#6a9840" stroke-width="4"/>
+  <circle cx="200" cy="200" r="188" fill="none" stroke="#b0d888" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,13 @@
+{
+    "table": "upper_east_cowpeas(white)",
+    "rows": 23,
+    "mae": 1.6366634437241958,
+    "rmse": 2.1645128460692633,
+    "mape": 54.7690184152301,
+    "yearly_seasonality": false,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

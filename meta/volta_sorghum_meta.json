@@ -1,0 +1,13 @@
+{
+    "table": "volta_sorghum",
+    "rows": 45,
+    "mae": 0.1939015034048268,
+    "rmse": 0.27906142082136476,
+    "mape": 5.13625485616049,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

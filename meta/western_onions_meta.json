@@ -1,0 +1,13 @@
+{
+    "table": "western_onions",
+    "rows": 46,
+    "mae": 1.4012035756952428,
+    "rmse": 1.763995040066224,
+    "mape": 99.07386880258737,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

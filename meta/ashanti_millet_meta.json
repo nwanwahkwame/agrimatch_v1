@@ -1,0 +1,13 @@
+{
+    "table": "ashanti_millet",
+    "rows": 185,
+    "mae": 0.2725052567053252,
+    "rmse": 0.45407583707947635,
+    "mape": 13.45857587418206,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

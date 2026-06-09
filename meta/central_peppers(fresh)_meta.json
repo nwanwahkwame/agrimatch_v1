@@ -1,0 +1,13 @@
+{
+    "table": "central_peppers(fresh)",
+    "rows": 47,
+    "mae": 1.578424408054065,
+    "rmse": 3.4081210958607198,
+    "mape": 51.4305017612161,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

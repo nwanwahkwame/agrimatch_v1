@@ -1,0 +1,13 @@
+{
+    "table": "upper_east_sorghum",
+    "rows": 184,
+    "mae": 0.11697175244704097,
+    "rmse": 0.1848141362971098,
+    "mape": 9.284032868724594,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

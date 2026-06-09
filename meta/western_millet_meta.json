@@ -1,0 +1,13 @@
+{
+    "table": "western_millet",
+    "rows": 46,
+    "mae": 3.21759918641285e-07,
+    "rmse": 4.320926122339823e-07,
+    "mape": 4.8415272154173665e-06,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

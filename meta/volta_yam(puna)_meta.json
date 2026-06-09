@@ -1,0 +1,13 @@
+{
+    "table": "volta_yam(puna)",
+    "rows": 42,
+    "mae": 0.35562329548913385,
+    "rmse": 0.46546350939491765,
+    "mape": 9.214188161025591,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

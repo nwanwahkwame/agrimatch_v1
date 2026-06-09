@@ -1,0 +1,13 @@
+{
+    "table": "western_maize",
+    "rows": 161,
+    "mae": 0.2115328163472416,
+    "rmse": 0.31076620209798483,
+    "mape": 12.510765278675025,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_tomatoes(local)",
+    "rows": 43,
+    "mae": 0.29565163815623524,
+    "rmse": 0.43976931167756694,
+    "mape": 98.61074939032727,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

@@ -1,0 +1,13 @@
+{
+    "table": "volta_cowpeas(white)",
+    "rows": 23,
+    "mae": 0.21693620201396427,
+    "rmse": 0.3029280740510137,
+    "mape": 7.993150472037571,
+    "yearly_seasonality": false,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

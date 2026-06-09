@@ -1,0 +1,13 @@
+{
+    "table": "ashanti_yam",
+    "rows": 191,
+    "mae": 0.6235875326439695,
+    "rmse": 0.8471454125843855,
+    "mape": 27.362184229257853,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

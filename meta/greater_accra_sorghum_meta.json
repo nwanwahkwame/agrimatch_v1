@@ -1,0 +1,13 @@
+{
+    "table": "greater_accra_sorghum",
+    "rows": 185,
+    "mae": 0.1757280559593056,
+    "rmse": 0.23696206375895795,
+    "mape": 11.109213889666446,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

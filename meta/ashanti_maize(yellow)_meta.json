@@ -1,0 +1,13 @@
+{
+    "table": "ashanti_maize(yellow)",
+    "rows": 48,
+    "mae": 0.30390976379096274,
+    "rmse": 0.412121896505876,
+    "mape": 10.799791040968715,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

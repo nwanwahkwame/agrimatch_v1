@@ -1,0 +1,13 @@
+{
+    "table": "volta_tomatoes(local)",
+    "rows": 42,
+    "mae": 0.8259996264002457,
+    "rmse": 1.0806011969150153,
+    "mape": 45.379940989430786,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

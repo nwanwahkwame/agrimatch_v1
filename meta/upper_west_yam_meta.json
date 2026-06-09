@@ -1,0 +1,13 @@
+{
+    "table": "upper_west_yam",
+    "rows": 159,
+    "mae": 0.8855331643937125,
+    "rmse": 1.3123439061063644,
+    "mape": 44.41368256483004,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

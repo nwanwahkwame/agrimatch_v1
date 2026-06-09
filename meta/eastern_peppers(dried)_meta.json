@@ -1,0 +1,13 @@
+{
+    "table": "eastern_peppers(dried)",
+    "rows": 28,
+    "mae": 1.193621107943425,
+    "rmse": 2.5589380842150375,
+    "mape": 44.41591057984696,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_peppers(dried)",
+    "rows": 42,
+    "mae": 1.6279217237010912,
+    "rmse": 2.1301328761636875,
+    "mape": 58.24106242524921,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

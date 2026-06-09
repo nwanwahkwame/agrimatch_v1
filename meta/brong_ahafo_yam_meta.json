@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_yam",
+    "rows": 191,
+    "mae": 0.7719726049167517,
+    "rmse": 1.147858379568829,
+    "mape": 42.33633668498124,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

@@ -1,0 +1,13 @@
+{
+    "table": "western_eggplants",
+    "rows": 46,
+    "mae": 3.0101331100617705e-06,
+    "rmse": 3.6866448527259594e-06,
+    "mape": 6.596354397314611e-05,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

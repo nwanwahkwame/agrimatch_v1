@@ -1,0 +1,13 @@
+{
+    "table": "greater_accra_cassava",
+    "rows": 190,
+    "mae": 0.22782916770034592,
+    "rmse": 0.3489256980346365,
+    "mape": 20.447380483304574,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

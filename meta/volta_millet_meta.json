@@ -1,0 +1,13 @@
+{
+    "table": "volta_millet",
+    "rows": 45,
+    "mae": 0.6628616735522438,
+    "rmse": 0.856429295134476,
+    "mape": 13.79039156941095,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

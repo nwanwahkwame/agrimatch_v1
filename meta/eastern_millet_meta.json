@@ -1,0 +1,13 @@
+{
+    "table": "eastern_millet",
+    "rows": 36,
+    "mae": 0.05108122496722911,
+    "rmse": 0.06966944202284302,
+    "mape": 1.5314498034454682,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

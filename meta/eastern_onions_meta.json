@@ -1,0 +1,13 @@
+{
+    "table": "eastern_onions",
+    "rows": 33,
+    "mae": 0.32119148170516937,
+    "rmse": 0.44621232092833557,
+    "mape": 43.014352317184496,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

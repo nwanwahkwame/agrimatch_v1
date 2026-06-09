@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_soybeans",
+    "rows": 48,
+    "mae": 0.0939571613598008,
+    "rmse": 0.1656813107539944,
+    "mape": 11.31903050667122,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

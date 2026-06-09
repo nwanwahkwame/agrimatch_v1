@@ -1,0 +1,13 @@
+{
+    "table": "central_soybeans",
+    "rows": 45,
+    "mae": 1.748261736837204,
+    "rmse": 2.334934596233873,
+    "mape": 182.31433985243234,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

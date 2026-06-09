@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_cowpeas(white)",
+    "rows": 27,
+    "mae": 0.24179369060574962,
+    "rmse": 0.351306711667338,
+    "mape": 8.356108780261653,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

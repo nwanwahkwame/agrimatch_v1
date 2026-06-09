@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import inject_css, init_session, footer, CROPS, REGIONS, LISTINGS
+from utils import inject_css, init_session, CROPS, REGIONS, LISTINGS
 
 st.set_page_config(
     page_title="All Listings — AgriMatch",

@@ -3,11 +3,15 @@ from scripts import region_splitter as rs, \
     crop_splitter as cs, \
     batch_processor as bp, \
     sql_processor as sp, \
-    train_models as tf
+    prophet_training as pt, \
+    sanitize_mofa as sm
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 import warnings
 warnings.filterwarnings("ignore", category=ConvergenceWarning)
 warnings.filterwarnings('ignore')
+
+# Step 0 -> sm
+# sm.sanitize_mofa()
 
 # Step 1 -> rs
 rs.main()
@@ -19,7 +23,7 @@ cs.crop_splitter_from_region()
 bp.batch_processing()
 
 # Step 4 -> sp
-sp.sql_processor()
+# sp.sql_processor()
 
 # Step 5 -> cf
-tf.train_region_crop_models()
+# pt.train_all_prophet_models()

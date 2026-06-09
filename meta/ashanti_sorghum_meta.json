@@ -1,0 +1,13 @@
+{
+    "table": "ashanti_sorghum",
+    "rows": 186,
+    "mae": 0.3210730595264955,
+    "rmse": 0.5343949655541717,
+    "mape": 19.00071311183338,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

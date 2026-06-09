@@ -1,0 +1,13 @@
+{
+    "table": "ashanti_cassava",
+    "rows": 191,
+    "mae": 0.4208914212626686,
+    "rmse": 0.7931540279522066,
+    "mape": 55.21961440553006,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

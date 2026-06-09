@@ -1,0 +1,13 @@
+{
+    "table": "ashanti_peppers(dried)",
+    "rows": 48,
+    "mae": 2.4026950807931597,
+    "rmse": 3.3589511815230986,
+    "mape": 45.94980671949981,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

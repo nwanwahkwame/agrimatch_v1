@@ -1,0 +1,13 @@
+{
+    "table": "brong_ahafo_maize",
+    "rows": 191,
+    "mae": 0.22137789652384385,
+    "rmse": 0.28563827525748803,
+    "mape": 23.59733249160868,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

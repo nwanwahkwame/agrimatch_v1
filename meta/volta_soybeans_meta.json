@@ -1,0 +1,13 @@
+{
+    "table": "volta_soybeans",
+    "rows": 43,
+    "mae": 1.6916609480270033,
+    "rmse": 2.2017360612622014,
+    "mape": 122.95389216888096,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

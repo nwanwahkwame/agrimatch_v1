@@ -1,0 +1,13 @@
+{
+    "table": "western_soybeans",
+    "rows": 46,
+    "mae": 0.8061579507402685,
+    "rmse": 0.9616281245556402,
+    "mape": 106.2748652315311,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

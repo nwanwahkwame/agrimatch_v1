@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="bg1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fde8f0"/>
+      <stop offset="100%" stop-color="#f7c8db"/>
+    </radialGradient>
+    <radialGradient id="face1" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#fef0e8"/>
+      <stop offset="100%" stop-color="#fad4bc"/>
+    </radialGradient>
+    <radialGradient id="hair1" cx="50%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="#f9a8c9"/>
+      <stop offset="100%" stop-color="#e05a8a"/>
+    </radialGradient>
+    <clipPath id="circle1">
+      <circle cx="200" cy="200" r="195"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <circle cx="200" cy="200" r="200" fill="url(#bg1)"/>
+
+  <g clip-path="url(#circle1)">
+    <!-- Decorative petals background -->
+    <ellipse cx="60" cy="80" rx="18" ry="10" fill="#f9b8d0" opacity="0.5" transform="rotate(-30 60 80)"/>
+    <ellipse cx="80" cy="65" rx="18" ry="10" fill="#f9b8d0" opacity="0.5" transform="rotate(20 80 65)"/>
+    <ellipse cx="55" cy="60" rx="18" ry="10" fill="#f9b8d0" opacity="0.5" transform="rotate(70 55 60)"/>
+    <ellipse cx="330" cy="90" rx="18" ry="10" fill="#f9b8d0" opacity="0.5" transform="rotate(-50 330 90)"/>
+    <ellipse cx="350" cy="75" rx="18" ry="10" fill="#f9b8d0" opacity="0.5" transform="rotate(10 350 75)"/>
+    <ellipse cx="340" cy="55" rx="18" ry="10" fill="#f9b8d0" opacity="0.5" transform="rotate(60 340 55)"/>
+
+    <!-- Hair back layer -->
+    <ellipse cx="200" cy="170" rx="115" ry="135" fill="#e05a8a"/>
+    <!-- Long side hair left -->
+    <path d="M100 200 Q70 280 85 370 Q95 395 115 400 Q105 370 108 320 Q112 270 120 240" fill="#e05a8a"/>
+    <!-- Long side hair right -->
+    <path d="M300 200 Q330 280 315 370 Q305 395 285 400 Q295 370 292 320 Q288 270 280 240" fill="#e05a8a"/>
+
+    <!-- Neck -->
+    <rect x="175" y="305" width="50" height="55" rx="8" fill="#fad4bc"/>
+
+    <!-- Shoulders / body -->
+    <path d="M80 400 Q100 340 150 320 Q175 312 200 312 Q225 312 250 320 Q300 340 320 400Z" fill="#d63f7e"/>
+    <!-- Collar -->
+    <path d="M170 318 Q200 335 230 318 L225 345 Q200 355 175 345Z" fill="#fff0f6"/>
+
+    <!-- Face -->
+    <ellipse cx="200" cy="230" rx="88" ry="95" fill="url(#face1)"/>
+
+    <!-- Ears -->
+    <ellipse cx="114" cy="235" rx="12" ry="16" fill="#fad4bc"/>
+    <ellipse cx="286" cy="235" rx="12" ry="16" fill="#fad4bc"/>
+    <ellipse cx="114" cy="235" rx="7" ry="10" fill="#f5b8a0"/>
+    <ellipse cx="286" cy="235" rx="7" ry="10" fill="#f5b8a0"/>
+
+    <!-- Hair front -->
+    <path d="M112 200 Q108 160 130 140 Q155 118 200 115 Q245 118 270 140 Q292 160 288 200" fill="#e05a8a"/>
+    <!-- Bangs -->
+    <path d="M120 195 Q130 155 160 148 Q145 175 148 210" fill="#e86fa0"/>
+    <path d="M150 148 Q170 138 200 136 Q170 155 165 210" fill="#e86fa0"/>
+    <path d="M200 136 Q230 138 250 148 Q235 155 235 210" fill="#e86fa0"/>
+    <path d="M250 148 Q270 155 280 195 Q272 175 255 210" fill="#e86fa0"/>
+
+    <!-- Hair highlight -->
+    <ellipse cx="175" cy="155" rx="20" ry="8" fill="#fdd0e8" opacity="0.7" transform="rotate(-15 175 155)"/>
+
+    <!-- Eyes -->
+    <!-- Left eye -->
+    <ellipse cx="168" cy="238" rx="20" ry="22" fill="#fff"/>
+    <ellipse cx="168" cy="240" rx="14" ry="16" fill="#7b3fa0"/>
+    <ellipse cx="168" cy="240" rx="9" ry="11" fill="#3d1560"/>
+    <circle cx="162" cy="234" r="4" fill="#fff"/>
+    <circle cx="175" cy="244" r="2" fill="#fff" opacity="0.7"/>
+    <!-- Left eyelashes -->
+    <path d="M149 232 Q155 226 168 228" stroke="#3d1560" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <line x1="149" y1="234" x2="145" y2="228" stroke="#3d1560" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="155" y1="228" x2="153" y2="222" stroke="#3d1560" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- Right eye -->
+    <ellipse cx="232" cy="238" rx="20" ry="22" fill="#fff"/>
+    <ellipse cx="232" cy="240" rx="14" ry="16" fill="#7b3fa0"/>
+    <ellipse cx="232" cy="240" rx="9" ry="11" fill="#3d1560"/>
+    <circle cx="226" cy="234" r="4" fill="#fff"/>
+    <circle cx="239" cy="244" r="2" fill="#fff" opacity="0.7"/>
+    <!-- Right eyelashes -->
+    <path d="M251 232 Q245 226 232 228" stroke="#3d1560" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <line x1="251" y1="234" x2="255" y2="228" stroke="#3d1560" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="245" y1="228" x2="247" y2="222" stroke="#3d1560" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- Eyebrows -->
+    <path d="M148 218 Q168 210 186 214" stroke="#c0408a" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M214 214 Q232 210 252 218" stroke="#c0408a" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+    <!-- Blush -->
+    <ellipse cx="148" cy="265" rx="22" ry="12" fill="#f08ab0" opacity="0.35"/>
+    <ellipse cx="252" cy="265" rx="22" ry="12" fill="#f08ab0" opacity="0.35"/>
+
+    <!-- Nose -->
+    <path d="M197 268 Q200 272 203 268" stroke="#e8a090" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Mouth -->
+    <path d="M186 285 Q200 297 214 285" stroke="#e06080" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M191 285 Q200 290 209 285" fill="#f08090" opacity="0.5"/>
+
+    <!-- Hair clip decoration -->
+    <ellipse cx="148" cy="185" rx="10" ry="10" fill="#ff8ab8"/>
+    <ellipse cx="148" cy="185" rx="6" ry="6" fill="#fff0f8"/>
+    <ellipse cx="148" cy="185" rx="3" ry="3" fill="#e05a8a"/>
+  </g>
+
+  <!-- Border ring -->
+  <circle cx="200" cy="200" r="195" fill="none" stroke="#e05a8a" stroke-width="4"/>
+  <circle cx="200" cy="200" r="188" fill="none" stroke="#f9b8d0" stroke-width="1.5"/>
+</svg>

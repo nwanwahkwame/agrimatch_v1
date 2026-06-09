@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <radialGradient id="bg2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ddf0fb"/>
+      <stop offset="100%" stop-color="#9ccfe8"/>
+    </radialGradient>
+    <radialGradient id="face2" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#fef5f0"/>
+      <stop offset="100%" stop-color="#f5d8c8"/>
+    </radialGradient>
+    <clipPath id="circle2">
+      <circle cx="200" cy="200" r="195"/>
+    </clipPath>
+  </defs>
+
+  <circle cx="200" cy="200" r="200" fill="url(#bg2)"/>
+
+  <g clip-path="url(#circle2)">
+    <!-- Wave decorations -->
+    <path d="M0 340 Q50 325 100 340 Q150 355 200 340 Q250 325 300 340 Q350 355 400 340 L400 400 L0 400Z" fill="#6ab5d8" opacity="0.3"/>
+    <path d="M0 360 Q60 348 120 360 Q180 372 240 360 Q300 348 360 360 Q380 366 400 360 L400 400 L0 400Z" fill="#5aaac8" opacity="0.25"/>
+
+    <!-- Sparkle decorations -->
+    <g opacity="0.6">
+      <line x1="60" y1="80" x2="60" y2="100" stroke="#4aa8d8" stroke-width="2" stroke-linecap="round"/>
+      <line x1="50" y1="90" x2="70" y2="90" stroke="#4aa8d8" stroke-width="2" stroke-linecap="round"/>
+      <line x1="54" y1="84" x2="66" y2="96" stroke="#4aa8d8" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="66" y1="84" x2="54" y2="96" stroke="#4aa8d8" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+    <g opacity="0.5">
+      <line x1="340" y1="110" x2="340" y2="126" stroke="#4aa8d8" stroke-width="2" stroke-linecap="round"/>
+      <line x1="332" y1="118" x2="348" y2="118" stroke="#4aa8d8" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <!-- Hair back -->
+    <ellipse cx="200" cy="175" rx="112" ry="130" fill="#c8d8f0"/>
+    <!-- Long twin tails -->
+    <path d="M115 230 Q75 290 60 370 Q55 400 70 400 Q80 400 88 380 Q95 340 100 300 Q108 265 118 248" fill="#c8d8f0"/>
+    <path d="M285 230 Q325 290 340 370 Q345 400 330 400 Q320 400 312 380 Q305 340 300 300 Q292 265 282 248" fill="#c8d8f0"/>
+    <!-- Hair tie ribbons -->
+    <ellipse cx="112" cy="248" rx="14" ry="8" fill="#5aaac8"/>
+    <ellipse cx="288" cy="248" rx="14" ry="8" fill="#5aaac8"/>
+
+    <!-- Neck -->
+    <rect x="178" y="305" width="44" height="52" rx="8" fill="#f5d8c8"/>
+
+    <!-- Body -->
+    <path d="M75 400 Q95 345 148 325 Q172 315 200 315 Q228 315 252 325 Q305 345 325 400Z" fill="#3a7ab8"/>
+    <!-- Sailor collar -->
+    <path d="M165 318 L200 340 L235 318 L228 328 L200 348 L172 328Z" fill="#fff"/>
+    <path d="M165 318 L172 328 L200 348 L228 328 L235 318" fill="none" stroke="#2a5a98" stroke-width="2"/>
+    <line x1="200" y1="340" x2="200" y2="370" stroke="#d84040" stroke-width="3"/>
+
+    <!-- Face -->
+    <ellipse cx="200" cy="232" rx="85" ry="92" fill="url(#face2)"/>
+
+    <!-- Ears -->
+    <ellipse cx="117" cy="235" rx="12" ry="16" fill="#f5d8c8"/>
+    <ellipse cx="283" cy="235" rx="12" ry="16" fill="#f5d8c8"/>
+    <ellipse cx="117" cy="235" rx="7" ry="10" fill="#eab898"/>
+    <ellipse cx="283" cy="235" rx="7" ry="10" fill="#eab898"/>
+
+    <!-- Hair front -->
+    <path d="M118 210 Q115 168 135 148 Q160 125 200 120 Q240 125 265 148 Q285 168 282 210" fill="#c8d8f0"/>
+    <!-- Bangs with streaks -->
+    <path d="M122 205 Q132 162 155 152 Q140 178 143 215" fill="#d8e8f8"/>
+    <path d="M158 152 Q175 140 200 137 Q178 158 174 215" fill="#d8e8f8"/>
+    <path d="M200 137 Q225 140 242 152 Q225 158 226 215" fill="#d8e8f8"/>
+    <path d="M242 152 Q265 162 278 205 Q268 178 257 215" fill="#d8e8f8"/>
+
+    <!-- Hair highlight -->
+    <ellipse cx="178" cy="158" rx="22" ry="9" fill="#eef5fc" opacity="0.8" transform="rotate(-10 178 158)"/>
+
+    <!-- Eyes - ice blue -->
+    <ellipse cx="168" cy="238" rx="20" ry="22" fill="#fff"/>
+    <ellipse cx="168" cy="240" rx="14" ry="16" fill="#2a88c8"/>
+    <ellipse cx="168" cy="240" rx="9" ry="11" fill="#0d4880"/>
+    <circle cx="162" cy="233" r="4.5" fill="#fff"/>
+    <circle cx="174" cy="244" r="2" fill="#fff" opacity="0.6"/>
+    <path d="M149 230 Q158 224 168 226" stroke="#0d4880" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <line x1="149" y1="232" x2="144" y2="226" stroke="#0d4880" stroke-width="1.5" stroke-linecap="round"/>
+
+    <ellipse cx="232" cy="238" rx="20" ry="22" fill="#fff"/>
+    <ellipse cx="232" cy="240" rx="14" ry="16" fill="#2a88c8"/>
+    <ellipse cx="232" cy="240" rx="9" ry="11" fill="#0d4880"/>
+    <circle cx="226" cy="233" r="4.5" fill="#fff"/>
+    <circle cx="238" cy="244" r="2" fill="#fff" opacity="0.6"/>
+    <path d="M251 230 Q242 224 232 226" stroke="#0d4880" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <line x1="251" y1="232" x2="256" y2="226" stroke="#0d4880" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- Eyebrows -->
+    <path d="M150 218 Q168 210 186 213" stroke="#90a8c8" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M214 213 Q232 210 250 218" stroke="#90a8c8" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+    <!-- Blush -->
+    <ellipse cx="148" cy="262" rx="22" ry="11" fill="#f0a0b0" opacity="0.28"/>
+    <ellipse cx="252" cy="262" rx="22" ry="11" fill="#f0a0b0" opacity="0.28"/>
+
+    <!-- Nose -->
+    <path d="M197 270 Q200 274 203 270" stroke="#daa890" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Mouth -->
+    <path d="M186 286 Q200 298 214 286" stroke="#d88898" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Hairpin - star -->
+    <polygon points="325,155 327,161 333,161 328,165 330,171 325,167 320,171 322,165 317,161 323,161" fill="#5aaac8"/>
+  </g>
+
+  <circle cx="200" cy="200" r="195" fill="none" stroke="#3a88b8" stroke-width="4"/>
+  <circle cx="200" cy="200" r="188" fill="none" stroke="#9ccfe8" stroke-width="1.5"/>
+</svg>

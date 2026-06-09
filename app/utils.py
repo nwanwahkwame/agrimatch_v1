@@ -84,16 +84,16 @@ MARKET_PRICES = [
 DEMAND_POSTS = [
     {"id": 1, "buyer": "Accra Fresh Ltd",        "crop": "Tomato",  "qty": "500 crates",    "region": "Greater Accra",    "budget": "GHS 170–185/crate",
         "posted": "2 hours ago",  "urgent": True,  "desc": "Urgently need 500 crates of fresh tomatoes. Delivery to our cold store in Accra. Will arrange transport."},
-    {"id": 2, "buyer": "KAM Foods Ghana",         "crop": "Maize",   "qty": "2,000 bags",    "region": "Anywhere in Ghana", "budget": "GHS 400–430/bag",
-        "posted": "5 hours ago",  "urgent": False, "desc": "We buy directly from farmers. Long-term contract possible for reliable suppliers."},
-    {"id": 3, "buyer": "NutriCorp Ghana",         "crop": "Soybean", "qty": "300 bags",      "region": "Brong-Ahafo",      "budget": "GHS 330–350/bag",
-        "posted": "1 day ago",    "urgent": False, "desc": "Looking for certified organic soybean for protein supplement production."},
+    # {"id": 2, "buyer": "KAM Foods Ghana",         "crop": "Maize",   "qty": "2,000 bags",    "region": "Anywhere in Ghana", "budget": "GHS 400–430/bag",
+    #     "posted": "5 hours ago",  "urgent": False, "desc": "We buy directly from farmers. Long-term contract possible for reliable suppliers."},
+    # {"id": 3, "buyer": "NutriCorp Ghana",         "crop": "Soybean", "qty": "300 bags",      "region": "Brong-Ahafo",      "budget": "GHS 330–350/bag",
+    #     "posted": "1 day ago",    "urgent": False, "desc": "Looking for certified organic soybean for protein supplement production."},
     {"id": 4, "buyer": "Starfish Restaurant Group", "crop": "Pepper", "qty": "20 crates/week", "region": "Greater Accra",    "budget": "GHS 210–230/crate",
         "posted": "3 hours ago",  "urgent": True,  "desc": "Ongoing weekly order. Need consistent quality. Call for tasting arrangement."},
-    {"id": 5, "buyer": "Export Direct Co.",       "crop": "Cocoa",   "qty": "500 bags",      "region": "Western",          "budget": "Market rate + 5%",
-        "posted": "12 hours ago", "urgent": False, "desc": "Licensed cocoa buyer. Grade A only. Export quality required. Full payment within 48hrs."},
-    {"id": 6, "buyer": "Village Foods Ltd",       "crop": "Cassava", "qty": "150 bags",      "region": "Eastern",          "budget": "GHS 250–270/bag",
-        "posted": "2 days ago",   "urgent": False, "desc": "Processing factory in Koforidua. Weekly supply needed. Looking for group of farmers."},
+    # {"id": 5, "buyer": "Export Direct Co.",       "crop": "Cocoa",   "qty": "500 bags",      "region": "Western",          "budget": "Market rate + 5%",
+    #     "posted": "12 hours ago", "urgent": False, "desc": "Licensed cocoa buyer. Grade A only. Export quality required. Full payment within 48hrs."},
+    # {"id": 6, "buyer": "Village Foods Ltd",       "crop": "Cassava", "qty": "150 bags",      "region": "Eastern",          "budget": "GHS 250–270/bag",
+    #     "posted": "2 days ago",   "urgent": False, "desc": "Processing factory in Koforidua. Weekly supply needed. Looking for group of farmers."},
 ]
 
 BYPRODUCTS_URGENT = [

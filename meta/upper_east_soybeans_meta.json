@@ -1,0 +1,13 @@
+{
+    "table": "upper_east_soybeans",
+    "rows": 41,
+    "mae": 1.5506791058258609,
+    "rmse": 2.2494088377865302,
+    "mape": 198.61220576431313,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

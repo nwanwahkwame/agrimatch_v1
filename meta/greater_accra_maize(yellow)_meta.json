@@ -1,0 +1,13 @@
+{
+    "table": "greater_accra_maize(yellow)",
+    "rows": 47,
+    "mae": 0.18562593367985325,
+    "rmse": 0.24671811726915382,
+    "mape": 5.630464032416755,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

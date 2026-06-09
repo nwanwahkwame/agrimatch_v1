@@ -1,0 +1,13 @@
+{
+    "table": "northern_rice(local)",
+    "rows": 167,
+    "mae": 0.5378795861549263,
+    "rmse": 0.8834142599487617,
+    "mape": 27.349821743358543,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

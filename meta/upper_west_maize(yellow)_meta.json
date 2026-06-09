@@ -1,0 +1,13 @@
+{
+    "table": "upper_west_maize(yellow)",
+    "rows": 42,
+    "mae": 0.14387744761916338,
+    "rmse": 0.18849933112357506,
+    "mape": 5.961844595379011,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.1,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

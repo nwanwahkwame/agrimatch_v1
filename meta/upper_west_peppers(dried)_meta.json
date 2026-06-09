@@ -1,0 +1,13 @@
+{
+    "table": "upper_west_peppers(dried)",
+    "rows": 16,
+    "mae": 3.8080405803372894,
+    "rmse": 4.503522284077404,
+    "mape": 80.4035891744493,
+    "yearly_seasonality": false,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

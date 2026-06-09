@@ -1,0 +1,13 @@
+{
+    "table": "central_eggplants",
+    "rows": 47,
+    "mae": 0.634587999254328,
+    "rmse": 0.9892058363326582,
+    "mape": 18.182285869522826,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "multiplicative"
+}

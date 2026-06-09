@@ -1,0 +1,13 @@
+{
+    "table": "northern_maize(yellow)",
+    "rows": 45,
+    "mae": 0.21934416897170095,
+    "rmse": 0.31097435329960543,
+    "mape": 10.601203568035977,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.01,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

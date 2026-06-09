@@ -1,0 +1,13 @@
+{
+    "table": "volta_maize",
+    "rows": 139,
+    "mae": 0.2780125875956834,
+    "rmse": 0.3571647291950517,
+    "mape": 24.180855205463498,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

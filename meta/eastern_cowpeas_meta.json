@@ -1,0 +1,13 @@
+{
+    "table": "eastern_cowpeas",
+    "rows": 26,
+    "mae": 1.8787834274532815e-06,
+    "rmse": 2.1402203155068547e-06,
+    "mape": 0.0001035307602467751,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

@@ -1,0 +1,13 @@
+{
+    "table": "upper_east_tomatoes(navrongo)",
+    "rows": 42,
+    "mae": 0.8720593210778821,
+    "rmse": 1.1068276394578493,
+    "mape": 52.62844776019301,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.05,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

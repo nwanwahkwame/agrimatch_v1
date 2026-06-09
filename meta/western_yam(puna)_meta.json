@@ -1,0 +1,13 @@
+{
+    "table": "western_yam(puna)",
+    "rows": 46,
+    "mae": 0.9092963608253777,
+    "rmse": 1.1350608712021284,
+    "mape": 26.297414944801687,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 10.0,
+    "seasonality_mode": "additive"
+}

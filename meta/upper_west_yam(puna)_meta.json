@@ -1,0 +1,13 @@
+{
+    "table": "upper_west_yam(puna)",
+    "rows": 36,
+    "mae": 0.22579238006337507,
+    "rmse": 0.33666852761189764,
+    "mape": 5.106266052861078,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "multiplicative"
+}

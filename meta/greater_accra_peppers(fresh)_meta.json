@@ -1,0 +1,13 @@
+{
+    "table": "greater_accra_peppers(fresh)",
+    "rows": 47,
+    "mae": 2.934246108694755,
+    "rmse": 4.234622539305942,
+    "mape": 29.754429364694936,
+    "yearly_seasonality": true,
+    "quarterly_seasonality": true,
+    "monthly_seasonality": true,
+    "changepoint_prior_scale": 0.5,
+    "seasonality_prior_scale": 1.0,
+    "seasonality_mode": "additive"
+}

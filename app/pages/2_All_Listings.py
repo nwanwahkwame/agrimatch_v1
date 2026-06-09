@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import inject_css, init_session, CROPS, REGIONS, LISTINGS
+from utils import inject_css, init_session, logo, CROPS, REGIONS, LISTINGS
 
 st.set_page_config(
     page_title="All Listings — AgriMatch",
@@ -8,6 +8,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
+logo()
 inject_css()
 init_session()
 

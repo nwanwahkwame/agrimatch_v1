@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import inject_css, init_session, footer, CROPS, REGIONS
+from utils import inject_css, init_session, footer, logo, CROPS, REGIONS
 
 st.set_page_config(
     page_title="AgriMatch — Ghana's Agricultural Marketplace",
@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
 )
-
+logo()
 inject_css()
 init_session()
 
@@ -17,7 +17,7 @@ st.markdown("""
     <div class="hero-badge">✨ Verified farmers · Real-time prices</div>
     <div class="hero-title">Ghana's<span style="color: #90EE90;"> Agricultural</span><br>Marketplace</div>
     <div class="hero-sub">Buy directly from smallholder farmers with price forecasts,
-    climate risk scores, and cooperative logistics.</div>
+    and cooperative logistics.</div>
     <div class="hero-trust">Serving Ghanaians across the country</div>
 </div>
 """, unsafe_allow_html=True)

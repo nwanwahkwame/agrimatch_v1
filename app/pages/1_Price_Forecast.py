@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 import streamlit as st
 import pandas as pd
 import pickle
-from utils import inject_css, init_session, CROPS, REGIONS
+from utils import inject_css, init_session, logo, CROPS, REGIONS
 import sys
 import os
 from pathlib import Path
@@ -31,6 +31,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
+logo()
 inject_css()
 init_session()
 
@@ -121,9 +122,9 @@ with col2:
     region = st.selectbox("Select Region", REGIONS)
 
 # Build the key used for both the DB table name and the model filename
-region = region.replace(' ', '_').replace('-', ' ')
-crop = crop.replace(' ', '')
-model_key = f"{region}_{crop}".lower()
+# region = region.replace(' ', '_').replace('-', ' ')
+# crop = crop.replace(' ', '')
+model_key = f"{region.replace('-', '_').replace(' ', '_')}_{crop.replace(' ', '')}".lower()
 
 st.divider()
 
@@ -151,9 +152,9 @@ try:
     n_entries = len(df)
     average_price = df[price_col].mean()
 
-    c0, c1, c2, c3, c4 = st.columns([3, 2, 1, 2, 3])
+    c0, c2, c3, c4 = st.columns([3, 1, 2, 3])
     c0.metric("Year Span",          f"{min_year} – {max_year}")
-    c1.metric("Major Market(s)",      city_count)
+    # c1.metric("Major Market(s)",      city_count)
     c2.metric("Data Points",  n_entries)
     c3.metric("Avg Price (GHS/kg)", f"{average_price:.2f}")
     c4.metric("Popular Market",     popular_market)
@@ -199,11 +200,11 @@ if st.button("Generate Forecast", type="primary", disabled=not data_ok):
         st.subheader("Predicted Prices")
 
         # Build a unified DataFrame so both series share one x-axis
-        historical_chart = (
-            df[["date", price_col]]
-            .rename(columns={"date": "ds", price_col: "Historical Price"})
-            .set_index("ds")
-        )
+        # historical_chart = (
+        #     df[["date", price_col]]
+        #     .rename(columns={"date": "ds", price_col: "Historical Price"})
+        #     .set_index("ds")
+        # )
 
         forecast_chart = (
             forecast_df[["ds", "yhat", "yhat_lower", "yhat_upper"]]
@@ -216,10 +217,9 @@ if st.button("Generate Forecast", type="primary", disabled=not data_ok):
             .set_index("ds")
         )
 
-        combined = historical_chart.join(forecast_chart, how="outer")
-
+        # combined = historical_chart.join(forecast_chart, how="outer")
         st.line_chart(
-            combined,
+            forecast_chart,
             x_label="Date",
             y_label="Price (GHS/kg)",
         )

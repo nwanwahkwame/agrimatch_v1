@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import inject_css, init_session, footer
+from utils import inject_css, init_session, logo
 
 st.set_page_config(
     page_title="Sign In — AgriMatch",
@@ -8,6 +8,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
+logo()
 inject_css()
 init_session()
 

@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import inject_css, init_session, footer, CROPS, REGIONS, DEMAND_POSTS
+from utils import inject_css, init_session, logo, CROPS, REGIONS, DEMAND_POSTS
 
 st.set_page_config(
     page_title="Demand Board — AgriMatch",
@@ -8,6 +8,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
+logo()
 inject_css()
 init_session()
 

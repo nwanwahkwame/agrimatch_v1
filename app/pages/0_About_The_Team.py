@@ -3,7 +3,7 @@
 # Pictures, link to GitHub, link to Linkedin
 # Blurb, fun fact.
 
-from utils import inject_css, init_session
+from utils import inject_css, init_session, logo
 import streamlit as st
 
 # 1. Page Configurations
@@ -13,6 +13,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed"
 )
+
+logo()
 
 # Custom CSS for polished, profile card designs
 st.markdown("""

@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import inject_css, init_session, footer, REGIONS, DISTRICTS
+from utils import inject_css, init_session, logo, REGIONS, DISTRICTS
 
 st.set_page_config(
     page_title="Transport Provider — AgriMatch",
@@ -8,6 +8,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
+logo()
 inject_css()
 init_session()
 

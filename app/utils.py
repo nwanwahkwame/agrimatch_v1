@@ -1,5 +1,18 @@
 """Shared data, CSS, and helpers for every AgriMatch page."""
 import streamlit as st
+from PIL import Image
+
+
+def logo():
+    LOGO_URL_LARGE = "../app/images/agrimatch_2_clean.png"
+    LOGO_URL_SMALL = "../app/images/agrimatch_1.png"
+
+    logo = Image.open(LOGO_URL_LARGE)
+    resized_logo = logo.resize((200, 100))
+
+    # Display the larger logo in the sidebar
+    st.sidebar.image(resized_logo)
+
 
 # ── Data ──────────────────────────────────────────────────────────────────────
 CROPS = ['Cassava',
@@ -217,3 +230,14 @@ def footer():
         <div style="color:#86efac;margin-bottom:8px;">Ghana's Agricultural Intelligence Platform · Powered by AI price forecasting</div>
         <div style="margin-top:12px;color:#4ade80;">© 2026 AgriMatch Ghana. All rights reserved.</div>
     </div>""", unsafe_allow_html=True)
+
+
+def logo():
+    LOGO_URL_LARGE = "../app/images/agrimatch_2_clean.png"
+    LOGO_URL_SMALL = "../app/images/agrimatch_1.png"
+
+    logo = Image.open(LOGO_URL_LARGE)
+    resized_logo = logo.resize((200, 100))
+
+    # Display the larger logo in the sidebar
+    st.sidebar.image(resized_logo)

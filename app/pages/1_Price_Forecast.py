@@ -186,7 +186,7 @@ forecast_months = st.slider(
     "Forecast Horizon (months)",
     min_value=1,
     max_value=48,
-    value=12,
+    value=36,
 )
 
 if st.button("Generate Forecast", type="primary", disabled=not data_ok):

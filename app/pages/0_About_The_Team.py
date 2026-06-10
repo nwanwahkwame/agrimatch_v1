@@ -61,38 +61,23 @@ st.markdown("""
     <div class="page-header-sub" style="text-align: center;">We are a passionate group of data scientists, and our aim is to build the future one line of code at a time.</div>
 </div>""", unsafe_allow_html=True)
 
-
-# Team Statistics (Quick Overview)
-# col_stat1, col_stat2, col_stat3, col_stat4 = st.columns([2, 2, 2, 2])
-# with col_stat1:
-#     st.metric(label='Team No.', value='5 Members')
-# with col_stat2:
-#     st.metric(label="Coffee Consumed", value="Infinite ☕")
-# with col_stat3:
-#     st.metric(label="Lines of Code Written", value="2000+")
-# with col_stat4:
-#     st.metric(label='Program', value='Code4Food')
-
-
-# st.divider()
-
 # 4. Team Data: Females
 team_members_1 = [
     {
         "name": "Ena 'Adurowura' Ayimey",
-        "role": "Data Scientist",
+        "role": "Data Scientist/Agronomist",
         "image": "https://4kwallpapers.com/images/walls/thumbs_3t/14893.jpg",
-        "bio": "Ena crafts machine learning pipelines and translates messy enterprise data into clear actionable strategies. She's a big woman."
+        "bio": "With a background in Agriculture, Ena is committed to leveraging post-harvest technology to empower farmers and strengthen food security."
     },
     {
         "name": "Olivia 'Olive' Matey",
-        "role": "Data Scientist",
+        "role": "Data Scientist/L&D Analyst",
         "image": "https://4kwallpapers.com/images/walls/thumbs_3t/14890.jpg",
-        "bio": "Olivia designs high-availability infrastructure layouts and keeps our applications running securely 24/7. She likes cats."
+        "bio": "With a background in customer experience optimization and data-driven improvement, Olivia's goal is turning uncertainty into better decisions."
     },
     {
         "name": "Rebecca 'Becks' Eshun",
-        "role": "Data Scientist",
+        "role": "Data Scientist/Geologist",
         "image": "https://4kwallpapers.com/images/walls/thumbs_3t/14887.jpg",
         "bio": "With a background in Geography, Rebecca is passionate about using data and technology to address agricultural challenges."
     }
@@ -117,7 +102,7 @@ for index_1, member_1 in enumerate(team_members_1):
 
         # Interactive Streamlit widget mapped directly under each individual card
         st.link_button("GitHub", github[index_1],
-                       use_container_width=True)
+                       use_container_width=True, type='primary')
         # if st.button(f"View Projects", key=f"btn_{index_1}", use_container_width=True):
         #     st.info(
         #         f"Showing portfolio links and case studies for **{member_1['name']}** below shortly!")
@@ -127,15 +112,15 @@ for index_1, member_1 in enumerate(team_members_1):
 team_members_2 = [
     {
         "name": "Kwame 'K.B' Nwanwah",
-        "role": "Data Scientist",
+        "role": "Data Scientist/Statistician",
         "image": "https://4kwallpapers.com/images/walls/thumbs_3t/14158.jpg",
         "bio": "With a degree in Mathematics and Statistics, Kwame likes to work with numbers because they have no opinions. Garbage in, garbage out."
     },
     {
-        "name": "Robert 'Ing Rake' Agbo",
-        "role": "Data Scientist",
+        "name": "Robert 'Ing RAKE' Agbo",
+        "role": "Data Scientist/Electrical Engineer",
         "image": "https://avatars.githubusercontent.com/u/210055536?v=4",
-        "bio": "As an Electrical Engineer, Ing Rake  David designs high-availability infrastructure layouts and keeps our applications running securely 24/7."
+        "bio": "As an Electrical Engineer and project and operations management professional, Robert leverages data science to address energy, climate, and food security challenges."
     }
 ]
 
@@ -157,7 +142,7 @@ for index_2, member_2 in enumerate(team_members_2):
 
         # Interactive Streamlit widget mapped directly under each individual card
         st.link_button("GitHub", github[index_2],
-                       use_container_width=True)
+                       use_container_width=True, type='primary')
         # if st.button(f"View Projects", key=f"btn_{member_2}", use_container_width=True):
         #     st.link_button("Go to Google", "https://google.com")
         #     st.link_button("Go to Google", "https://google.com")
@@ -169,10 +154,19 @@ st.markdown("""
 
 col1, col2 = st.columns([3, 5])
 with col1:
-    st.write("""Farmers struggle to find a buyer. If a farmer has no guaranteed market outlet, crops sit in suboptimal conditions and rot.
-             In short, a lack of immediate marketability creates the post-harvest crisis and reduces the income for the farmer.  Further more, farmers burn agriculture waste such as maize cob , rice husk etc and this a major contribution to the climate change affecting us currently.
-             As a group, we have decided to tackle this issue by building a digital market place that connects farmers directly with buyers and industry processors. 
-             Thereby cutting down on food waste within the supply chain ensuring that more produced food actually reaches the market, supporting food security and promoting sustainable food systems.
-             This is how **Team Tera** was born.""")
+    st.write("""
+             **Team KORRE** was born out of passion and urgency; passion to see the Agricultural Sector evolve, urgency to see it thrive. 
+             
+             
+
+
+             As a group, **KORRE** decided to tackle  post-harvest losses by building a digital market place that connects farmers directly with buyers and industry processors, 
+             thereby cutting down on food waste.
+             
+
+             
+             
+             This ensures that more produced food actually reaches the market, supporting food security and promoting sustainable food systems.
+             This is how **Team KORRE** was born.""")
 with col2:
     st.image('../app/images/group.jpg')

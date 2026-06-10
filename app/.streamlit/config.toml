@@ -1,2 +1,11 @@
 [theme]
 base = "light"
+primaryColor = "#3fad50"
+backgroundColor = "#ffffff"
+secondaryColor = "#e69109"
+
+[client]
+toolbarMode = "viewer"
+
+[ui]
+hideTopBar = true

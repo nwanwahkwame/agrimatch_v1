@@ -45,12 +45,12 @@ st.markdown("""
 # ── Environment / DB setup ────────────────────────────────────────────────────
 load_dotenv()
 
-HOST = os.getenv("DB_HOST")
+HOST     = os.getenv("DB_HOST")
 USERNAME = os.getenv("DB_USERNAME")
 PASSWORD = os.getenv("DB_PASSWORD")
-PORT = os.getenv("DB_PORT")
+PORT     = os.getenv("DB_PORT")
 
-LISTINGS_DB = "farm_backend"
+LISTINGS_DB  = "farm_backend"
 LISTINGS_TBL = "new_farmers"
 
 # Forecast model directory (same convention as Price_Forecast.py)
@@ -71,8 +71,7 @@ def get_listings_engine():
 @st.cache_resource
 def get_forecast_engine():
     """Separate engine for the price-history DB used by the forecast models."""
-    forecast_db = os.getenv(
-        "DB_DATABASE")   # same var used in Price_Forecast.py
+    forecast_db = os.getenv("DB_DATABASE")   # same var used in Price_Forecast.py
     return create_engine(
         f"mysql+pymysql://{USERNAME}:{PASSWORD}@{HOST}:{PORT}/{forecast_db}"
     )
@@ -164,10 +163,8 @@ st.markdown("<br>", unsafe_allow_html=True)
 data = df_all.copy()
 
 if filter_crop != "All Crops":
-    import re
     data = data[
-        data["crops_planted"].str.contains(
-            re.escape(filter_crop), case=False, na=False)
+        data["crops_planted"].str.contains(filter_crop, case=False, na=False)
     ]
 
 if filter_region != "All Regions":
@@ -187,8 +184,7 @@ if search:
 if sort_by == "Harvest: Soonest":
     data = data.sort_values("harvest_date", ascending=True, na_position="last")
 elif sort_by == "Harvest: Latest":
-    data = data.sort_values(
-        "harvest_date", ascending=False, na_position="last")
+    data = data.sort_values("harvest_date", ascending=False, na_position="last")
 elif sort_by == "Name A→Z":
     data = data.sort_values("name", ascending=True)
 
@@ -198,7 +194,7 @@ if data.empty:
     st.info("No farmers match your filters. Try adjusting your search.")
     st.stop()
 
-total = len(data)
+total       = len(data)
 total_pages = max(1, -(-total // PAGE_SIZE))   # ceiling division
 
 st.markdown(
@@ -257,62 +253,51 @@ if "enquiry_open" not in st.session_state:
 
 # ── Grid ──────────────────────────────────────────────────────────────────────
 for i in range(0, len(page_data), 3):
-    cols = st.columns(2)
+    cols = st.columns(3)
     for j, col in enumerate(cols):
         idx = i + j
         if idx >= len(page_data):
             break
 
-        row = page_data.iloc[idx]
+        row   = page_data.iloc[idx]
         row_i = page_data.index[idx]   # index in the full filtered `data` df
 
         # Format harvest date
         try:
-            harvest_display = pd.to_datetime(
-                row["harvest_date"]).strftime("%d %b %Y")
+            harvest_display = pd.to_datetime(row["harvest_date"]).strftime("%d %b %Y")
         except Exception:
             harvest_display = str(row.get("harvest_date", "—"))
 
         # Crops — normalise to a tidy comma-separated string
-        crops_raw = str(row.get("crops_planted", "—"))
+        crops_raw    = str(row.get("crops_planted", "—"))
         yet_to_plant = str(row.get("yet_to_plant", ""))
 
         with col:
-            st.html(f"""
-            <div style="
-                background:#ffffff;
-                border:1px solid #e5e7eb;
-                border-radius:12px;
-                padding:18px 16px 14px;
-                margin-bottom:8px;
-                box-shadow:0 1px 4px rgba(0,0,0,0.06);
-                font-family:sans-serif;
-            ">
-                <div style="font-size:1.1rem;font-weight:700;color:#1a1a1a;margin-bottom:6px;">
-                    {crops_raw}
+            st.markdown(f"""
+            <div class="listing-card">
+                <div class="listing-crop">{crops_raw}</div>
+
+                <div class="listing-farmer" style="margin-bottom:6px;">
+                    👤 <strong>{row.get('name', '—')}</strong>
                 </div>
 
-                <div style="font-size:0.88rem;font-weight:600;color:#374151;margin-bottom:8px;">
-                    👤 {row.get('name', '—')}
-                </div>
-
-                <div style="font-size:0.82rem;color:#374151;line-height:1.9;">
+                <div style="font-size:0.82rem;color:#374151;line-height:1.8;">
                     📞 {row.get('telephone_no', '—')}<br>
                     📍 {row.get('location', '—')}, {row.get('district', '—')}<br>
                     🗺️ {row.get('region', '—')} Region
                 </div>
 
-                <div style="margin-top:10px;font-size:0.8rem;color:#6b7280;line-height:1.8;border-top:1px solid #f3f4f6;padding-top:10px;">
+                <div style="margin-top:10px;font-size:0.8rem;color:#6b7280;line-height:1.7;">
                     🌾 <strong>Planted:</strong> {crops_raw}<br>
                     🌱 <strong>Yet to plant:</strong> {yet_to_plant if yet_to_plant and yet_to_plant != 'nan' else '—'}<br>
                     📅 <strong>Harvest date:</strong> {harvest_display}
                 </div>
-            </div>""")
+            </div>""", unsafe_allow_html=True)
 
             if st.button(
                 "📬 Enquire & View Forecast",
                 key=f"enq_{row_i}",
-                use_container_width=True, type='primary',
+                use_container_width=True,
             ):
                 # Toggle: clicking again collapses the panel
                 st.session_state.enquiry_open = (
@@ -329,9 +314,9 @@ for i in range(0, len(page_data), 3):
     ]
 
     if st.session_state.enquiry_open in row_indices_in_this_row:
-        sel = data.loc[st.session_state.enquiry_open]
-        crop = sel.get("crops_planted", "")
-        region = sel.get("region", "")
+        sel     = data.loc[st.session_state.enquiry_open]
+        crop    = sel.get("crops_planted", "")
+        region  = sel.get("region", "")
 
         # If farmer grows multiple crops, take the first one for the forecast
         primary_crop = str(crop).split(",")[0].strip()
@@ -346,14 +331,12 @@ for i in range(0, len(page_data), 3):
             d1, d2, d3 = st.columns(3)
             d1.markdown(f"**Name** \n{sel.get('name', '—')}")
             d2.markdown(f"**Phone** \n{sel.get('telephone_no', '—')}")
-            d3.markdown(
-                f"**Location** \n{sel.get('location', '—')}, {sel.get('district', '—')}")
+            d3.markdown(f"**Location** \n{sel.get('location', '—')}, {sel.get('district', '—')}")
 
             d4, d5, d6 = st.columns(3)
             d4.markdown(f"**Region** \n{region} Region")
             d5.markdown(f"**Crops Planted** \n{crop}")
-            d6.markdown(
-                f"**Yet to Plant** \n{sel.get('yet_to_plant', '—') or '—'}")
+            d6.markdown(f"**Yet to Plant** \n{sel.get('yet_to_plant', '—') or '—'}")
 
             try:
                 hd = pd.to_datetime(sel["harvest_date"]).strftime("%d %B %Y")
@@ -370,13 +353,13 @@ for i in range(0, len(page_data), 3):
 
             forecast_months = st.slider(
                 "Forecast Horizon (months)",
-                min_value=1, max_value=48, value=36,
+                min_value=1, max_value=48, value=12,
                 key=f"slider_{st.session_state.enquiry_open}",
             )
 
             try:
-                model = load_model(model_key)
-                hist_df = load_price_history(model_key)
+                model    = load_model(model_key)
+                hist_df  = load_price_history(model_key)
                 hist_df["date"] = pd.to_datetime(hist_df["date"])
                 price_col = "cedi_price/(KG)"
 
@@ -395,7 +378,7 @@ for i in range(0, len(page_data), 3):
                     key=f"forecast_btn_{st.session_state.enquiry_open}",
                 ):
                     with st.spinner("Generating forecast…"):
-                        last_date = hist_df["date"].max()
+                        last_date   = hist_df["date"].max()
                         forecast_df = forecast_from_prophet(
                             model, last_date, forecast_months
                         )
@@ -418,10 +401,10 @@ for i in range(0, len(page_data), 3):
                     )
 
                     # Summary metrics
-                    peak_row = forecast_df.loc[forecast_df["yhat"].idxmax()]
+                    peak_row   = forecast_df.loc[forecast_df["yhat"].idxmax()]
                     trough_row = forecast_df.loc[forecast_df["yhat"].idxmin()]
-                    avg_fore = forecast_df["yhat"].mean()
-                    last_hist = hist_df[price_col].iloc[-1]
+                    avg_fore   = forecast_df["yhat"].mean()
+                    last_hist  = hist_df[price_col].iloc[-1]
                     pct_change = ((avg_fore - last_hist) / last_hist) * 100
 
                     fm0, fm1, fm2, fm3 = st.columns(4)
@@ -440,8 +423,7 @@ for i in range(0, len(page_data), 3):
                     )
 
                     # Monthly bar breakdown
-                    st.subheader(
-                        f"Monthly {primary_crop.title()} Price Forecast")
+                    st.subheader(f"Monthly {primary_crop.title()} Price Forecast")
                     bar_df = (
                         forecast_df[["ds", "yhat"]]
                         .rename(columns={"ds": "Month",

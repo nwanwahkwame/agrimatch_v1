@@ -50,8 +50,8 @@ USERNAME = os.getenv("DB_USERNAME")
 PASSWORD = os.getenv("DB_PASSWORD")
 PORT = os.getenv("DB_PORT")
 
-LISTINGS_DB = "farm_backend"
-LISTINGS_TBL = "new_farmers"
+LISTINGS_DB = os.getenv("DB_DATABASE_F")
+LISTINGS_TBL = os.getenv("DB_DATABASE_TBL")
 
 # Forecast model directory (same convention as Price_Forecast.py)
 MODEL_DIR = Path(__file__).resolve().parent.parent.parent / "models"
@@ -138,7 +138,9 @@ all_crops = sorted({
     for val in df_all["crops_planted"].dropna()
     for c in str(val).split(",")
     if c.strip()
-}) or CROPS
+}) and CROPS
+
+all_crops = CROPS
 
 all_regions = sorted(df_all["region"].dropna().unique().tolist()) or REGIONS
 
@@ -164,10 +166,8 @@ st.markdown("<br>", unsafe_allow_html=True)
 data = df_all.copy()
 
 if filter_crop != "All Crops":
-    import re
     data = data[
-        data["crops_planted"].str.contains(
-            re.escape(filter_crop), case=False, na=False)
+        data["crops_planted"].str.contains(filter_crop, case=False, na=False)
     ]
 
 if filter_region != "All Regions":

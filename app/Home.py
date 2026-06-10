@@ -36,7 +36,7 @@ cols = st.columns(5)
 for i, crop in enumerate(CROPS):
     with cols[i % 5]:
         if st.button(f"{crop_emojis.get(crop, '')} {crop}",
-                     key=f"crop_{crop}", use_container_width=True):
+                     key=f"crop_{crop}", use_container_width=True, type="primary"):
             st.switch_page("pages/2_All_Listings.py")
 
 st.markdown("<hr class='section-divider'>", unsafe_allow_html=True)
@@ -47,7 +47,7 @@ st.markdown('<div class="section-title" style="text-align:center;">📍 Browse B
 cols = st.columns(5)
 for i, region in enumerate(REGIONS):
     with cols[i % 5]:
-        if st.button(region, key=f"region_{region}", use_container_width=True):
+        if st.button(region, key=f"region_{region}", use_container_width=True, type="primary"):
             st.switch_page("pages/2_All_Listings.py")
 
 st.markdown("<hr class='section-divider'>", unsafe_allow_html=True)

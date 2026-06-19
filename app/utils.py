@@ -233,8 +233,8 @@ def footer():
 
 
 def logo():
-    LOGO_URL_LARGE = "../app/images/agrimatch_2_clean.png"
-    LOGO_URL_SMALL = "../app/images/agrimatch_1.png"
+    LOGO_URL_LARGE = "app/images/agrimatch_2_clean.png"
+    LOGO_URL_SMALL = "app/images/agrimatch_1.png"
 
     logo = Image.open(LOGO_URL_LARGE)
     resized_logo = logo.resize((200, 100))

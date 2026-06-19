@@ -1,0 +1,93 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+3099,2020,1,2020-01-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,1.44
+3111,2020,1,2020-01-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,1.37
+3112,2020,1,2020-01-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.41
+3687,2021,1,2021-01-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,28.12
+3688,2021,1,2021-01-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,5.77
+4676,2022,1,2022-01-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+4677,2022,1,2022-01-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+4962,2023,1,2023-01-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.19
+4963,2023,1,2023-01-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.67
+6821,2020,2,2020-02-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.19
+7339,2021,2,2021-02-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,876.0
+7340,2021,2,2021-02-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+7998,2022,2,2022-02-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+8021,2022,2,2022-02-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,1.67
+8347,2023,2,2023-02-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,17.15
+8349,2023,2,2023-02-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,50.59
+10209,2020,3,2020-03-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,1.19
+10220,2020,3,2020-03-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,1.37
+10221,2020,3,2020-03-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.41
+10732,2021,3,2021-03-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+10739,2021,3,2021-03-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+11210,2022,3,2022-03-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+11211,2022,3,2022-03-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+11863,2023,3,2023-03-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.19
+11890,2023,3,2023-03-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.67
+13559,2020,4,2020-04-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,3.66
+13563,2020,4,2020-04-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,2.91
+13564,2020,4,2020-04-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,111.43
+14364,2022,4,2022-04-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+14386,2022,4,2022-04-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+14927,2023,4,2023-04-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,186.67
+14978,2023,4,2023-04-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,11.92
+17074,2020,5,2020-05-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,4.7
+17086,2020,5,2020-05-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,3.93
+17643,2021,5,2021-05-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+17644,2021,5,2021-05-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+18030,2022,5,2022-05-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+18031,2022,5,2022-05-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+18510,2023,5,2023-05-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,11.92
+18511,2023,5,2023-05-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,186.67
+20104,2020,6,2020-06-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,187.5
+20338,2021,6,2021-06-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,2.41
+20365,2021,6,2021-06-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+20366,2021,6,2021-06-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,2.57
+20848,2022,6,2022-06-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+20849,2022,6,2022-06-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,7.62
+23099,2020,7,2020-07-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.19
+23785,2021,7,2021-07-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+23786,2021,7,2021-07-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+24321,2022,7,2022-07-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+24329,2022,7,2022-07-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+25162,2023,7,2023-07-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.67
+25163,2023,7,2023-07-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,31.11
+26367,2019,8,2019-08-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,1.19
+26386,2019,8,2019-08-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.41
+26393,2019,8,2019-08-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,1.37
+27335,2020,8,2020-08-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,2.56
+27457,2021,8,2021-08-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+27458,2021,8,2021-08-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+28373,2022,8,2022-08-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+28374,2022,8,2022-08-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+29923,2019,9,2019-09-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,1.37
+29924,2019,9,2019-09-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.41
+29956,2019,9,2019-09-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,1.18
+30222,2020,9,2020-09-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,2.56
+30780,2021,9,2021-09-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+30781,2021,9,2021-09-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+32819,2019,10,2019-10-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.41
+32826,2019,10,2019-10-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,1.2
+32839,2019,10,2019-10-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,1.37
+33435,2020,10,2020-10-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,47.06
+33436,2020,10,2020-10-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,5.77
+34044,2021,10,2021-10-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+34045,2021,10,2021-10-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+34624,2022,10,2022-10-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,42.17
+34642,2022,10,2022-10-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,8.33
+35751,2019,11,2019-11-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,1.2
+35764,2019,11,2019-11-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,1.37
+36258,2019,11,2019-11-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.41
+36478,2020,11,2020-11-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,5.77
+36496,2020,11,2020-11-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,47.06
+36940,2021,11,2021-11-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+36941,2021,11,2021-11-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33
+37465,2022,11,2022-11-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.19
+37467,2022,11,2022-11-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,42.17
+39363,2019,12,2019-12-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,29.41
+39364,2019,12,2019-12-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,1.37
+39419,2019,12,2019-12-15,Yendi,Yendi Municipal,1739,9.45,-0.01,,aggregate,Retail,1.41
+39780,2020,12,2020-12-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,47.06
+39781,2020,12,2020-12-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,5.77
+40095,2021,12,2021-12-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,,aggregate,Retail,3.17
+40096,2021,12,2021-12-15,Tamale,Tamale North Sub Metro,220,9.4,-0.83,52 ,aggregate,Wholesale,33.33

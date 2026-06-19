@@ -1,0 +1,232 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+3029,2020,1,2020-01-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.97
+3030,2020,1,2020-01-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,12.93
+3333,2020,1,2020-01-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.23
+3334,2020,1,2020-01-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,8.11
+3340,2020,1,2020-01-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.33
+3368,2020,1,2020-01-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,16.28
+3566,2021,1,2021-01-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,5.52
+3580,2021,1,2021-01-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.8
+3641,2021,1,2021-01-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,10.2
+4006,2021,1,2021-01-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.4
+4007,2021,1,2021-01-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,14.03
+4198,2022,1,2022-01-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.72
+4200,2022,1,2022-01-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.22
+4403,2022,1,2022-01-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.19
+4435,2022,1,2022-01-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,27.3
+4443,2022,1,2022-01-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.94
+5167,2023,1,2023-01-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,33.21
+5168,2023,1,2023-01-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.29
+6461,2020,2,2020-02-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,4.94
+6463,2020,2,2020-02-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,38.14
+6470,2020,2,2020-02-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.54
+6471,2020,2,2020-02-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,24.12
+6575,2020,2,2020-02-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.57
+6576,2020,2,2020-02-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,26.88
+7197,2021,2,2021-02-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.83
+7198,2021,2,2021-02-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,211.0
+7470,2021,2,2021-02-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.06
+7471,2021,2,2021-02-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,187.27
+7748,2022,2,2022-02-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.33
+7749,2022,2,2022-02-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.64
+7907,2022,2,2022-02-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,27.4
+7908,2022,2,2022-02-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.37
+8083,2023,2,2023-02-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,3.05
+8084,2023,2,2023-02-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,10.78
+8151,2023,2,2023-02-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,5.0
+8152,2023,2,2023-02-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,32.78
+8278,2023,2,2023-02-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,5.34
+8279,2023,2,2023-02-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,29.45
+9940,2020,3,2020-03-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,15.53
+9941,2020,3,2020-03-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.33
+10265,2020,3,2020-03-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.07
+10266,2020,3,2020-03-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,15.7
+10318,2020,3,2020-03-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,12.55
+10320,2020,3,2020-03-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.59
+10563,2021,3,2021-03-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,3.73
+10642,2021,3,2021-03-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.47
+10643,2021,3,2021-03-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,21.73
+10791,2021,3,2021-03-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,26.0
+10792,2021,3,2021-03-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.13
+11161,2022,3,2022-03-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.29
+11162,2022,3,2022-03-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,32.56
+11299,2022,3,2022-03-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.72
+11300,2022,3,2022-03-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.22
+11315,2022,3,2022-03-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,3.73
+11693,2023,3,2023-03-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,50.11
+11694,2023,3,2023-03-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,3.04
+11857,2023,3,2023-03-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.58
+13199,2020,4,2020-04-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,6.62
+13200,2020,4,2020-04-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,353.35
+13217,2020,4,2020-04-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,378.87
+13218,2020,4,2020-04-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,10.0
+13422,2020,4,2020-04-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,6.27
+13423,2020,4,2020-04-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,268.23
+14421,2022,4,2022-04-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.71
+14473,2022,4,2022-04-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.79
+14474,2022,4,2022-04-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,34.6
+14531,2022,4,2022-04-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,37.38
+14532,2022,4,2022-04-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.2
+14976,2023,4,2023-04-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,21.73
+15060,2023,4,2023-04-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,6.22
+15344,2023,4,2023-04-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,6.86
+15355,2023,4,2023-04-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,23.41
+15458,2023,4,2023-04-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,10.83
+15459,2023,4,2023-04-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,21.56
+17154,2020,5,2020-05-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,4.3
+17195,2020,5,2020-05-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,140.07
+17292,2020,5,2020-05-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,9.32
+17293,2020,5,2020-05-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,143.06
+17337,2020,5,2020-05-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,222.35
+17338,2020,5,2020-05-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,7.09
+17407,2021,5,2021-05-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,37.43
+17408,2021,5,2021-05-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.64
+17676,2021,5,2021-05-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,4.6
+18038,2022,5,2022-05-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,4.39
+18172,2022,5,2022-05-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,49.0
+18174,2022,5,2022-05-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,4.33
+18266,2022,5,2022-05-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.2
+18274,2022,5,2022-05-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,37.38
+18470,2023,5,2023-05-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,23.09
+18471,2023,5,2023-05-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,6.86
+18657,2023,5,2023-05-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,6.61
+18658,2023,5,2023-05-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,25.27
+18707,2023,5,2023-05-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,3.93
+18708,2023,5,2023-05-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,21.56
+20234,2020,6,2020-06-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,196.08
+20282,2020,6,2020-06-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,274.31
+20294,2020,6,2020-06-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,283.95
+20563,2021,6,2021-06-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,4.07
+20601,2021,6,2021-06-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.52
+20614,2021,6,2021-06-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.64
+20615,2021,6,2021-06-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,3.64
+21040,2022,6,2022-06-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.83
+21081,2022,6,2022-06-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,41.35
+21082,2022,6,2022-06-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,3.11
+21173,2022,6,2022-06-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.9
+21174,2022,6,2022-06-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.44
+21326,2023,6,2023-06-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,5.0
+21327,2023,6,2023-06-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,21.56
+21341,2023,6,2023-06-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,6.79
+21342,2023,6,2023-06-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,26.04
+21487,2023,6,2023-06-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,7.28
+21488,2023,6,2023-06-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,29.45
+23229,2020,7,2020-07-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,24.12
+23230,2020,7,2020-07-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.08
+23260,2020,7,2020-07-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,38.14
+23384,2020,7,2020-07-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.48
+23605,2020,7,2020-07-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.8
+23606,2020,7,2020-07-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,26.88
+23859,2021,7,2021-07-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.83
+23953,2021,7,2021-07-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,31.24
+23954,2021,7,2021-07-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.59
+24034,2021,7,2021-07-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.72
+24035,2021,7,2021-07-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,2.46
+24502,2022,7,2022-07-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.44
+24503,2022,7,2022-07-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.9
+24622,2022,7,2022-07-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,3.93
+24623,2022,7,2022-07-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,46.2
+24632,2022,7,2022-07-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.71
+24867,2023,7,2023-07-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,5.0
+24960,2023,7,2023-07-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,42.57
+24961,2023,7,2023-07-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,6.96
+25068,2023,7,2023-07-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,7.28
+26708,2019,8,2019-08-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.41
+26709,2019,8,2019-08-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,24.72
+26776,2019,8,2019-08-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,24.76
+26777,2019,8,2019-08-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,0.99
+26785,2019,8,2019-08-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,31.94
+26786,2019,8,2019-08-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.33
+26840,2020,8,2020-08-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.83
+26872,2020,8,2020-08-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,3.11
+26874,2020,8,2020-08-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,49.47
+26879,2020,8,2020-08-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,55.99
+26938,2020,8,2020-08-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,39.99
+26939,2020,8,2020-08-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,2.15
+27687,2021,8,2021-08-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.64
+27688,2021,8,2021-08-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,2.46
+27781,2021,8,2021-08-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,30.69
+27794,2021,8,2021-08-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.83
+27797,2021,8,2021-08-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.46
+28196,2022,8,2022-08-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.83
+28213,2022,8,2022-08-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,3.6
+28214,2022,8,2022-08-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,46.18
+29376,2019,9,2019-09-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,0.99
+29384,2019,9,2019-09-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,9.92
+29427,2019,9,2019-09-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.34
+29428,2019,9,2019-09-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,16.22
+29484,2019,9,2019-09-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,16.26
+29495,2019,9,2019-09-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.39
+30418,2020,9,2020-09-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,106.03
+30419,2020,9,2020-09-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,4.58
+30457,2020,9,2020-09-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,74.52
+30464,2020,9,2020-09-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,3.54
+30522,2020,9,2020-09-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,58.76
+30523,2020,9,2020-09-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,2.59
+30552,2021,9,2021-09-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.83
+30590,2021,9,2021-09-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,2.46
+30591,2021,9,2021-09-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.64
+30934,2021,9,2021-09-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.42
+30935,2021,9,2021-09-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,37.41
+31338,2022,9,2022-09-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,6.0
+31348,2022,9,2022-09-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.44
+31349,2022,9,2022-09-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.9
+31494,2022,9,2022-09-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.98
+31496,2022,9,2022-09-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,30.4
+32796,2019,10,2019-10-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,14.31
+33029,2019,10,2019-10-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.37
+33030,2019,10,2019-10-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,10.7
+33054,2019,10,2019-10-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.34
+33065,2019,10,2019-10-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.0
+33066,2019,10,2019-10-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,6.82
+33196,2020,10,2020-10-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.86
+33200,2020,10,2020-10-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,23.45
+33359,2020,10,2020-10-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.14
+33394,2020,10,2020-10-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,16.46
+33395,2020,10,2020-10-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,2.89
+33628,2021,10,2021-10-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,27.34
+33869,2021,10,2021-10-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.0
+33906,2021,10,2021-10-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.2
+33907,2021,10,2021-10-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.64
+33914,2021,10,2021-10-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.79
+34195,2022,10,2022-10-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,3.98
+34196,2022,10,2022-10-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,31.7
+34389,2022,10,2022-10-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.74
+34423,2022,10,2022-10-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,4.27
+35880,2019,11,2019-11-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,14.2
+35881,2019,11,2019-11-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.34
+35960,2019,11,2019-11-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,7.1
+35961,2019,11,2019-11-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,0.99
+36067,2019,11,2019-11-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,12.36
+36188,2019,11,2019-11-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.49
+36566,2020,11,2020-11-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.14
+36587,2020,11,2020-11-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,2.89
+36588,2020,11,2020-11-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,16.46
+36748,2020,11,2020-11-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,21.65
+36749,2020,11,2020-11-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,3.15
+37073,2021,11,2021-11-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.22
+37074,2021,11,2021-11-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.72
+37166,2021,11,2021-11-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.0
+37332,2021,11,2021-11-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.07
+37333,2021,11,2021-11-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,32.43
+37626,2022,11,2022-11-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.0
+37736,2022,11,2022-11-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.34
+37737,2022,11,2022-11-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,33.0
+38841,2019,12,2019-12-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,4.46
+38855,2019,12,2019-12-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.34
+38911,2019,12,2019-12-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,11.61
+38925,2019,12,2019-12-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.53
+38946,2019,12,2019-12-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,7.98
+38960,2019,12,2019-12-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,0.99
+39535,2020,12,2020-12-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,52 ,aggregate,Wholesale,19.84
+39536,2020,12,2020-12-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.03
+39554,2020,12,2020-12-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,18.5
+39578,2020,12,2020-12-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.13
+40297,2021,12,2021-12-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,1.93
+40298,2021,12,2021-12-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,27.8
+40374,2021,12,2021-12-15,Kintampo,Kintampo North,1726,8.06,-1.73,,aggregate,Retail,1.2
+40375,2021,12,2021-12-15,Kintampo,Kintampo North,1726,8.06,-1.73,52 ,aggregate,Wholesale,26.64
+40403,2021,12,2021-12-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,1.0
+40836,2022,12,2022-12-15,Techiman,Techiman Municipal,218,7.58,-1.93,52 ,aggregate,Wholesale,28.8
+40837,2022,12,2022-12-15,Techiman,Techiman Municipal,218,7.58,-1.93,,aggregate,Retail,2.12
+40863,2022,12,2022-12-15,Sunyani,Sunyani Municipal,217,7.33,-2.33,,aggregate,Retail,2.39

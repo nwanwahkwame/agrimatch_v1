@@ -1,0 +1,72 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+2965,2020,1,2020-01-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+2966,2020,1,2020-01-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+4059,2021,1,2021-01-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.46
+4060,2021,1,2021-01-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,303.18
+4300,2022,1,2022-01-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,321.92
+4301,2022,1,2022-01-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.85
+6583,2020,2,2020-02-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+6584,2020,2,2020-02-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+7532,2021,2,2021-02-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.46
+7553,2021,2,2021-02-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,325.5
+8557,2023,2,2023-02-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,9.43
+8558,2023,2,2023-02-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,751.15
+10366,2020,3,2020-03-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+10367,2020,3,2020-03-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+10888,2021,3,2021-03-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.85
+10889,2021,3,2021-03-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,325.5
+11751,2023,3,2023-03-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,715.38
+11752,2023,3,2023-03-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,9.62
+13518,2020,4,2020-04-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,213.9
+13740,2020,4,2020-04-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+13929,2021,4,2021-04-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.85
+13930,2021,4,2021-04-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,325.5
+15001,2023,4,2023-04-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,786.92
+15024,2023,4,2023-04-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,9.23
+16675,2020,5,2020-05-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+16676,2020,5,2020-05-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,221.56
+17360,2021,5,2021-05-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.85
+17392,2021,5,2021-05-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,325.5
+18086,2022,5,2022-05-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,608.08
+18087,2022,5,2022-05-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,6.92
+18806,2023,5,2023-05-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,9.23
+18817,2023,5,2023-05-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,786.92
+20253,2020,6,2020-06-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,223.2
+20779,2021,6,2021-06-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,4.18
+20780,2021,6,2021-06-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,325.5
+21688,2023,6,2023-06-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,9.23
+21689,2023,6,2023-06-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,786.92
+23519,2020,7,2020-07-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+23520,2020,7,2020-07-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+24134,2021,7,2021-07-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,353.4
+24146,2021,7,2021-07-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,4.23
+25187,2023,7,2023-07-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,9.36
+25200,2023,7,2023-07-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,786.92
+26673,2019,8,2019-08-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+26674,2019,8,2019-08-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+27315,2020,8,2020-08-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+27316,2020,8,2020-08-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,190.77
+27916,2021,8,2021-08-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,353.4
+27917,2021,8,2021-08-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,4.23
+29677,2019,9,2019-09-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+29894,2019,9,2019-09-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+30100,2020,9,2020-09-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,186.0
+30101,2020,9,2020-09-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+30918,2021,9,2021-09-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,4.23
+30919,2021,9,2021-09-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,353.4
+33158,2019,10,2019-10-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+33172,2019,10,2019-10-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+33240,2020,10,2020-10-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,251.1
+33241,2020,10,2020-10-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.46
+36250,2019,11,2019-11-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+36251,2019,11,2019-11-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+36723,2020,11,2020-11-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.46
+36724,2020,11,2020-11-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,251.1
+36828,2021,11,2021-11-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,353.4
+36829,2021,11,2021-11-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.85
+39188,2019,12,2019-12-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,232.5
+39189,2019,12,2019-12-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,2.69
+39828,2020,12,2020-12-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,251.1
+39883,2020,12,2020-12-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.46
+39974,2021,12,2021-12-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,,aggregate,Retail,3.85
+39975,2021,12,2021-12-15,Koforidua,New Juaben Municipal,212,6.08,-0.25,93 ,aggregate,Wholesale,321.92

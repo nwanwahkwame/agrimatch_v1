@@ -1,0 +1,90 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+3393,2020,1,2020-01-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,0.67
+3877,2021,1,2021-01-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,514.05
+3878,2021,1,2021-01-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.04
+4531,2022,1,2022-01-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.03
+4532,2022,1,2022-01-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,546.37
+5292,2023,1,2023-01-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,10.1
+5296,2023,1,2023-01-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1101.18
+6866,2020,2,2020-02-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,410.93
+6875,2020,2,2020-02-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.14
+7613,2021,2,2021-02-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,499.59
+7614,2021,2,2021-02-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,8.0
+8321,2023,2,2023-02-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,12.53
+8329,2023,2,2023-02-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1352.86
+10160,2020,3,2020-03-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,0.47
+10451,2021,3,2021-03-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,503.84
+10459,2021,3,2021-03-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.08
+11409,2022,3,2022-03-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,629.95
+11410,2022,3,2022-03-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,6.81
+11542,2023,3,2023-03-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1342.15
+11543,2023,3,2023-03-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,12.5
+13471,2020,4,2020-04-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.94
+13472,2020,4,2020-04-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,442.45
+13889,2021,4,2021-04-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,503.42
+13890,2021,4,2021-04-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.05
+14749,2022,4,2022-04-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,7.32
+14750,2022,4,2022-04-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,681.82
+15210,2023,4,2023-04-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,12.63
+15211,2023,4,2023-04-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1362.5
+16811,2020,5,2020-05-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.99
+16812,2020,5,2020-05-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,431.65
+17574,2021,5,2021-05-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,501.68
+17575,2021,5,2021-05-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.08
+17946,2022,5,2022-05-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,7.44
+17947,2022,5,2022-05-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,798.62
+18336,2023,5,2023-05-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,12.56
+18337,2023,5,2023-05-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1362.5
+20208,2020,6,2020-06-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,440.46
+20380,2021,6,2021-06-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.08
+20381,2021,6,2021-06-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,536.79
+21149,2022,6,2022-06-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,7.5
+21150,2022,6,2022-06-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,825.84
+21578,2023,6,2023-06-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1362.51
+21579,2023,6,2023-06-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,12.57
+23240,2020,7,2020-07-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.75
+23241,2020,7,2020-07-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,410.93
+23677,2021,7,2021-07-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,545.46
+23678,2021,7,2021-07-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.05
+24262,2022,7,2022-07-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,8.55
+24269,2022,7,2022-07-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,871.97
+24662,2023,7,2023-07-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,12.56
+24688,2023,7,2023-07-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1354.56
+26630,2019,8,2019-08-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,365.87
+26637,2019,8,2019-08-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.17
+27139,2020,8,2020-08-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,388.34
+27151,2020,8,2020-08-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.22
+27647,2021,8,2021-08-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.08
+27676,2021,8,2021-08-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,537.28
+28002,2022,8,2022-08-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,877.41
+28003,2022,8,2022-08-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,8.42
+29763,2019,9,2019-09-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.6
+29764,2019,9,2019-09-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,401.84
+30332,2020,9,2020-09-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,428.66
+30333,2020,9,2020-09-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.68
+30804,2021,9,2021-09-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.03
+30805,2021,9,2021-09-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,539.61
+31196,2022,9,2022-09-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,885.11
+31210,2022,9,2022-09-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,8.42
+32901,2019,10,2019-10-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,357.36
+32914,2019,10,2019-10-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.17
+33484,2020,10,2020-10-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.0
+33485,2020,10,2020-10-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,535.92
+34017,2021,10,2021-10-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,542.97
+34018,2021,10,2021-10-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.05
+35790,2019,11,2019-11-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,357.36
+35807,2019,11,2019-11-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.44
+36368,2020,11,2020-11-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,535.92
+36369,2020,11,2020-11-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.0
+37262,2021,11,2021-11-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,549.64
+37263,2021,11,2021-11-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.08
+37552,2022,11,2022-11-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1118.2
+37553,2022,11,2022-11-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,10.31
+39159,2019,12,2019-12-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,4.34
+39160,2019,12,2019-12-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,351.08
+39494,2020,12,2020-12-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,546.83
+39496,2020,12,2020-12-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.08
+40032,2021,12,2021-12-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,518.62
+40033,2021,12,2021-12-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,5.03
+40576,2022,12,2022-12-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,,aggregate,Retail,10.05
+40577,2022,12,2022-12-15,Sekondi/Takoradi,Sekondi Takoradi,211,4.93,-1.7,109 ,aggregate,Wholesale,1090.0

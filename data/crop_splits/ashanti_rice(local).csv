@@ -1,0 +1,551 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+1981,2008,1,2008-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,37.5
+1987,2008,1,2008-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,35.25
+2022,2009,1,2009-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,51.0
+2028,2009,1,2009-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,36.0
+2153,2010,1,2010-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+2159,2010,1,2010-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,53.5
+2166,2010,1,2010-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,45.0
+2211,2011,1,2011-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,46.33
+2214,2011,1,2011-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,37.17
+2221,2011,1,2011-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,50.92
+2321,2012,1,2012-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,50.0
+2328,2012,1,2012-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,69.5
+2334,2012,1,2012-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,68.0
+2365,2013,1,2013-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,50.0
+2406,2013,1,2013-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,75.0
+2413,2013,1,2013-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,74.0
+2510,2014,1,2014-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,70.0
+2539,2014,1,2014-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,72.0
+2544,2014,1,2014-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,63.0
+2611,2015,1,2015-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,90.0
+2625,2015,1,2015-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,130.0
+2647,2015,1,2015-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,100.0
+2725,2016,1,2016-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,180.0
+2729,2016,1,2016-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,260.0
+2736,2016,1,2016-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+2802,2017,1,2017-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,200.0
+2809,2017,1,2017-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+2816,2017,1,2017-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,100.0
+2882,2018,1,2018-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,197.79
+2887,2018,1,2018-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+2937,2019,1,2019-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,142.9
+2944,2019,1,2019-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,186.24
+3184,2020,1,2020-01-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.4
+3241,2020,1,2020-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,"actual,aggregate",Wholesale,192.98
+3363,2020,1,2020-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.34
+3691,2021,1,2021-01-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.1
+3702,2021,1,2021-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,211.19
+3775,2021,1,2021-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.2
+3799,2021,1,2021-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,5.08
+3800,2021,1,2021-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,198.97
+4210,2022,1,2022-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.14
+4249,2022,1,2022-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,321.43
+4277,2022,1,2022-01-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,7.5
+4446,2022,1,2022-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,226.77
+4463,2022,1,2022-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,5.4
+4794,2023,1,2023-01-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,650.0
+4795,2023,1,2023-01-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,13.0
+4820,2023,1,2023-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,703.38
+4821,2023,1,2023-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,14.07
+4871,2023,1,2023-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,11.67
+5436,2008,2,2008-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,38.25
+5444,2008,2,2008-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,35.0
+5512,2009,2,2009-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,35.75
+5516,2009,2,2009-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,61.0
+5519,2009,2,2009-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,50.0
+5604,2010,2,2010-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,48.88
+5610,2010,2,2010-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,58.75
+5617,2010,2,2010-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,46.25
+5704,2011,2,2011-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,36.0
+5711,2011,2,2011-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,32.6
+5717,2011,2,2011-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,40.6
+5797,2012,2,2012-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,48.0
+5804,2012,2,2012-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,70.0
+5808,2012,2,2012-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,58.75
+5867,2013,2,2013-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,50.0
+5928,2013,2,2013-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,75.0
+5935,2013,2,2013-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,72.75
+5957,2014,2,2014-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,65.0
+5963,2014,2,2014-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,72.5
+5966,2014,2,2014-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,100.0
+6046,2015,2,2015-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,90.0
+6065,2015,2,2015-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,90.0
+6103,2015,2,2015-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,130.0
+6138,2016,2,2016-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,180.0
+6147,2016,2,2016-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+6154,2016,2,2016-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,255.0
+6285,2017,2,2017-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,155.0
+6292,2017,2,2017-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,170.0
+6298,2017,2,2017-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,200.0
+6356,2018,2,2018-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,135.0
+6362,2018,2,2018-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,181.6
+6397,2019,2,2019-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,123.33
+6402,2019,2,2019-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,141.19
+6631,2020,2,2020-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,3.62
+6644,2020,2,2020-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,"actual,aggregate",Wholesale,186.56
+6648,2020,2,2020-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,"actual,aggregate",Wholesale,158.81
+6691,2020,2,2020-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.87
+6731,2020,2,2020-02-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+7089,2021,2,2021-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,203.13
+7090,2021,2,2021-02-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+7184,2021,2,2021-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,3.98
+7245,2021,2,2021-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,203.56
+7372,2021,2,2021-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,5.05
+7771,2022,2,2022-02-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.93
+7772,2022,2,2022-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,314.29
+8184,2023,2,2023-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,13.28
+8715,2023,2,2023-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,12.9
+8716,2023,2,2023-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,585.74
+8760,2023,2,2023-02-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,13.0
+8761,2023,2,2023-02-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,597.75
+8927,2008,3,2008-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,38.0
+8929,2008,3,2008-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,35.0
+8975,2009,3,2009-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,35.0
+8981,2009,3,2009-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,52.5
+8988,2009,3,2009-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,57.5
+9032,2010,3,2010-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,47.5
+9099,2010,3,2010-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+9105,2010,3,2010-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,59.38
+9156,2011,3,2011-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,43.75
+9177,2011,3,2011-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,55.75
+9209,2011,3,2011-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,45.0
+9264,2012,3,2012-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,47.4
+9271,2012,3,2012-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,69.0
+9278,2012,3,2012-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,75.8
+9335,2013,3,2013-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,74.75
+9342,2013,3,2013-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,71.25
+9349,2013,3,2013-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,50.0
+9452,2014,3,2014-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,100.0
+9459,2014,3,2014-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,60.0
+9494,2014,3,2014-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,65.0
+9552,2015,3,2015-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,90.0
+9557,2015,3,2015-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,110.0
+9578,2015,3,2015-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,130.0
+9643,2016,3,2016-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,180.0
+9671,2016,3,2016-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+9688,2016,3,2016-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,190.0
+9719,2017,3,2017-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,170.0
+9726,2017,3,2017-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,153.0
+9749,2017,3,2017-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,200.0
+9811,2018,3,2018-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,143.83
+9817,2018,3,2018-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,181.6
+9840,2019,3,2019-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,140.39
+9847,2019,3,2019-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,191.67
+9959,2020,3,2020-03-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.72
+9989,2020,3,2020-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.67
+10064,2020,3,2020-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.34
+10303,2020,3,2020-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,"actual,aggregate",Wholesale,170.95
+10308,2020,3,2020-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,"actual,aggregate",Wholesale,179.57
+10748,2021,3,2021-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,3.98
+10845,2021,3,2021-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,203.13
+10846,2021,3,2021-03-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+11146,2022,3,2022-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,314.29
+11147,2022,3,2022-03-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,7.5
+11392,2022,3,2022-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.46
+11805,2023,3,2023-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,12.9
+11806,2023,3,2023-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,585.74
+12009,2023,3,2023-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,12.67
+12034,2023,3,2023-03-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,604.68
+12035,2023,3,2023-03-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,13.0
+12211,2008,4,2008-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,36.75
+12217,2008,4,2008-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,45.0
+12322,2009,4,2009-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,55.0
+12329,2009,4,2009-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,60.0
+12334,2009,4,2009-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,35.25
+12358,2010,4,2010-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,50.0
+12386,2010,4,2010-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,41.25
+12422,2010,4,2010-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+12468,2011,4,2011-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,45.0
+12479,2011,4,2011-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,52.5
+12486,2011,4,2011-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,45.0
+12595,2012,4,2012-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,48.0
+12609,2012,4,2012-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,73.5
+12612,2012,4,2012-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,69.75
+12683,2013,4,2013-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,87.5
+12702,2013,4,2013-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,70.0
+12704,2013,4,2013-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,56.0
+12761,2014,4,2014-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,100.0
+12767,2014,4,2014-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,65.0
+12819,2014,4,2014-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,71.25
+12879,2015,4,2015-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,90.0
+12887,2015,4,2015-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,122.5
+12894,2015,4,2015-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,115.0
+12983,2016,4,2016-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,182.0
+12991,2016,4,2016-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,156.0
+12997,2016,4,2016-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,270.0
+13078,2017,4,2017-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,170.0
+13081,2017,4,2017-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,200.0
+13089,2017,4,2017-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,160.0
+13133,2018,4,2018-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,181.16
+13143,2019,4,2019-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,191.67
+13148,2019,4,2019-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,142.9
+13336,2020,4,2020-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,3.81
+13337,2020,4,2020-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,142.1
+13347,2020,4,2020-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.87
+13402,2020,4,2020-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,213.13
+13403,2020,4,2020-04-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.23
+14161,2021,4,2021-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,203.13
+14162,2021,4,2021-04-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+14238,2021,4,2021-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.4
+14336,2021,4,2021-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,202.85
+14361,2021,4,2021-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,5.08
+14410,2022,4,2022-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,364.94
+14411,2022,4,2022-04-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.93
+14642,2022,4,2022-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.52
+15033,2023,4,2023-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,14.81
+15034,2023,4,2023-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,612.07
+15317,2023,4,2023-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,13.88
+15548,2023,4,2023-04-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,912.63
+15549,2023,4,2023-04-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,19.83
+15678,2008,5,2008-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,55.0
+15684,2008,5,2008-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,40.6
+15715,2009,5,2009-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,60.0
+15721,2009,5,2009-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+15753,2009,5,2009-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,55.5
+15852,2010,5,2010-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+15858,2010,5,2010-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,52.0
+15865,2010,5,2010-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,40.0
+15962,2011,5,2011-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,45.0
+15969,2011,5,2011-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,53.0
+15980,2011,5,2011-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,45.0
+16046,2012,5,2012-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+16049,2012,5,2012-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,71.5
+16080,2012,5,2012-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,78.25
+16135,2013,5,2013-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,70.0
+16142,2013,5,2013-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+16149,2013,5,2013-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,68.5
+16200,2014,5,2014-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,77.0
+16230,2014,5,2014-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,72.4
+16248,2014,5,2014-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,108.0
+16309,2015,5,2015-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,123.0
+16317,2015,5,2015-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,90.0
+16384,2015,5,2015-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,115.0
+16409,2016,5,2016-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,300.0
+16416,2016,5,2016-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,195.0
+16424,2016,5,2016-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,158.75
+16526,2017,5,2017-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,200.0
+16534,2017,5,2017-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,160.0
+16591,2018,5,2018-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,153.45
+16612,2019,5,2019-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,142.9
+16616,2019,5,2019-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,191.67
+17160,2020,5,2020-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.87
+17216,2020,5,2020-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,199.53
+17217,2020,5,2020-05-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.0
+17251,2020,5,2020-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,3.93
+17703,2021,5,2021-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,203.13
+17704,2021,5,2021-05-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+17727,2021,5,2021-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.17
+17804,2022,5,2022-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.46
+18103,2022,5,2022-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,388.34
+18165,2022,5,2022-05-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.0
+18536,2023,5,2023-05-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,590.83
+18538,2023,5,2023-05-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,13.0
+18628,2023,5,2023-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,13.88
+18855,2023,5,2023-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,16.01
+18868,2023,5,2023-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,664.53
+19070,2008,6,2008-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,45.62
+19076,2008,6,2008-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,85.6
+19150,2009,6,2009-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,44.0
+19156,2009,6,2009-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,54.25
+19167,2009,6,2009-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,60.0
+19238,2010,6,2010-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,44.38
+19244,2010,6,2010-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,52.5
+19250,2010,6,2010-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,45.0
+19286,2011,6,2011-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,48.0
+19292,2011,6,2011-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,55.0
+19300,2011,6,2011-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,56.5
+19366,2012,6,2012-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,73.0
+19394,2012,6,2012-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,65.1
+19401,2012,6,2012-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+19504,2013,6,2013-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,65.6
+19511,2013,6,2013-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+19518,2013,6,2013-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,70.0
+19559,2014,6,2014-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,130.0
+19630,2014,6,2014-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,130.0
+19638,2014,6,2014-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,130.0
+19702,2015,6,2015-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,90.0
+19709,2015,6,2015-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,125.0
+19716,2015,6,2015-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,152.5
+19752,2016,6,2016-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,156.25
+19760,2016,6,2016-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,210.0
+19768,2016,6,2016-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,300.0
+19881,2017,6,2017-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,160.0
+19888,2017,6,2017-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,170.0
+19892,2017,6,2017-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,200.0
+19955,2018,6,2018-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,153.45
+19999,2019,6,2019-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,191.67
+20004,2019,6,2019-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,140.39
+20142,2020,6,2020-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,205.46
+20178,2020,6,2020-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,333.33
+20527,2021,6,2021-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,250.0
+20659,2021,6,2021-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.41
+20961,2022,6,2022-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.38
+21024,2022,6,2022-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,388.34
+21025,2022,6,2022-06-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.0
+21714,2023,6,2023-06-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,13.0
+21715,2023,6,2023-06-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,590.83
+21750,2023,6,2023-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,16.01
+21751,2023,6,2023-06-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,692.61
+21889,2023,6,2023-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,13.88
+21979,2007,7,2007-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,38.25
+22010,2008,7,2008-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,52.5
+22016,2008,7,2008-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,48.5
+22080,2009,7,2009-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,60.0
+22091,2009,7,2009-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,56.0
+22131,2009,7,2009-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,44.0
+22170,2010,7,2010-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,51.1
+22177,2010,7,2010-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,45.0
+22180,2010,7,2010-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+22258,2011,7,2011-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,55.0
+22264,2011,7,2011-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,55.0
+22330,2011,7,2011-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,48.0
+22353,2012,7,2012-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,64.5
+22384,2012,7,2012-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+22396,2012,7,2012-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,70.0
+22479,2013,7,2013-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+22511,2013,7,2013-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,66.5
+22518,2013,7,2013-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,75.0
+22571,2014,7,2014-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,130.0
+22576,2014,7,2014-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,130.0
+22582,2014,7,2014-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,130.0
+22629,2015,7,2015-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,152.5
+22636,2015,7,2015-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,162.5
+22643,2015,7,2015-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,160.0
+22733,2016,7,2016-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,151.0
+22734,2016,7,2016-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,220.0
+22746,2016,7,2016-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,300.0
+22839,2017,7,2017-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,216.0
+22845,2017,7,2017-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,200.0
+22860,2017,7,2017-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,183.0
+22907,2018,7,2018-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,138.95
+22938,2018,7,2018-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,153.45
+22996,2019,7,2019-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,191.67
+23002,2019,7,2019-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,140.39
+23305,2020,7,2020-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,211.82
+23306,2020,7,2020-07-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+23329,2020,7,2020-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,176.38
+23330,2020,7,2020-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,3.62
+23396,2020,7,2020-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,3.98
+24000,2021,7,2021-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,247.47
+24001,2021,7,2021-07-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+24012,2021,7,2021-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.14
+24526,2022,7,2022-07-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.0
+24527,2022,7,2022-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,379.31
+24997,2023,7,2023-07-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,13.0
+24998,2023,7,2023-07-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,646.6
+25017,2023,7,2023-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,13.88
+25293,2023,7,2023-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,612.41
+25294,2023,7,2023-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,16.01
+25367,2007,8,2007-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,36.5
+25435,2008,8,2008-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,61.44
+25442,2008,8,2008-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,31.5
+25513,2009,8,2009-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,44.0
+25519,2009,8,2009-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,56.0
+25525,2009,8,2009-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,60.0
+25606,2010,8,2010-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+25613,2010,8,2010-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,45.0
+25620,2010,8,2010-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,60.0
+25702,2011,8,2011-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,47.67
+25709,2011,8,2011-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,60.33
+25716,2011,8,2011-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,62.67
+25796,2012,8,2012-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+25810,2012,8,2012-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,72.5
+25813,2012,8,2012-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,65.0
+25846,2013,8,2013-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+25861,2013,8,2013-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,78.0
+25879,2013,8,2013-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,72.0
+25979,2014,8,2014-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+25985,2014,8,2014-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,130.0
+25989,2014,8,2014-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,140.0
+26061,2016,8,2016-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,188.0
+26065,2016,8,2016-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,300.0
+26072,2016,8,2016-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,162.5
+26136,2017,8,2017-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,124.0
+26147,2017,8,2017-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,212.22
+26201,2018,8,2018-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,153.45
+26207,2018,8,2018-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,182.67
+26278,2019,8,2019-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.34
+26309,2019,8,2019-08-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.72
+26337,2019,8,2019-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.66
+26529,2019,8,2019-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,"actual,aggregate",Wholesale,207.21
+26533,2019,8,2019-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,"actual,aggregate",Wholesale,161.14
+26887,2020,8,2020-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,176.38
+26924,2020,8,2020-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,3.98
+27024,2020,8,2020-08-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+27025,2020,8,2020-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,211.82
+27432,2021,8,2021-08-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,278.41
+27433,2021,8,2021-08-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.25
+27869,2021,8,2021-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.14
+28020,2022,8,2022-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,6.82
+28471,2007,9,2007-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,37.63
+28507,2008,9,2008-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,55.63
+28513,2008,9,2008-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,30.0
+28657,2009,9,2009-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,60.0
+28669,2009,9,2009-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,38.0
+28672,2009,9,2009-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,59.5
+28674,2010,9,2010-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+28688,2010,9,2010-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,44.25
+28713,2010,9,2010-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,66.25
+28773,2011,9,2011-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,57.88
+28803,2011,9,2011-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,61.38
+28810,2011,9,2011-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,47.5
+28917,2012,9,2012-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,66.25
+28934,2012,9,2012-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,52.0
+28956,2012,9,2012-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,110.0
+29022,2013,9,2013-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+29029,2013,9,2013-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,85.0
+29036,2013,9,2013-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,70.0
+29070,2014,9,2014-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,140.0
+29077,2014,9,2014-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,140.0
+29083,2014,9,2014-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,140.0
+29204,2016,9,2016-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,160.0
+29275,2017,9,2017-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,199.44
+29281,2017,9,2017-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,249.0
+29337,2018,9,2018-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,183.13
+29518,2019,9,2019-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,181.94
+29519,2019,9,2019-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.59
+29588,2019,9,2019-09-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.72
+29599,2019,9,2019-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.34
+29657,2019,9,2019-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,"actual,aggregate",Wholesale,207.21
+30263,2020,9,2020-09-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.17
+30264,2020,9,2020-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,211.82
+30300,2020,9,2020-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,3.98
+30658,2021,9,2021-09-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,278.41
+30659,2021,9,2021-09-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.25
+30695,2021,9,2021-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.14
+31370,2022,9,2022-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,7.5
+31560,2007,10,2007-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,37.5
+31618,2008,10,2008-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,35.0
+31655,2008,10,2008-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,55.0
+31703,2009,10,2009-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,37.0
+31709,2009,10,2009-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,57.5
+31716,2009,10,2009-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,48.75
+31768,2010,10,2010-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,40.0
+31837,2010,10,2010-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,63.0
+31844,2010,10,2010-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,58.62
+31900,2011,10,2011-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,56.25
+31907,2011,10,2011-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,64.0
+31941,2011,10,2011-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,64.12
+31978,2012,10,2012-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,110.0
+31983,2012,10,2012-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,65.75
+31990,2012,10,2012-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,50.0
+32092,2013,10,2013-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+32099,2013,10,2013-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,85.0
+32106,2013,10,2013-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,87.5
+32184,2014,10,2014-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,140.0
+32200,2014,10,2014-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,140.0
+32216,2014,10,2014-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,140.0
+32365,2015,10,2015-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,180.0
+32373,2015,10,2015-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,156.0
+32380,2015,10,2015-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,160.0
+32455,2016,10,2016-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,161.0
+32517,2017,10,2017-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,130.21
+32524,2017,10,2017-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,163.5
+32550,2018,10,2018-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,174.14
+32580,2018,10,2018-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,145.89
+32615,2019,10,2019-10-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.72
+32681,2019,10,2019-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.34
+32738,2019,10,2019-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,"actual,aggregate",Wholesale,168.2
+32743,2019,10,2019-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,"actual,aggregate",Wholesale,222.76
+32750,2019,10,2019-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.7
+33327,2020,10,2020-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,268.09
+33328,2020,10,2020-10-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.42
+33772,2021,10,2021-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.14
+33808,2021,10,2021-10-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.25
+33809,2021,10,2021-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,234.69
+34285,2022,10,2022-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,8.75
+34319,2022,10,2022-10-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.67
+34320,2022,10,2022-10-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,418.72
+34687,2007,11,2007-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,36.33
+34747,2008,11,2008-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,48.2
+34748,2008,11,2008-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,33.0
+34811,2009,11,2009-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,45.0
+34829,2009,11,2009-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,57.0
+34850,2009,11,2009-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,39.5
+34981,2010,11,2010-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,52.5
+34988,2010,11,2010-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,62.25
+34992,2010,11,2010-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,45.0
+35059,2011,11,2011-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,56.25
+35062,2011,11,2011-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,65.0
+35069,2011,11,2011-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,62.25
+35153,2012,11,2012-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,50.0
+35159,2012,11,2012-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,65.0
+35166,2012,11,2012-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,105.0
+35198,2013,11,2013-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,70.0
+35260,2013,11,2013-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,60.0
+35266,2013,11,2013-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,80.75
+35311,2014,11,2014-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,140.0
+35319,2014,11,2014-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,140.0
+35358,2014,11,2014-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,140.0
+35422,2015,11,2015-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+35432,2015,11,2015-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,160.0
+35451,2015,11,2015-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,180.0
+35464,2016,11,2016-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,180.0
+35471,2016,11,2016-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,153.75
+35478,2016,11,2016-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,340.0
+35570,2017,11,2017-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,205.0
+35608,2017,11,2017-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,187.0
+35617,2018,11,2018-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,111.93
+35623,2018,11,2018-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,145.89
+35660,2019,11,2019-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,"actual,aggregate",Wholesale,207.21
+35989,2019,11,2019-11-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.72
+36006,2019,11,2019-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.67
+36015,2019,11,2019-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,198.27
+36023,2019,11,2019-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.34
+36498,2020,11,2020-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,235.94
+36499,2020,11,2020-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,5.7
+36640,2020,11,2020-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.56
+36661,2020,11,2020-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,268.09
+36662,2020,11,2020-11-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,5.42
+37155,2021,11,2021-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,5.44
+37156,2021,11,2021-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,229.99
+37190,2021,11,2021-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.14
+37813,2022,11,2022-11-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.67
+37814,2022,11,2022-11-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,418.72
+37836,2022,11,2022-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,8.75
+37912,2007,12,2007-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,37.67
+37968,2008,12,2008-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,33.0
+37983,2008,12,2008-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,47.5
+38033,2009,12,2009-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,39.5
+38038,2009,12,2009-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,57.0
+38044,2009,12,2009-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,45.0
+38155,2010,12,2010-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,50.0
+38214,2011,12,2011-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,49.6
+38227,2011,12,2011-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,52.8
+38234,2011,12,2011-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,68.8
+38309,2012,12,2012-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,50.0
+38316,2012,12,2012-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,77.2
+38323,2012,12,2012-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,100.0
+38384,2013,12,2013-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,70.0
+38391,2013,12,2013-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,80.62
+38398,2013,12,2013-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,61.25
+38447,2014,12,2014-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,140.0
+38464,2014,12,2014-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,140.0
+38470,2014,12,2014-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,140.0
+38567,2015,12,2015-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,180.0
+38575,2015,12,2015-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+38582,2015,12,2015-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,225.0
+38670,2016,12,2016-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,50 ,actual,Wholesale,200.0
+38683,2016,12,2016-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,180.0
+38688,2016,12,2016-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,148.0
+38746,2017,12,2017-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,150.0
+38749,2017,12,2017-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,180.0
+38804,2018,12,2018-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,actual,Wholesale,142.15
+38810,2018,12,2018-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,actual,Wholesale,130.48
+38860,2019,12,2019-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.34
+39012,2019,12,2019-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,"actual,aggregate",Wholesale,167.08
+39030,2019,12,2019-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,"actual,aggregate",Wholesale,207.21
+39035,2019,12,2019-12-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.72
+39084,2019,12,2019-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.56
+39637,2020,12,2020-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,230.0
+39638,2020,12,2020-12-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.93
+39675,2020,12,2020-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.73
+40161,2021,12,2021-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.14
+40236,2021,12,2021-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,5.4
+40237,2021,12,2021-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,50 ,aggregate,Wholesale,226.77
+40263,2021,12,2021-12-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,7.5
+40264,2021,12,2021-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,257.14
+40757,2022,12,2022-12-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,13.0
+40759,2022,12,2022-12-15,Kumasi,Kma,215,6.68,-1.62,50 ,aggregate,Wholesale,604.68
+40779,2022,12,2022-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,12.85

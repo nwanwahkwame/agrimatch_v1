@@ -65,20 +65,20 @@ st.markdown("""
 team_members_1 = [
     {
         "name": "Ena 'Adurowura' Ayimey",
-        "role": "Data Scientist/Agronomist",
-        "image": "https://4kwallpapers.com/images/walls/thumbs_3t/14893.jpg",
+        "role": "Data Scientist/Post-Harvest Enthusiast",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQGn309JuKXutw/profile-displayphoto-crop_800_800/B4EZwM6xT.JgAI-/0/1769743261365?e=1782950400&v=beta&t=6V3RWJ4miLF0yAK_LiclZoFVwWSbFxwICBcFJjFD5n0",
         "bio": "With a background in Agriculture, Ena is committed to leveraging post-harvest technology to empower farmers and strengthen food security."
     },
     {
         "name": "Olivia 'Olive' Matey",
         "role": "Data Scientist/L&D Analyst",
-        "image": "https://4kwallpapers.com/images/walls/thumbs_3t/14890.jpg",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHTe-zEsZJLdQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725479822210?e=1782950400&v=beta&t=__-k04M4b_UdA9BcO2WwWOOVAcKLXzRJV4tZvGSlqUY",
         "bio": "With a background in customer experience optimization and data-driven improvement, Olivia's goal is turning uncertainty into better decisions."
     },
     {
         "name": "Rebecca 'Becks' Eshun",
         "role": "Data Scientist/Geologist",
-        "image": "https://4kwallpapers.com/images/walls/thumbs_3t/14887.jpg",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQEoPQaXr9em5A/profile-displayphoto-crop_800_800/B4DZwT3q4CIgAI-/0/1769859887587?e=1782950400&v=beta&t=usNysP1Txyu7lbiOPDjHyrnFNQW26gInpmrDsH3dEdI",
         "bio": "With a background in Geography, Rebecca is passionate about using data and technology to address agricultural challenges."
     }
 ]
@@ -113,13 +113,13 @@ team_members_2 = [
     {
         "name": "Kwame 'K.B' Nwanwah",
         "role": "Data Scientist/Statistician",
-        "image": "https://4kwallpapers.com/images/walls/thumbs_3t/14158.jpg",
+        "image": "https://avatars.githubusercontent.com/u/12522322?v=4",
         "bio": "With a degree in Mathematics and Statistics, Kwame likes to work with numbers because they have no opinions. Garbage in, garbage out."
     },
     {
         "name": "Robert 'Ing RAKE' Agbo",
         "role": "Data Scientist/Electrical Engineer",
-        "image": "https://avatars.githubusercontent.com/u/210055536?v=4",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQEDIu00SMv-DQ/profile-displayphoto-crop_800_800/B4DZmSMEJbH0AI-/0/1759094262817?e=1782950400&v=beta&t=dRbrPj90mPN3xEBfjjy4994_H1DMOEY85jV_OTePbJI",
         "bio": "As an Electrical Engineer and project and operations management professional, Robert leverages data science to address energy, climate, and food security challenges."
     }
 ]

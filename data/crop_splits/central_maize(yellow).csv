@@ -1,0 +1,137 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+3016,2020,1,2020-01-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.63
+3024,2020,1,2020-01-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.69
+3025,2020,1,2020-01-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,207.08
+3999,2021,1,2021-01-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.85
+4000,2021,1,2021-01-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,265.15
+4125,2021,1,2021-01-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,2.1
+4312,2022,1,2022-01-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.97
+4441,2022,1,2022-01-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,451.84
+4442,2022,1,2022-01-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,5.0
+5174,2023,1,2023-01-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,730.52
+5181,2023,1,2023-01-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,8.11
+5219,2023,1,2023-01-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.31
+6537,2020,2,2020-02-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.95
+6569,2020,2,2020-02-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.47
+6570,2020,2,2020-02-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,232.14
+7484,2021,2,2021-02-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,265.15
+7486,2021,2,2021-02-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,3.04
+7526,2021,2,2021-02-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,2.23
+7913,2022,2,2022-02-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,451.84
+7914,2022,2,2022-02-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,4.52
+8123,2023,2,2023-02-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.58
+8145,2023,2,2023-02-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,9.63
+8146,2023,2,2023-02-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,852.22
+10260,2020,3,2020-03-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.69
+10261,2020,3,2020-03-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,207.08
+10768,2021,3,2021-03-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,2.27
+10798,2021,3,2021-03-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,271.1
+10799,2021,3,2021-03-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,3.04
+10950,2022,3,2022-03-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,5.07
+10951,2022,3,2022-03-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,451.84
+11094,2022,3,2022-03-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.94
+11677,2023,3,2023-03-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.27
+11699,2023,3,2023-03-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,843.82
+11700,2023,3,2023-03-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,9.73
+13281,2020,4,2020-04-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,220.52
+13290,2020,4,2020-04-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.66
+13306,2020,4,2020-04-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.97
+14294,2021,4,2021-04-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,3.04
+14298,2021,4,2021-04-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,2.46
+14308,2021,4,2021-04-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,271.1
+14469,2022,4,2022-04-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,4.89
+15054,2023,4,2023-04-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,9.73
+15055,2023,4,2023-04-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,843.82
+15072,2023,4,2023-04-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.54
+16698,2020,5,2020-05-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.97
+17285,2020,5,2020-05-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.6
+17286,2020,5,2020-05-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,244.05
+17393,2021,5,2021-05-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,3.52
+17413,2021,5,2021-05-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,313.2
+17490,2021,5,2021-05-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.01
+17849,2022,5,2022-05-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,4.92
+17854,2022,5,2022-05-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,542.21
+17855,2022,5,2022-05-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,6.22
+18651,2023,5,2023-05-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,11.05
+18652,2023,5,2023-05-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,955.73
+18687,2023,5,2023-05-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.91
+20278,2020,6,2020-06-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,244.05
+20544,2021,6,2021-06-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.2
+20568,2021,6,2021-06-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,355.52
+20569,2021,6,2021-06-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,3.78
+21088,2022,6,2022-06-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,542.21
+21089,2022,6,2022-06-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,6.22
+21288,2022,6,2022-06-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,4.86
+21315,2023,6,2023-06-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,955.73
+21316,2023,6,2023-06-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,11.05
+21782,2023,6,2023-06-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.8
+23481,2020,7,2020-07-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.95
+23602,2020,7,2020-07-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,232.14
+23934,2021,7,2021-07-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,4.06
+23959,2021,7,2021-07-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,355.52
+23960,2021,7,2021-07-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.25
+24214,2022,7,2022-07-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,4.04
+24616,2022,7,2022-07-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,6.36
+24617,2022,7,2022-07-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,542.21
+24914,2023,7,2023-07-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,11.05
+24924,2023,7,2023-07-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,955.73
+25203,2023,7,2023-07-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.8
+26671,2019,8,2019-08-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.63
+26715,2019,8,2019-08-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,220.06
+26730,2019,8,2019-08-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,3.06
+26869,2020,8,2020-08-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,232.14
+27290,2020,8,2020-08-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.46
+27807,2021,8,2021-08-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,4.06
+27808,2021,8,2021-08-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,355.52
+27896,2021,8,2021-08-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.34
+28122,2022,8,2022-08-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.58
+28178,2022,8,2022-08-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,7.13
+28208,2022,8,2022-08-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,614.39
+29437,2019,9,2019-09-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.5
+29509,2019,9,2019-09-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.6
+29510,2019,9,2019-09-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,195.39
+30060,2020,9,2020-09-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.3
+30449,2020,9,2020-09-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.84
+30463,2020,9,2020-09-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,253.03
+30927,2021,9,2021-09-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,4.8
+30928,2021,9,2021-09-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,433.77
+30945,2021,9,2021-09-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,2.93
+31414,2022,9,2022-09-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.58
+31429,2022,9,2022-09-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,614.39
+31430,2022,9,2022-09-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,7.13
+33022,2019,10,2019-10-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.54
+33023,2019,10,2019-10-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,191.87
+33133,2019,10,2019-10-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.47
+33176,2020,10,2020-10-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,253.03
+33180,2020,10,2020-10-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.84
+33284,2020,10,2020-10-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.44
+33653,2021,10,2021-10-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,2.33
+33662,2021,10,2021-10-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,4.8
+33663,2021,10,2021-10-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,433.77
+34144,2022,10,2022-10-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,4.89
+34190,2022,10,2022-10-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,6.36
+34432,2022,10,2022-10-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,550.87
+36177,2019,11,2019-11-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.61
+36192,2019,11,2019-11-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,191.87
+36193,2019,11,2019-11-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.76
+36682,2020,11,2020-11-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.55
+36755,2020,11,2020-11-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,253.03
+36756,2020,11,2020-11-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.84
+37250,2021,11,2021-11-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.25
+37325,2021,11,2021-11-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,4.87
+37326,2021,11,2021-11-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,433.77
+37649,2022,11,2022-11-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.49
+37730,2022,11,2022-11-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,6.36
+37731,2022,11,2022-11-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,562.99
+38920,2019,12,2019-12-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.7
+38921,2019,12,2019-12-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,205.18
+39346,2019,12,2019-12-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.6
+39566,2020,12,2020-12-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,1.63
+39583,2020,12,2020-12-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,265.15
+39584,2020,12,2020-12-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,2.73
+40290,2021,12,2021-12-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,5.14
+40291,2021,12,2021-12-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,451.84
+40330,2021,12,2021-12-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,3.26
+40531,2022,12,2022-12-15,Mankessim,Mfantsiman,214,5.27,-1.02,,aggregate,Retail,6.51
+40811,2022,12,2022-12-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,,aggregate,Retail,7.83
+40822,2022,12,2022-12-15,Cape Coast,Cape Coast Metro,213,5.11,-1.24,100 ,aggregate,Wholesale,562.99

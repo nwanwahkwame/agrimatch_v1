@@ -1,0 +1,98 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+3225,2020,1,2020-01-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,1.33
+3357,2020,1,2020-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,0.77
+3704,2021,1,2021-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,1.96
+3770,2021,1,2021-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,1.99
+3801,2021,1,2021-01-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,3.41
+4156,2022,1,2022-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,6.22
+4241,2022,1,2022-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,6.08
+4281,2022,1,2022-01-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,10.19
+4787,2023,1,2023-01-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,18.51
+4807,2023,1,2023-01-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.12
+4836,2023,1,2023-01-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,8.89
+6625,2020,2,2020-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,3.01
+6764,2020,2,2020-02-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.5
+7039,2021,2,2021-02-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,7.43
+7178,2021,2,2021-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,7.91
+7807,2022,2,2022-02-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,7.06
+8194,2023,2,2023-02-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,11.01
+8248,2023,2,2023-02-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.12
+8703,2023,2,2023-02-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,13.98
+9969,2020,3,2020-03-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,1.33
+9998,2020,3,2020-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,1.76
+10057,2020,3,2020-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,0.91
+10754,2021,3,2021-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,6.31
+10858,2021,3,2021-03-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.59
+11218,2022,3,2022-03-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,11.11
+11281,2022,3,2022-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,7.83
+11793,2023,3,2023-03-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,15.89
+12014,2023,3,2023-03-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,13.19
+12017,2023,3,2023-03-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,8.12
+13319,2020,4,2020-04-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.71
+13343,2020,4,2020-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,4.85
+13364,2020,4,2020-04-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.95
+14174,2021,4,2021-04-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,7.89
+14244,2021,4,2021-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,7.75
+14466,2022,4,2022-04-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,11.11
+14601,2022,4,2022-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,10.93
+15275,2023,4,2023-04-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,9.61
+17140,2020,5,2020-05-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.13
+17164,2020,5,2020-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.44
+17197,2020,5,2020-05-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.21
+17715,2021,5,2021-05-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,7.89
+17759,2021,5,2021-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,8.98
+17813,2022,5,2022-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,14.41
+18056,2022,5,2022-05-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,11.11
+18633,2023,5,2023-05-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,9.61
+20653,2021,6,2021-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,2.43
+20932,2022,6,2022-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,11.58
+20975,2022,6,2022-06-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.83
+21885,2023,6,2023-06-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,10.15
+23336,2020,7,2020-07-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,3.01
+23343,2020,7,2020-07-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.5
+23987,2021,7,2021-07-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,11.67
+24045,2021,7,2021-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,10.55
+24561,2022,7,2022-07-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.83
+25048,2023,7,2023-07-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,10.15
+26284,2019,8,2019-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,1.2
+26299,2019,8,2019-08-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,1.23
+26346,2019,8,2019-08-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,1.75
+27014,2020,8,2020-08-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,6.5
+27446,2021,8,2021-08-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,12.78
+27875,2021,8,2021-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,10.45
+28013,2022,8,2022-08-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,9.47
+29527,2019,9,2019-09-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,1.74
+29557,2019,9,2019-09-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,1.23
+29616,2019,9,2019-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,0.95
+30280,2020,9,2020-09-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.33
+30628,2021,9,2021-09-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,12.78
+30701,2021,9,2021-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,10.83
+31364,2022,9,2022-09-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,8.84
+32628,2019,10,2019-10-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,1.23
+32687,2019,10,2019-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,0.91
+32759,2019,10,2019-10-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,1.74
+33339,2020,10,2020-10-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,2.0
+33802,2021,10,2021-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,7.57
+33831,2021,10,2021-10-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,12.78
+34298,2022,10,2022-10-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,27.78
+34344,2022,10,2022-10-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,1.66
+36004,2019,11,2019-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,1.73
+36039,2019,11,2019-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,0.91
+36047,2019,11,2019-11-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,1.23
+36507,2020,11,2020-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,1.12
+36606,2020,11,2020-11-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,2.0
+36635,2020,11,2020-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,2.59
+37142,2021,11,2021-11-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,4.09
+37199,2021,11,2021-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,5.96
+37774,2022,11,2022-11-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,12.33
+37849,2022,11,2022-11-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,12.04
+38866,2019,12,2019-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,0.68
+39045,2019,12,2019-12-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,1.23
+39086,2019,12,2019-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,1.74
+39603,2020,12,2020-12-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,3.12
+39680,2020,12,2020-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,1.76
+40155,2021,12,2021-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,6.22
+40223,2021,12,2021-12-15,Ejura,Ejura Sekye Dumase,223,7.38,-1.37,,aggregate,Retail,2.84
+40250,2021,12,2021-12-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,4.85
+40745,2022,12,2022-12-15,Obuasi,Obuasi Municipal,216,6.2,-1.67,,aggregate,Retail,10.51
+40773,2022,12,2022-12-15,Kumasi,Kma,215,6.68,-1.62,,aggregate,Retail,12.04

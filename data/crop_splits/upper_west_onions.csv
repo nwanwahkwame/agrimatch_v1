@@ -1,0 +1,31 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+4572,2022,1,2022-01-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.66
+5089,2023,1,2023-01-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.06
+6931,2020,2,2020-02-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,30.83
+8390,2023,2,2023-02-15,Wa,Wa Municipal,222,10.05,-2.48,73 ,aggregate,Wholesale,86.67
+8391,2023,2,2023-02-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,5.78
+10243,2020,3,2020-03-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,3.69
+10402,2021,3,2021-03-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,3.6
+11111,2022,3,2022-03-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.06
+11570,2023,3,2023-03-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.06
+13640,2020,4,2020-04-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,6.96
+14062,2021,4,2021-04-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.26
+14884,2022,4,2022-04-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.06
+15466,2023,4,2023-04-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,7.5
+15467,2023,4,2023-04-15,Wa,Wa Municipal,222,10.05,-2.48,73 ,aggregate,Wholesale,78.12
+16878,2020,5,2020-05-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,16.88
+17964,2022,5,2022-05-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.06
+18902,2023,5,2023-05-15,Wa,Wa Municipal,222,10.05,-2.48,73 ,aggregate,Wholesale,150.0
+18903,2023,5,2023-05-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,3.91
+21187,2022,6,2022-06-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.06
+21416,2023,6,2023-06-15,Wa,Wa Municipal,222,10.05,-2.48,73 ,aggregate,Wholesale,78.12
+21417,2023,6,2023-06-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,7.5
+23042,2020,7,2020-07-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,30.83
+24459,2022,7,2022-07-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.06
+24784,2023,7,2023-07-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,7.5
+27058,2020,8,2020-08-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,26.0
+30152,2020,9,2020-09-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,27.0
+33925,2021,10,2021-10-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,3.47
+34440,2022,10,2022-10-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.5
+36864,2021,11,2021-11-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.24
+40061,2021,12,2021-12-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.24

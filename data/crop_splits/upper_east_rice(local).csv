@@ -1,0 +1,286 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+1949,2008,1,2008-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,35.5
+2047,2009,1,2009-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+2145,2010,1,2010-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,59.0
+2192,2011,1,2011-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,51.67
+2290,2012,1,2012-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,70.0
+2433,2013,1,2013-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,71.5
+2489,2014,1,2014-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,67.0
+2600,2015,1,2015-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,120.0
+2671,2016,1,2016-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,116.0
+2786,2017,1,2017-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,130.0
+2868,2018,1,2018-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,137.95
+2916,2019,1,2019-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,135.0
+3200,2020,1,2020-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,"actual,aggregate",Wholesale,145.0
+3506,2020,1,2020-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.6
+3597,2021,1,2021-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.96
+3619,2021,1,2021-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.5
+4453,2022,1,2022-01-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.2
+4454,2022,1,2022-01-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,192.33
+4486,2022,1,2022-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.0
+4501,2022,1,2022-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.01
+4881,2023,1,2023-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,9.58
+4882,2023,1,2023-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,479.02
+4907,2023,1,2023-01-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,6.04
+4908,2023,1,2023-01-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,301.97
+5421,2008,2,2008-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,35.0
+5503,2009,2,2009-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+5596,2010,2,2010-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,55.0
+5694,2011,2,2011-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,40.0
+5767,2012,2,2012-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,70.0
+5923,2013,2,2013-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,75.0
+5980,2014,2,2014-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,73.75
+6123,2015,2,2015-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,130.0
+6166,2016,2,2016-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,117.5
+6267,2017,2,2017-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,130.0
+6337,2018,2,2018-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,94.5
+6342,2018,2,2018-02-15,Garu,Garu Tempane,1720,10.85,-0.18,100 ,actual,Wholesale,117.52
+6430,2019,2,2019-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,125.0
+6639,2020,2,2020-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,"actual,aggregate",Wholesale,136.02
+6789,2020,2,2020-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,2.74
+6811,2020,2,2020-02-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.99
+7255,2021,2,2021-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,165.0
+7256,2021,2,2021-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.7
+7302,2021,2,2021-02-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,143.57
+7303,2021,2,2021-02-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.54
+7668,2022,2,2022-02-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,192.33
+7676,2022,2,2022-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.18
+7677,2022,2,2022-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.0
+7699,2022,2,2022-02-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.14
+8352,2023,2,2023-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,441.28
+8368,2023,2,2023-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,9.75
+8413,2023,2,2023-02-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,7.5
+8757,2023,2,2023-02-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,368.99
+8905,2008,3,2008-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,41.67
+8995,2009,3,2009-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.25
+9090,2010,3,2010-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+9144,2011,3,2011-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+9219,2012,3,2012-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,70.6
+9362,2013,3,2013-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,87.5
+9441,2014,3,2014-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,78.0
+9591,2015,3,2015-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,110.0
+9607,2016,3,2016-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,120.0
+9715,2017,3,2017-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,130.0
+9822,2018,3,2018-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,94.12
+9858,2019,3,2019-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,125.0
+10283,2020,3,2020-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,179.8
+10511,2021,3,2021-03-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,143.2
+10512,2021,3,2021-03-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.93
+10688,2021,3,2021-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,179.8
+10689,2021,3,2021-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.7
+11054,2022,3,2022-03-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,224.38
+11055,2022,3,2022-03-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.52
+11891,2023,3,2023-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,435.02
+11922,2023,3,2023-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,9.58
+11980,2023,3,2023-03-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,332.61
+11981,2023,3,2023-03-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,6.88
+12225,2008,4,2008-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,45.0
+12309,2009,4,2009-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+12367,2010,4,2010-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+12494,2011,4,2011-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,56.25
+12586,2012,4,2012-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,73.25
+12649,2013,4,2013-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,71.0
+12799,2014,4,2014-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,85.0
+12832,2015,4,2015-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,112.5
+12971,2016,4,2016-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,120.0
+13057,2017,4,2017-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,120.0
+13119,2018,4,2018-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,190.0
+13179,2019,4,2019-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,135.0
+13524,2020,4,2020-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,2.73
+13525,2020,4,2020-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,122.27
+13622,2020,4,2020-04-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,103.27
+13623,2020,4,2020-04-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.85
+14090,2021,4,2021-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,142.61
+14091,2021,4,2021-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.7
+14841,2022,4,2022-04-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,224.38
+14851,2022,4,2022-04-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.51
+14867,2022,4,2022-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.79
+14868,2022,4,2022-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,213.5
+14932,2023,4,2023-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,447.54
+14933,2023,4,2023-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,9.92
+15405,2023,4,2023-04-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,371.34
+15406,2023,4,2023-04-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,7.48
+15667,2008,5,2008-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,46.88
+15730,2009,5,2009-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+15837,2010,5,2010-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+15906,2011,5,2011-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,65.0
+16014,2012,5,2012-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,71.25
+16109,2013,5,2013-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,71.5
+16212,2014,5,2014-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,86.0
+16378,2015,5,2015-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,124.0
+16437,2016,5,2016-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,130.0
+16512,2017,5,2017-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,120.0
+16589,2018,5,2018-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,85.9
+16630,2019,5,2019-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,133.33
+16922,2020,5,2020-05-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.84
+16924,2020,5,2020-05-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,149.11
+17030,2020,5,2020-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,2.72
+17031,2020,5,2020-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,136.37
+17970,2022,5,2022-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.87
+17972,2022,5,2022-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,213.4
+18435,2023,5,2023-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,9.92
+18436,2023,5,2023-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,447.54
+18847,2023,5,2023-05-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,371.34
+18882,2023,5,2023-05-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,7.48
+19046,2008,6,2008-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.62
+19116,2009,6,2009-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,55.0
+19206,2010,6,2010-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+19348,2011,6,2011-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,68.75
+19410,2012,6,2012-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,75.6
+19489,2013,6,2013-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,78.0
+19557,2014,6,2014-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,135.0
+19673,2015,6,2015-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,130.0
+19773,2016,6,2016-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,140.0
+19919,2017,6,2017-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,130.0
+19946,2018,6,2018-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,231.33
+20022,2020,6,2020-06-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,134.29
+20128,2020,6,2020-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,133.82
+20349,2021,6,2021-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.0
+20376,2021,6,2021-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.4
+20829,2022,6,2022-06-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,224.38
+20837,2022,6,2022-06-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.81
+21384,2023,6,2023-06-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,338.82
+21385,2023,6,2023-06-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,6.84
+21465,2023,6,2023-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,9.92
+21479,2023,6,2023-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,447.54
+21972,2007,7,2007-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,33.25
+22033,2008,7,2008-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,53.5
+22103,2009,7,2009-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,52.5
+22198,2010,7,2010-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+22274,2011,7,2011-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,60.0
+22397,2012,7,2012-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,75.0
+22531,2013,7,2013-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,70.0
+22699,2015,7,2015-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,160.0
+22767,2016,7,2016-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,140.0
+22868,2017,7,2017-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,150.0
+22952,2018,7,2018-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,121.25
+22965,2019,7,2019-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,135.0
+23079,2020,7,2020-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,135.0
+23080,2020,7,2020-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,2.74
+23151,2020,7,2020-07-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.99
+23179,2020,7,2020-07-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,165.5
+23831,2021,7,2021-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.01
+23853,2021,7,2021-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.0
+24335,2022,7,2022-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,5.21
+24336,2022,7,2022-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,238.03
+24715,2023,7,2023-07-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,7.08
+24716,2023,7,2023-07-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,352.16
+25136,2023,7,2023-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,435.02
+25137,2023,7,2023-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,9.92
+25359,2007,8,2007-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,25.0
+25401,2008,8,2008-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,57.39
+25494,2009,8,2009-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,55.0
+25575,2010,8,2010-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+25682,2011,8,2011-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,68.33
+25768,2012,8,2012-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,73.0
+25900,2013,8,2013-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,73.0
+26104,2016,8,2016-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,140.0
+26165,2017,8,2017-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,82.0
+26213,2018,8,2018-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,167.5
+26366,2019,8,2019-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.6
+26398,2019,8,2019-08-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,94.86
+26399,2019,8,2019-08-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,2.28
+26555,2019,8,2019-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,"actual,aggregate",Wholesale,145.0
+27092,2020,8,2020-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,150.56
+27101,2020,8,2020-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.11
+27105,2020,8,2020-08-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.59
+27106,2020,8,2020-08-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,148.44
+27598,2021,8,2021-08-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,154.76
+27612,2021,8,2021-08-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.03
+28291,2022,8,2022-08-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,224.38
+28292,2022,8,2022-08-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,5.13
+28405,2022,8,2022-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,8.72
+28411,2022,8,2022-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,305.0
+28491,2007,9,2007-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,27.5
+28518,2008,9,2008-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,64.5
+28647,2009,9,2009-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,53.5
+28725,2010,9,2010-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+28857,2011,9,2011-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,65.0
+28906,2012,9,2012-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,67.75
+28992,2013,9,2013-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,74.0
+29188,2016,9,2016-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,150.0
+29263,2017,9,2017-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,150.0
+29325,2018,9,2018-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,122.5
+29538,2019,9,2019-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,"actual,aggregate",Wholesale,145.0
+29750,2019,9,2019-09-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,2.28
+29751,2019,9,2019-09-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,94.86
+29942,2019,9,2019-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.6
+30128,2020,9,2020-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.41
+30129,2020,9,2020-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,165.0
+30729,2021,9,2021-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.0
+30731,2021,9,2021-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.01
+31544,2007,10,2007-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,36.0
+31651,2008,10,2008-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,69.0
+31659,2009,10,2009-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,49.25
+31795,2010,10,2010-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+31898,2011,10,2011-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,70.75
+32039,2012,10,2012-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,74.0
+32084,2013,10,2013-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,68.75
+32233,2014,10,2014-10-15,Navrongo,Kasena Nankana East,1732,10.89,-1.09,100 ,actual,Wholesale,480.0
+32237,2014,10,2014-10-15,Garu,Garu Tempane,1720,10.85,-0.18,100 ,actual,Wholesale,78.0
+32240,2014,10,2014-10-15,Funbisi,Builsa South,1719,10.45,-1.31,100 ,actual,Wholesale,236.0
+32266,2014,10,2014-10-15,Bongo,Bongo,1715,10.91,-0.81,100 ,actual,Wholesale,220.0
+32294,2014,10,2014-10-15,Bawku,Bawku Municipal,1713,11.05,-0.24,100 ,actual,Wholesale,200.0
+32356,2015,10,2015-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,129.0
+32442,2016,10,2016-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,146.0
+32504,2017,10,2017-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,160.0
+32593,2018,10,2018-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,165.0
+32777,2019,10,2019-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,"actual,aggregate",Wholesale,145.0
+32820,2019,10,2019-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.6
+32980,2019,10,2019-10-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,2.83
+32981,2019,10,2019-10-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,104.21
+33405,2020,10,2020-10-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,121.92
+33406,2020,10,2020-10-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.56
+33942,2021,10,2021-10-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,154.76
+33943,2021,10,2021-10-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.02
+34103,2021,10,2021-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.0
+34106,2021,10,2021-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.01
+34478,2022,10,2022-10-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,5.74
+34479,2022,10,2022-10-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,279.55
+34610,2022,10,2022-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,303.7
+34611,2022,10,2022-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,6.55
+34722,2007,11,2007-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,30.0
+34776,2008,11,2008-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,58.6
+34878,2009,11,2009-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+34994,2010,11,2010-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.25
+35027,2011,11,2011-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,67.5
+35141,2012,11,2012-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,72.5
+35187,2013,11,2013-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,65.0
+35384,2015,11,2015-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,120.0
+35530,2016,11,2016-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,131.25
+35587,2017,11,2017-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,89.0
+35625,2018,11,2018-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,155.0
+35786,2019,11,2019-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.6
+36136,2019,11,2019-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,"actual,aggregate",Wholesale,145.0
+36317,2020,11,2020-11-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,121.92
+36318,2020,11,2020-11-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.56
+36487,2020,11,2020-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.5
+36488,2020,11,2020-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.96
+37000,2021,11,2021-11-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.25
+37001,2021,11,2021-11-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,143.2
+37032,2021,11,2021-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.01
+37033,2021,11,2021-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.0
+37362,2022,11,2022-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,336.53
+37363,2022,11,2022-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,8.24
+37371,2022,11,2022-11-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,6.98
+37927,2007,12,2007-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,37.0
+37988,2008,12,2008-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+38113,2009,12,2009-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,50.0
+38149,2010,12,2010-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,54.0
+38184,2011,12,2011-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,70.0
+38291,2012,12,2012-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,67.6
+38410,2013,12,2013-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,48.75
+38528,2015,12,2015-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,120.0
+38660,2016,12,2016-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,129.0
+38760,2017,12,2017-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,89.0
+38797,2018,12,2018-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,actual,Wholesale,135.0
+38990,2019,12,2019-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,"actual,aggregate",Wholesale,145.0
+39425,2019,12,2019-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.6
+39756,2020,12,2020-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.5
+39757,2020,12,2020-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.96
+40132,2021,12,2021-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.01
+40133,2021,12,2021-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,192.0
+40415,2021,12,2021-12-15,Garu,Garu Tempane,1720,10.85,-0.18,50 ,aggregate,Wholesale,192.33
+40425,2021,12,2021-12-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,4.17
+40494,2022,12,2022-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,8.24
+40516,2022,12,2022-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,50 ,aggregate,Wholesale,336.53

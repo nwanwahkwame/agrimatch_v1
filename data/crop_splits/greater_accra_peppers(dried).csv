@@ -1,0 +1,118 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+3128,2020,1,2020-01-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.61
+3129,2020,1,2020-01-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,30.67
+3153,2020,1,2020-01-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,4.33
+3154,2020,1,2020-01-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,33.16
+3846,2021,1,2021-01-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,56.11
+3848,2021,1,2021-01-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,4.67
+3959,2021,1,2021-01-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,35.36
+3960,2021,1,2021-01-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,3.22
+4654,2022,1,2022-01-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,4.42
+4661,2022,1,2022-01-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,10.95
+5104,2023,1,2023-01-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.8
+5265,2023,1,2023-01-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,27.38
+7031,2020,2,2020-02-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,203.42
+7036,2020,2,2020-02-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,17.5
+7459,2021,2,2021-02-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,203.6
+7460,2021,2,2021-02-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,2.76
+7493,2021,2,2021-02-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,3.16
+7921,2022,2,2022-02-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,8.83
+8580,2023,2,2023-02-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,1107.14
+8597,2023,2,2023-02-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,16.52
+8603,2023,2,2023-02-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,7.68
+8604,2023,2,2023-02-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,156.6
+10078,2020,3,2020-03-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,7.0
+10079,2020,3,2020-03-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,55.22
+10153,2020,3,2020-03-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.61
+10154,2020,3,2020-03-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,30.67
+10531,2021,3,2021-03-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,2.12
+10615,2021,3,2021-03-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,2.18
+10958,2022,3,2022-03-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,10.48
+11016,2022,3,2022-03-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,3.6
+11597,2023,3,2023-03-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.8
+12061,2023,3,2023-03-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,27.38
+13771,2020,4,2020-04-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,30.56
+13840,2020,4,2020-04-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,42.86
+13841,2020,4,2020-04-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,501.91
+13869,2021,4,2021-04-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,2.1
+14659,2022,4,2022-04-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,4.74
+14682,2022,4,2022-04-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,13.69
+14911,2023,4,2023-04-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,4.44
+14925,2023,4,2023-04-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,156.6
+15092,2023,4,2023-04-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,1107.14
+15093,2023,4,2023-04-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.66
+16977,2020,5,2020-05-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,32.5
+16993,2020,5,2020-05-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,38.79
+16994,2020,5,2020-05-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,255.28
+17627,2021,5,2021-05-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,2.1
+17782,2022,5,2022-05-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,16.43
+18131,2022,5,2022-05-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.14
+18638,2023,5,2023-05-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,1107.14
+18751,2023,5,2023-05-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,9.57
+18752,2023,5,2023-05-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,156.6
+18844,2023,5,2023-05-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.66
+20061,2020,6,2020-06-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,274.75
+20327,2020,6,2020-06-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,350.36
+20735,2021,6,2021-06-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,1.96
+20761,2021,6,2021-06-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,13.89
+21270,2022,6,2022-06-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.52
+21310,2022,6,2022-06-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,9.58
+21815,2023,6,2023-06-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,9.57
+21816,2023,6,2023-06-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,156.6
+21849,2023,6,2023-06-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.66
+21850,2023,6,2023-06-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,1107.14
+23401,2020,7,2020-07-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,203.42
+23428,2020,7,2020-07-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,17.5
+23631,2021,7,2021-07-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,13.89
+24097,2021,7,2021-07-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,3.2
+24283,2022,7,2022-07-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.52
+24375,2022,7,2022-07-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.24
+25113,2023,7,2023-07-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.66
+25235,2023,7,2023-07-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,9.57
+26451,2019,8,2019-08-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,35.6
+26452,2019,8,2019-08-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.94
+26468,2019,8,2019-08-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,36.59
+26487,2019,8,2019-08-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.56
+27256,2020,8,2020-08-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,17.5
+27257,2020,8,2020-08-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,203.42
+27516,2021,8,2021-08-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,3.32
+27532,2021,8,2021-08-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,13.22
+28082,2022,8,2022-08-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.48
+28102,2022,8,2022-08-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.8
+29845,2019,9,2019-09-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.65
+29847,2019,9,2019-09-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,35.66
+29971,2019,9,2019-09-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.56
+29972,2019,9,2019-09-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,36.2
+30038,2020,9,2020-09-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,17.5
+30039,2020,9,2020-09-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,208.42
+31034,2021,9,2021-09-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,3.41
+31126,2022,9,2022-09-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.8
+31164,2022,9,2022-09-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,12.32
+32882,2019,10,2019-10-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.56
+32883,2019,10,2019-10-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,36.15
+32985,2019,10,2019-10-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.61
+33053,2019,10,2019-10-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,35.67
+33524,2020,10,2020-10-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,39.07
+33525,2020,10,2020-10-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,2.5
+33614,2020,10,2020-10-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,68.4
+33710,2021,10,2021-10-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,3.75
+34265,2022,10,2022-10-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,2.4
+36108,2019,11,2019-11-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,30.67
+36109,2019,11,2019-11-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.61
+36115,2019,11,2019-11-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,28.42
+36140,2019,11,2019-11-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,5.0
+36331,2020,11,2020-11-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,2.46
+36332,2020,11,2020-11-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,40.79
+36456,2020,11,2020-11-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,50.28
+36946,2021,11,2021-11-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,10.37
+37016,2021,11,2021-11-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,3.75
+37431,2022,11,2022-11-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.8
+39109,2019,12,2019-12-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,28.42
+39110,2019,12,2019-12-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,4.41
+39239,2019,12,2019-12-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,30.67
+39240,2019,12,2019-12-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,5.61
+39731,2020,12,2020-12-15,Tema,Tema Metropolis,210,5.62,-0.02,16 ,aggregate,Wholesale,56.11
+39840,2020,12,2020-12-15,Accra,Accra Metropolis,209,5.55,-0.22,16 ,aggregate,Wholesale,35.36
+39841,2020,12,2020-12-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,2.46
+39917,2021,12,2021-12-15,Accra,Accra Metropolis,209,5.55,-0.22,,aggregate,Retail,4.42
+39945,2021,12,2021-12-15,Tema,Tema Metropolis,210,5.62,-0.02,,aggregate,Retail,6.67

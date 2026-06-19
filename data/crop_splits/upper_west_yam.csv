@@ -1,0 +1,174 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+1917,2008,1,2008-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,82.0
+2004,2009,1,2009-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,99.0
+2138,2010,1,2010-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,109.0
+2189,2011,1,2011-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,78.0
+2312,2012,1,2012-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,150.0
+2403,2013,1,2013-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,182.5
+2516,2014,1,2014-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,160.0
+2590,2015,1,2015-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+2712,2016,1,2016-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,286.0
+2756,2017,1,2017-01-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,355.0
+3435,2020,1,2020-01-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,7.96
+3603,2021,1,2021-01-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,5.04
+4578,2022,1,2022-01-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.96
+5045,2023,1,2023-01-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.21
+5046,2023,1,2023-01-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,885.42
+5414,2008,2,2008-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,66.75
+5494,2009,2,2009-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,99.0
+5587,2010,2,2010-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,107.25
+5684,2011,2,2011-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,81.4
+5778,2012,2,2012-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,152.5
+5892,2013,2,2013-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,190.0
+5996,2014,2,2014-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,182.5
+6091,2015,2,2015-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+6192,2016,2,2016-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,390.0
+6276,2017,2,2017-02-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,460.0
+6346,2018,2,2018-02-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,578.25
+6864,2020,2,2020-02-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,1.8
+7316,2021,2,2021-02-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.33
+8464,2023,2,2023-02-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,13.61
+8465,2023,2,2023-02-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,811.36
+8898,2008,3,2008-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,66.67
+9011,2009,3,2009-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,99.0
+9079,2010,3,2010-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,109.5
+9163,2011,3,2011-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,140.0
+9288,2012,3,2012-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,170.0
+9386,2013,3,2013-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,190.0
+9464,2014,3,2014-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,232.0
+9529,2015,3,2015-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+9657,2016,3,2016-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,390.0
+9784,2017,3,2017-03-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,447.0
+10228,2020,3,2020-03-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,9.29
+10409,2021,3,2021-03-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.13
+11116,2022,3,2022-03-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.14
+11117,2022,3,2022-03-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,1562.5
+11586,2023,3,2023-03-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.59
+11607,2023,3,2023-03-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,1033.85
+12198,2008,4,2008-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,90.9
+12291,2009,4,2009-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,109.5
+12401,2010,4,2010-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,104.25
+12504,2011,4,2011-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,129.75
+12576,2012,4,2012-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,160.0
+12673,2013,4,2013-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,190.0
+12780,2014,4,2014-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+12862,2015,4,2015-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,240.0
+12960,2016,4,2016-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,390.0
+13074,2017,4,2017-04-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,490.0
+13612,2020,4,2020-04-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,1.69
+14056,2021,4,2021-04-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.99
+14854,2022,4,2022-04-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.14
+14887,2022,4,2022-04-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,1562.5
+15476,2023,4,2023-04-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,22.25
+15477,2023,4,2023-04-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,569.05
+15660,2008,5,2008-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,117.25
+15747,2009,5,2009-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,129.0
+15821,2010,5,2010-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,132.0
+15918,2011,5,2011-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,140.0
+16024,2012,5,2012-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,120.0
+16123,2013,5,2013-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,190.0
+16279,2014,5,2014-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+16339,2015,5,2015-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,390.0
+16448,2016,5,2016-05-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,440.0
+16504,2017,5,2017-05-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,580.0
+16885,2020,5,2020-05-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,1.95
+17531,2021,5,2021-05-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,3.26
+17938,2022,5,2022-05-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,1562.5
+17939,2022,5,2022-05-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,6.12
+18892,2023,5,2023-05-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,569.05
+18893,2023,5,2023-05-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,22.25
+19041,2008,6,2008-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,155.0
+19100,2009,6,2009-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,145.0
+19231,2010,6,2010-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,150.0
+19270,2011,6,2011-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,146.67
+19463,2013,6,2013-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,234.0
+19621,2014,6,2014-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+19685,2015,6,2015-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,412.5
+19796,2016,6,2016-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,575.0
+19914,2017,6,2017-06-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,500.0
+20476,2021,6,2021-06-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,11.43
+21192,2022,6,2022-06-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,6.12
+21193,2022,6,2022-06-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,1562.5
+21442,2023,6,2023-06-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,569.05
+21443,2023,6,2023-06-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,22.25
+21954,2007,7,2007-07-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,90.0
+22040,2008,7,2008-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,17.0
+22112,2009,7,2009-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,140.0
+22244,2010,7,2010-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+22295,2011,7,2011-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,253.33
+22362,2012,7,2012-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,45.0
+22524,2013,7,2013-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,300.0
+22590,2014,7,2014-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+22672,2015,7,2015-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,490.0
+22773,2016,7,2016-07-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,660.0
+22876,2017,7,2017-07-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,320.0
+23048,2020,7,2020-07-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,1.8
+24466,2022,7,2022-07-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,6.12
+24467,2022,7,2022-07-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,1562.5
+24746,2023,7,2023-07-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,22.25
+24757,2023,7,2023-07-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,1033.85
+25357,2007,8,2007-08-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,74.0
+25400,2008,8,2008-08-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,133.3
+25496,2009,8,2009-08-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,66.35
+25589,2010,8,2010-08-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,125.0
+25694,2011,8,2011-08-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,163.33
+25872,2013,8,2013-08-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,190.0
+26001,2014,8,2014-08-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+26030,2016,8,2016-08-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,660.0
+26603,2019,8,2019-08-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,7.14
+27065,2020,8,2020-08-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.04
+27568,2021,8,2021-08-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,3.52
+28488,2007,9,2007-09-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,53.39
+28526,2008,9,2008-09-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,75.0
+28629,2009,9,2009-09-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,53.7
+28761,2010,9,2010-09-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,75.0
+28842,2011,9,2011-09-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,81.5
+28894,2012,9,2012-09-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,95.0
+29004,2013,9,2013-09-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,165.0
+29108,2014,9,2014-09-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+29256,2017,9,2017-09-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,364.48
+29694,2019,9,2019-09-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,8.18
+30181,2020,9,2020-09-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.27
+30847,2021,9,2021-09-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,3.2
+31051,2022,9,2022-09-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,770.87
+31058,2022,9,2022-09-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,6.25
+31573,2007,10,2007-10-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,66.0
+31629,2008,10,2008-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,62.5
+31686,2009,10,2009-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,99.0
+31829,2010,10,2010-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,86.75
+31926,2011,10,2011-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,90.0
+32028,2012,10,2012-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,112.5
+32061,2013,10,2013-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,145.0
+32258,2014,10,2014-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+32347,2015,10,2015-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,208.0
+32432,2016,10,2016-10-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,274.0
+32910,2019,10,2019-10-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,8.57
+33921,2021,10,2021-10-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.61
+34452,2022,10,2022-10-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,4.85
+34474,2022,10,2022-10-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,aggregate,Wholesale,770.87
+34684,2007,11,2007-11-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,63.67
+34763,2008,11,2008-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,76.0
+34826,2009,11,2009-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,99.0
+34945,2010,11,2010-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,76.25
+35082,2011,11,2011-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,90.0
+35182,2012,11,2012-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,125.0
+35207,2013,11,2013-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,185.0
+35295,2014,11,2014-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+35380,2015,11,2015-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,235.0
+35519,2016,11,2016-11-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,343.33
+35716,2019,11,2019-11-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,8.89
+36860,2021,11,2021-11-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,2.88
+37919,2007,12,2007-12-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,67.17
+38016,2008,12,2008-12-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,83.0
+38086,2009,12,2009-12-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,99.0
+38139,2010,12,2010-12-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,90.0
+38172,2011,12,2011-12-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,110.0
+38303,2012,12,2012-12-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,160.0
+38422,2013,12,2013-12-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,175.0
+38479,2014,12,2014-12-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,220.0
+38545,2015,12,2015-12-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,260.0
+38651,2016,12,2016-12-15,Wa,Wa Municipal,222,10.05,-2.48,100 ,actual,Wholesale,447.5
+38744,2017,12,2017-12-15,Wa,Wa Municipal,222,10.05,-2.48,250 ,actual,Wholesale,526.32
+39349,2019,12,2019-12-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,8.24
+39435,2020,12,2020-12-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,11.54
+40055,2021,12,2021-12-15,Wa,Wa Municipal,222,10.05,-2.48,,aggregate,Retail,3.04

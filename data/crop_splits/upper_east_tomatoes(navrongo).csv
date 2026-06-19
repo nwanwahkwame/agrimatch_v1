@@ -1,0 +1,77 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+3428,2020,1,2020-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,38.06
+3615,2021,1,2021-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,6.32
+3616,2021,1,2021-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,38.06
+4474,2022,1,2022-01-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.5
+4505,2022,1,2022-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+4919,2023,1,2023-01-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+5061,2023,1,2023-01-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,2.39
+6770,2020,2,2020-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.25
+6771,2020,2,2020-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,39.09
+6800,2020,2,2020-02-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.0
+7231,2021,2,2021-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,306.79
+7232,2021,2,2021-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+7276,2021,2,2021-02-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,8.69
+7277,2021,2,2021-02-15,Garu,Garu Tempane,1720,10.85,-0.18,52 ,aggregate,Wholesale,618.31
+8437,2023,2,2023-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,5.71
+8438,2023,2,2023-02-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,33.54
+8446,2023,2,2023-02-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,2.39
+10496,2021,3,2021-03-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,6.67
+10499,2021,3,2021-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+11127,2022,3,2022-03-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.5
+11929,2023,3,2023-03-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,2.44
+11970,2023,3,2023-03-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+13542,2020,4,2020-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.66
+13543,2020,4,2020-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,181.26
+14814,2022,4,2022-04-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.5
+14815,2022,4,2022-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+14954,2023,4,2023-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,33.54
+14955,2023,4,2023-04-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,8.29
+16852,2020,5,2020-05-15,Garu,Garu Tempane,1720,10.85,-0.18,52 ,aggregate,Wholesale,84.81
+16869,2020,5,2020-05-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,2.5
+17045,2020,5,2020-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,2.99
+17046,2020,5,2020-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,79.48
+17921,2022,5,2022-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+18888,2023,5,2023-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,33.54
+18909,2023,5,2023-05-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,8.29
+20038,2020,6,2020-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,47.91
+21164,2022,6,2022-06-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.5
+21483,2023,6,2023-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,33.54
+21502,2023,6,2023-06-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,8.29
+23136,2020,7,2020-07-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.0
+23166,2020,7,2020-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,39.09
+23180,2020,7,2020-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.25
+23772,2021,7,2021-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+24441,2022,7,2022-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+24725,2023,7,2023-07-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,8.29
+26429,2019,8,2019-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,65.83
+27055,2020,8,2020-08-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,6.88
+27119,2020,8,2020-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.25
+27120,2020,8,2020-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,98.63
+27554,2021,8,2021-08-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.58
+28252,2022,8,2022-08-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.5
+28279,2022,8,2022-08-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,6.82
+29723,2019,9,2019-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,65.83
+30149,2020,9,2020-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,90.42
+30168,2020,9,2020-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,4.0
+30733,2021,9,2021-09-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+32943,2019,10,2019-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,65.83
+32966,2019,10,2019-10-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,1.7
+33422,2020,10,2020-10-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,7.37
+33962,2021,10,2021-10-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.58
+34091,2021,10,2021-10-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+34507,2022,10,2022-10-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,6.98
+35724,2019,11,2019-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,65.83
+36267,2020,11,2020-11-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,7.37
+36305,2020,11,2020-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,34.17
+36306,2020,11,2020-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,6.32
+36877,2021,11,2021-11-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.5
+37053,2021,11,2021-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+37343,2022,11,2022-11-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+37402,2022,11,2022-11-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,6.08
+39330,2019,12,2019-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,41.53
+39459,2020,12,2020-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,52 ,aggregate,Wholesale,38.06
+39460,2020,12,2020-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,6.32
+40437,2021,12,2021-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14
+40446,2021,12,2021-12-15,Garu,Garu Tempane,1720,10.85,-0.18,,aggregate,Retail,3.5
+40466,2022,12,2022-12-15,Bolga,Bolgatanga Municipal,221,10.79,-0.85,,aggregate,Retail,3.14

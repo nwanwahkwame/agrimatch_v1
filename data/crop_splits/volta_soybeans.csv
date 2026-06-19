@@ -1,0 +1,114 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+3407,2020,1,2020-01-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.16
+4032,2021,1,2021-01-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,8.19
+4595,2022,1,2022-01-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,7.86
+5032,2023,1,2023-01-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,15.11
+5033,2023,1,2023-01-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,67.39
+5069,2023,1,2023-01-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,9.67
+5241,2023,1,2023-01-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,219.96
+5243,2023,1,2023-01-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,12.13
+6885,2020,2,2020-02-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,12.0
+6887,2020,2,2020-02-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,20.0
+6915,2020,2,2020-02-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,12.67
+7385,2021,2,2021-02-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,4.64
+7648,2022,2,2022-02-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,2.26
+7649,2022,2,2022-02-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,61.15
+8219,2023,2,2023-02-15,Ho,Ho Municipal,219,6.6,0.47,109 ,aggregate,Wholesale,154.25
+8220,2023,2,2023-02-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,5.66
+8692,2023,2,2023-02-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,11.62
+8693,2023,2,2023-02-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,317.99
+8737,2023,2,2023-02-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,9.22
+8738,2023,2,2023-02-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,113.83
+10177,2020,3,2020-03-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.49
+10392,2021,3,2021-03-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,4.39
+11397,2022,3,2022-03-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,6.61
+11407,2022,3,2022-03-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,77.02
+11434,2022,3,2022-03-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,7.67
+11466,2023,3,2023-03-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,236.92
+11467,2023,3,2023-03-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,15.31
+11624,2023,3,2023-03-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,119.63
+11625,2023,3,2023-03-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,19.44
+11638,2023,3,2023-03-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,10.0
+13680,2020,4,2020-04-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.92
+13764,2020,4,2020-04-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,4.38
+14075,2021,4,2021-04-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,5.83
+14725,2022,4,2022-04-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,9.0
+14761,2022,4,2022-04-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,92.34
+14762,2022,4,2022-04-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,8.13
+15191,2023,4,2023-04-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,7.45
+15192,2023,4,2023-04-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,194.13
+15233,2023,4,2023-04-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,2.0
+15234,2023,4,2023-04-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,569.69
+15515,2023,4,2023-04-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.38
+16803,2020,5,2020-05-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,20.0
+16804,2020,5,2020-05-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,4.22
+16895,2020,5,2020-05-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,3.03
+17506,2021,5,2021-05-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,6.33
+18279,2023,5,2023-05-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,3.33
+18280,2023,5,2023-05-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,160.28
+18302,2023,5,2023-05-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.24
+18413,2023,5,2023-05-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,6.88
+18414,2023,5,2023-05-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,334.53
+20097,2020,6,2020-06-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,8.8
+20098,2020,6,2020-06-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,20.0
+20454,2021,6,2021-06-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,3.78
+21549,2023,6,2023-06-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,374.77
+21550,2023,6,2023-06-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,7.13
+21624,2023,6,2023-06-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.42
+21653,2023,6,2023-06-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,160.28
+21654,2023,6,2023-06-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,3.33
+23028,2020,7,2020-07-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,12.67
+23553,2020,7,2020-07-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,20.0
+23554,2020,7,2020-07-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,12.0
+23695,2021,7,2021-07-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,9.0
+23751,2021,7,2021-07-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,9.77
+23768,2021,7,2021-07-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,82.67
+24204,2022,7,2022-07-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,6.37
+24205,2022,7,2022-07-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,67.39
+24661,2023,7,2023-07-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,8.54
+24664,2023,7,2023-07-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,142.23
+24788,2023,7,2023-07-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.38
+24851,2023,7,2023-07-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,67.11
+24852,2023,7,2023-07-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,3.33
+26590,2019,8,2019-08-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.15
+27206,2020,8,2020-08-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,12.0
+27207,2020,8,2020-08-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,20.0
+27653,2021,8,2021-08-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,9.0
+27947,2022,8,2022-08-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,48.42
+27948,2022,8,2022-08-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,7.9
+28297,2022,8,2022-08-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,3.91
+28302,2022,8,2022-08-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,67.39
+28303,2022,8,2022-08-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,6.37
+29702,2019,9,2019-09-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.51
+29830,2019,9,2019-09-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,2.04
+30368,2020,9,2020-09-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,20.0
+30378,2020,9,2020-09-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,12.0
+30878,2021,9,2021-09-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,7.2
+31076,2022,9,2022-09-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,6.11
+31191,2022,9,2022-09-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,8.21
+31192,2022,9,2022-09-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,70.32
+31231,2022,9,2022-09-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,15.11
+31232,2022,9,2022-09-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,67.39
+33490,2020,10,2020-10-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.55
+33968,2021,10,2021-10-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,5.83
+34460,2022,10,2022-10-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,4.39
+34550,2022,10,2022-10-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,12.82
+34551,2022,10,2022-10-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,137.25
+34592,2022,10,2022-10-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,12.22
+34593,2022,10,2022-10-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,67.39
+35737,2019,11,2019-11-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.56
+35859,2019,11,2019-11-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,1.37
+36279,2020,11,2020-11-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.55
+37239,2021,11,2021-11-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,6.11
+37378,2022,11,2022-11-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,7.86
+37494,2022,11,2022-11-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,11.32
+37503,2022,11,2022-11-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,131.4
+37631,2022,11,2022-11-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,67.39
+37632,2022,11,2022-11-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,6.37
+39301,2019,12,2019-12-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,2.93
+39409,2019,12,2019-12-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,1.37
+40511,2022,12,2022-12-15,Ho,Ho Municipal,219,6.6,0.47,,aggregate,Retail,9.0
+40631,2022,12,2022-12-15,Nkwanta,Nkwanta South,1733,8.26,0.52,,aggregate,Retail,8.13
+40632,2022,12,2022-12-15,Nkwanta,Nkwanta South,1733,8.26,0.52,109 ,aggregate,Wholesale,166.68
+40645,2022,12,2022-12-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,,aggregate,Retail,15.11
+40646,2022,12,2022-12-15,Hohoe,Hohoe Municipal,2802,7.15,0.47,109 ,aggregate,Wholesale,67.39

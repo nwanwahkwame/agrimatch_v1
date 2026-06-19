@@ -1,0 +1,4 @@
+Unnamed: 0,year,month,date,city,market_sold_at,market_id,latitude,longitude,unit(KG),price_flag,price_type,cedi_price
+27061,2020,8,2020-08-15,Wa,Wa Municipal,222,10.05,-2.48,109 ,aggregate,Wholesale,261.6
+30156,2020,9,2020-09-15,Wa,Wa Municipal,222,10.05,-2.48,109 ,aggregate,Wholesale,305.2
+31054,2022,9,2022-09-15,Wa,Wa Municipal,222,10.05,-2.48,109 ,aggregate,Wholesale,265.91
